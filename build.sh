@@ -33,11 +33,15 @@ CHAPTERS=(
 echo "Building ${OUTPUT} with engine=${PDF_ENGINE}..."
 
 if [ "$FORMAT" = "pdf" ]; then
+  FONT_SIZE="${FONT_SIZE:-13pt}"
   pandoc "${CHAPTERS[@]}" \
     --output "$OUTPUT" \
     --pdf-engine="$PDF_ENGINE" \
     --toc \
     --toc-depth=2 \
+    --variable fontsize="$FONT_SIZE" \
+    --variable margin-x=2cm \
+    --variable margin-y=2cm \
     --metadata title="TOEFL iBT 2026 · 132-Day Sprint Plan" \
     --metadata author="Personal study plan" \
     --metadata date="2026-05-17 → 2026-09-26"
