@@ -20,12 +20,14 @@ You do this 4 times (3 × 4 = 12 days) — with **Day 7 inserted as a deliberate
 
 ### Mock source plan (all free — $0 total)
 
-| Mock | Source | Why this one here |
-|---|---|---|
-| 1 | **R-FREE-1** Magoosh free 2026 practice test (https://magoosh.com/toefl/toefl-practice-test/) | Full sections, free signup, fresh content. Calibrate yourself before the higher-stakes mocks. |
-| 2 | **R-FREE-3** TestSucceed 2026 sample materials (https://testsucceed.com/materials/tests/toefl_new) | Has examples for every new task type — broad coverage. |
-| 3 | **R-OFF-1** ETS TestReady free-tier full mock (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) | Official scoring engine. **This is the one where you must hit ≥ 100.** Use whatever full adaptive mock is included in your TestReady free tier. |
-| 4 | **R-OFF-2** ETS Sample Test Jan 2026 (https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html) (retake) | Most format-accurate free option. You did this in Ch.1 — 4 months later you've forgotten enough that the retake is honest. Compare scaled score to your Day 2–3 baseline = headline progress number. |
+- **Mock 1** → **R-FREE-1** Magoosh free 2026 practice test (https://magoosh.com/toefl/toefl-practice-test/)
+  - _Why this one here:_ Full sections, free signup, fresh content. Calibrate yourself before the higher-stakes mocks.
+- **Mock 2** → **R-FREE-3** TestSucceed 2026 sample materials (https://testsucceed.com/materials/tests/toefl_new)
+  - _Why this one here:_ Has examples for every new task type — broad coverage.
+- **Mock 3** → **R-OFF-1** ETS TestReady free-tier full mock (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html)
+  - _Why this one here:_ Official scoring engine. **This is the one where you must hit ≥ 100.** Use whatever full adaptive mock is included in your TestReady free tier.
+- **Mock 4** → **R-OFF-2** ETS Sample Test Jan 2026 (https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html) (retake)
+  - _Why this one here:_ Most format-accurate free option. You did this in Ch.1 — 4 months later you've forgotten enough that the retake is honest. Compare scaled score to your Day 2–3 baseline = headline progress number.
 
 > **Why mix sources?** Same-source repetition trains you on that source's quirks (item style, scoring tendency), not the test itself. Mixing forces generalization — closer to real-exam behavior.
 >

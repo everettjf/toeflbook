@@ -7,19 +7,19 @@
 
 ## 0 · How to read the codes (R-XXX-N)
 
-Every resource in this book has a short code like **R-OFF-1** or **R-FREE-3**. The chapters reference these codes instead of repeating full names + URLs. Format is **`R-<category>-<number>`**:
+Every resource in this book has a short code like **R-OFF-1** or **R-FREE-3**. The chapters reference these codes instead of repeating full names + URLs. Format is **`R-<category>-<number>`**.
 
-| Prefix | Stands for | Category | Section | Example |
-|---|---|---|---|---|
-| **R-OFF-** | **OFF**icial | ETS official materials | § 1 | R-OFF-1 = ETS TestReady |
-| **R-AI-** | **AI** | AI feedback / scoring tools | § 2 | R-AI-1 = PrepEx (Petra) |
-| **R-ANKI-** | **ANKI** | Anki vocabulary decks + app | § 3 | R-ANKI-1 = 4000 Essential English Words |
-| **R-SHAD-** | **SHAD**owing | Shadowing source material | § 4 | R-SHAD-1 = TED-Ed |
-| **R-FREE-** | **FREE** | Free practice test sources | § 5 | R-FREE-1 = Magoosh free 2026 test |
-| **R-REAL-** | **REAL**-world | Real-world academic input | § 6 | R-REAL-4 = MIT OpenCourseWare |
-| **R-REF-** | **REF**erence | Research papers / format guides | § 7 | R-REF-1 = Liu 2014 ETS study |
+**The 7 category prefixes:**
 
-The number is just the order within that category. So **R-SHAD-3** = the 3rd item in the Shadowing section (Scientific American 60-Second Science).
+- **`R-OFF-`** — **OFFicial** · ETS official materials · see § 1 · _e.g._ R-OFF-1 = ETS TestReady
+- **`R-AI-`** — **AI** · AI feedback / scoring tools · see § 2 · _e.g._ R-AI-1 = PrepEx (Petra)
+- **`R-ANKI-`** — **ANKI** · Anki vocabulary decks + app · see § 3 · _e.g._ R-ANKI-1 = 4000 Essential English Words
+- **`R-SHAD-`** — **SHADowing** · Shadowing source material · see § 4 · _e.g._ R-SHAD-1 = TED-Ed
+- **`R-FREE-`** — **FREE** · Free practice test sources · see § 5 · _e.g._ R-FREE-1 = Magoosh free 2026 test
+- **`R-REAL-`** — **REAL-world** · Real-world academic input · see § 6 · _e.g._ R-REAL-4 = MIT OpenCourseWare
+- **`R-REF-`** — **REFerence** · Research papers / format guides · see § 7 · _e.g._ R-REF-1 = Liu 2014 ETS study
+
+The trailing number is just the order within that category. So **R-SHAD-3** = the 3rd item in the Shadowing section (Scientific American 60-Second Science).
 
 **When a chapter says "Use R-OFF-1":** flip to § 1 of this file, find R-OFF-1, use the URL and instructions there.
 
