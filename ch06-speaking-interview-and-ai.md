@@ -1,6 +1,6 @@
-# Ch.6 · Speaking — Interview + AI Dialogue (7/26 – 8/8)
+# Ch.6 · Speaking — Interview + AI Dialogue (7/27 – 8/9)
 
-> **Days:** 14 (Day 1 = Sun 7/26, Day 14 = Sat 8/8)
+> **Days:** 14 (Day 1 = Mon 7/27, Day 14 = Sun 8/9)
 > **Emphasis:** Speaking Task 2 (Interview, 45-sec spontaneous answers). Heavy use of conversational AI.
 > **Skill coverage:** Every day touches ≥ 2 skills. Anki + Shadowing floor.
 > **Deliverables:** 45-sec Interview answers with reliable **Idea / Reason / Tie-in** structure + 4 distinct topic categories rehearsed + AI delivery score trending up across chapter.
@@ -18,7 +18,7 @@ The new TOEFL 2026 Interview task asks 4 questions, each 45 sec, **with no prepa
 Standard prep mistake: students "prepare" 50 canned topics. The new AI scorer **detects canned answers** and penalizes them. What works instead:
 
 1. **Structural fluency** — Idea (0–15s) → Reason (15–30s) → Tie-in (30–45s). Apply *any* topic, on the fly.
-2. **Volume of spontaneous reps** — only a conversational AI (**R-AI-1 PrepEx Petra**) can give you 50+ unique reps in 2 weeks.
+2. **Volume of spontaneous reps** — only a conversational AI (**R-AI-1** PrepEx Petra, https://prepex.ai) can give you 50+ unique reps in 2 weeks.
 3. **Delivery > complexity** — clarity, pace, intelligibility beat vocabulary fireworks.
 
 ---
@@ -38,7 +38,7 @@ Standard prep mistake: students "prepare" 50 canned topics. The new AI scorer **
 
 **Three changes:**
 
-1. **Daily 10-min Petra (R-AI-1) Interview session** is added between Anki and Shadowing.
+1. **Daily 10-min Petra (R-AI-1, https://prepex.ai) Interview session** is added between Anki and Shadowing.
 2. **Sunday MAIN** = 4-item Interview micro-mock (mimics real test).
 3. **Recording archive**: every Interview recording saved with date and topic; weekly comparison built into Day 7/14.
 
@@ -52,7 +52,7 @@ Standard prep mistake: students "prepare" 50 canned topics. The new AI scorer **
 - **Friday** · MAIN = Reading · SECONDARY = Speaking
 - **Saturday** · MAIN = L+S combined · SECONDARY = Writing — Discussion
 
-Weekly counts: S = 1 MAIN + 2 SEC + 1 combined + 7 Petra micro = 11; R = 2 MAIN + 1 SEC; L = 1 MAIN + 1 SEC + 1 combined; W = 1 MAIN + 2 SEC. ✅
+Weekly counts: S = 2 MAIN + 2 SEC + 1 combined + 7 Petra micro = 12; R = 2 MAIN + 1 SEC; L = 1 MAIN + 1 SEC + 1 combined; W = 1 MAIN + 2 SEC. ✅
 
 ---
 
@@ -60,13 +60,15 @@ Weekly counts: S = 1 MAIN + 2 SEC + 1 combined + 7 Petra micro = 11; R = 2 MAIN 
 
 ---
 
-### 📅 Day 1 · Sun 7/26 — Interview 4-mock baseline
+### 📅 Day 1 · Mon 7/27 — Interview 4-mock baseline
 
-- [ ] **0:00–0:15** Anki
-- [ ] **0:15–0:25** **Petra (R-AI-1) Interview** — 2 questions, full 45 sec each. Save recordings.
-- [ ] **0:25–0:40** Shadowing 15 min (TED-Ed)
-- [ ] **0:40–1:10** **Interview 4-mock** — **R-OFF-1** TestReady → Speaking → Interview, 4 questions in a row. Record each. Then upload to **R-AI-2** (FluentPrep) for full rubric scoring.
-- [ ] **1:10–1:30** **Writing SECONDARY** — Email 10 min + error log
+> **Today's focus:** Lock in a baseline Interview recording set + AI score before any drilling, so Day 8 / Day 14 have something to measure against.
+
+- [ ] **0:00–0:15** Anki — 20 new + ~60 reviews from **R-ANKI-1** (https://ankiweb.net/shared/info/1104981491), Book 4–6.
+- [ ] **0:15–0:25** **Petra Interview** — **R-AI-1** (https://prepex.ai) → log in → start a free Interview session → 2 questions, full 45 sec each. Record into phone Voice Memos as `D1_Petra_Q1` / `D1_Petra_Q2`.
+- [ ] **0:25–0:40** Shadowing 15 min — pick one TED-Ed video from **R-SHAD-1** (https://ed.ted.com/lessons). Run the 3-pass protocol.
+- [ ] **0:40–1:10** **Interview 4-mock** — **R-OFF-1** TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → log in → Speaking → Interview, 4 questions in a row. Record each as `D1_Mock_Q1..Q4`. Then upload to **R-AI-2** FluentPrep (https://www.fluentprep.online/) for full rubric scoring; paste Delivery / Language / Topic numbers into the baseline log below.
+- [ ] **1:10–1:30** **Writing SECONDARY** — 1 Email task, 10 min timed; copy 2 sentence-level errors into your error log.
 
 **Baseline log:**
 ```
@@ -80,117 +82,143 @@ Day 1 Interview Baseline
 
 ---
 
-### 📅 Day 2 · Mon 7/27 — R MAIN / W SECONDARY
+### 📅 Day 2 · Tue 7/28 — R MAIN / W SECONDARY
 
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** Reading MAIN — 1 passage.
-- [ ] **1:10–1:30** Writing SECONDARY — Build a Sentence × 10 + error log
+> **Today's focus:** Protect Reading depth while keeping the daily Petra Interview floor running.
 
----
-
-### 📅 Day 3 · Tue 7/28 — L MAIN / S SECONDARY (Interview deep drill)
-
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** Listening MAIN — 1 lecture + 1 conversation.
-- [ ] **1:10–1:30** **Speaking SECONDARY — Interview deep drill** — 4 Petra questions, all **lifestyle** category today. Focus: Tie-in clarity (30–45 sec).
+- [ ] **0:00–0:40** Anki + Petra Interview ×2 (**R-AI-1**, https://prepex.ai; save as `D2_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** Reading MAIN — 1 passage on **R-OFF-1** TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Reading → next unseen passage, timed.
+- [ ] **1:10–1:30** Writing SECONDARY — Build a Sentence × 10 on TestReady; log any structure errors.
 
 ---
 
-### 📅 Day 4 · Wed 7/29 — W MAIN / R SECONDARY
+### 📅 Day 3 · Wed 7/29 — L MAIN / S SECONDARY (Interview deep drill)
 
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** Writing MAIN — Discussion, 10 min.
-- [ ] **1:10–1:30** Reading SECONDARY — Complete-the-Words OR **R-REAL-3** article + error log
+> **Today's focus:** First category-focused Interview drill — own the **lifestyle** topic block and its Tie-in segment.
+
+- [ ] **0:00–0:40** Anki + Petra Interview ×2 (`D3_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** Listening MAIN — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening: 1 lecture + 1 conversation, full note-taking; log every missed detail.
+- [ ] **1:10–1:30** **Speaking SECONDARY — Interview deep drill** — **R-AI-1** PrepEx (https://prepex.ai) → request 4 **lifestyle** questions ("how do you usually…"). Record as `D3_Lifestyle_Q1..Q4`. Focus: Tie-in clarity (30–45 sec); re-listen and mark which answer had the cleanest tie-in.
 
 ---
 
-### 📅 Day 5 · Thu 7/30 — S MAIN (Interview + L&R refresh) / L SECONDARY
+### 📅 Day 4 · Thu 7/30 — W MAIN / R SECONDARY
 
-- [ ] Anki + Petra Interview ×2 + Shadowing
+> **Today's focus:** Writing-heavy day; keep Petra reps non-negotiable to maintain Interview muscle.
+
+- [ ] **0:00–0:40** Anki + Petra Interview ×2 (`D4_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** Writing MAIN — 1 Discussion task on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), 10 min timed; save the response to your writing folder.
+- [ ] **1:10–1:30** Reading SECONDARY — either 1 Complete-the-Words on TestReady OR 1 article from **R-REAL-3** Nature News / Science News (https://www.nature.com/news · https://www.sciencenews.org). Log 5 new lexical items into Anki.
+
+---
+
+### 📅 Day 5 · Fri 7/31 — S MAIN (Interview + L&R refresh) / L SECONDARY
+
+> **Today's focus:** First mixed-category Interview block on the official platform + weekly Listen-and-Repeat preservation drill.
+
+- [ ] **0:00–0:40** Anki + Petra Interview ×2 (`D5_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
 - [ ] **0:40–1:10** **Speaking MAIN** —
-  - 4 Interview questions (mixed categories) on **R-OFF-1**
-  - **+ 7-item L&R refresh** (keep Ch.4 gain alive)
-- [ ] **1:10–1:30** Listening SECONDARY — 1 lecture + error log
+  - 4 Interview questions (mixed categories) on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → Interview; record as `D5_Mock_Q1..Q4`.
+  - **+ 7-item L&R refresh** on TestReady (keep Ch.4 gain alive); aim for ≥ 80% accuracy and log the score.
+- [ ] **1:10–1:30** Listening SECONDARY — 1 lecture on **R-OFF-1**; log every missed detail into the error log.
 
 ---
 
-### 📅 Day 6 · Fri 7/31 — R MAIN / S SECONDARY
+### 📅 Day 6 · Sat 8/1 — R MAIN / S SECONDARY
 
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** Reading MAIN — 1 passage.
-- [ ] **1:10–1:30** Speaking SECONDARY — Petra Interview × 2 + error log
+> **Today's focus:** Reading rep + a light second Petra block to push the week's Interview count past 14.
 
----
-
-### 📅 Day 7 · Sat 8/1 — L+S combined / W secondary
-
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** **L+S combined** — TED talk 10–15 min, 90-sec spoken summary, **then** answer one Petra Interview question on the talk's topic. Notice: how much does fresh-vocabulary exposure help your spontaneous output?
-- [ ] **1:10–1:30** Writing SECONDARY — Discussion, 10 min. Weekly mini-review.
+- [ ] **0:00–0:40** Anki + Petra Interview ×2 (`D6_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** Reading MAIN — 1 timed passage on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html); record accuracy in your Reading log.
+- [ ] **1:10–1:30** Speaking SECONDARY — Petra Interview ×2 (any category) on **R-AI-1** (https://prepex.ai); save as `D6_PM_Q1/Q2` and log the 1 weakest delivery tic you hear on playback.
 
 ---
 
-### 📅 Day 8 · Sun 8/2 — Interview 4-mock v2 (compare to Day 1)
+### 📅 Day 7 · Sun 8/2 — L+S combined / W secondary
 
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** **Interview 4-mock v2** — fresh 4 questions. **Re-listen to Day 1 recording first**, then go. Score via **R-AI-2**.
-- [ ] **1:10–1:30** Writing SECONDARY — Email + error log
+> **Today's focus:** Bridge listening input directly into spontaneous spoken output; close week 1 with a self-review.
 
----
-
-### 📅 Day 9 · Mon 8/3 — R MAIN / W SECONDARY
-
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** Reading MAIN — 1 passage.
-- [ ] **1:10–1:30** Writing SECONDARY — Build a Sentence × 10 + error log
+- [ ] **0:00–0:40** Anki + Petra Interview ×2 (`D7_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** **L+S combined** — pick a 10–15 min TED talk from **R-SHAD-2** (https://www.ted.com/talks; filter 5–10 min or longer), listen once, then record a 90-sec spoken summary (`D7_Summary`). Immediately ask **R-AI-1** Petra (https://prepex.ai) for 1 Interview question on the same topic; record as `D7_TopicQ`. Note in the error log: how much did the fresh vocabulary surface in your spontaneous answer?
+- [ ] **1:10–1:30** Writing SECONDARY — 1 Discussion task on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), 10 min. Then 5-min weekly mini-review: scan all 7 days of recordings, write 2 lines on what's improving and 1 line on what isn't.
 
 ---
 
-### 📅 Day 10 · Tue 8/4 — L MAIN / S SECONDARY (Interview deep drill, opinion only)
+### 📅 Day 8 · Mon 8/3 — Interview 4-mock v2 (compare to Day 1)
 
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** Listening MAIN — 1 lecture + 1 conversation.
-- [ ] **1:10–1:30** **Speaking SECONDARY — Interview** — 4 Petra questions, all **opinion** category. Focus: stating a clear stance in the first 5 sec.
+> **Today's focus:** Mid-chapter checkpoint — measurable delta vs. Day 1 baseline on the same official platform + AI scorer.
 
----
-
-### 📅 Day 11 · Wed 8/5 — W MAIN / R SECONDARY
-
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** Writing MAIN — Discussion, 10 min.
-- [ ] **1:10–1:30** Reading SECONDARY — 1 Complete-the-Words + error log
+- [ ] **0:00–0:40** Anki — continue **R-ANKI-2** Barron's Essential Words for the TOEFL (https://ankiweb.net/shared/info/973421516). + Petra Interview ×2 (`D8_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** **Interview 4-mock v2** — first re-listen to `D1_Mock_Q1..Q4` for 3 min, then **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → Interview, 4 fresh questions; record as `D8_Mock_Q1..Q4`. Upload to **R-AI-2** FluentPrep (https://www.fluentprep.online/) and paste Delivery / Language / Topic scores beside Day 1 numbers.
+- [ ] **1:10–1:30** Writing SECONDARY — 1 Email task on **R-OFF-1**, 10 min; log errors.
 
 ---
 
-### 📅 Day 12 · Thu 8/6 — S MAIN (Interview + L&R) / L SECONDARY
+### 📅 Day 9 · Tue 8/4 — R MAIN / W SECONDARY
 
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** Speaking MAIN — 4 Interview + 7 L&R items.
-- [ ] **1:10–1:30** Listening SECONDARY — 1 lecture + error log
+> **Today's focus:** Reset into week-2 rhythm; keep Reading volume up while Interview reps continue.
 
----
-
-### 📅 Day 13 · Fri 8/7 — R MAIN / S SECONDARY (Interview, hypothetical category)
-
-- [ ] Anki + Petra Interview ×2 + Shadowing
-- [ ] **0:40–1:10** Reading MAIN — 1 passage.
-- [ ] **1:10–1:30** **Speaking SECONDARY** — 4 Petra **hypothetical** questions ("If you could ... what would you do?"). + error log
+- [ ] **0:00–0:40** Anki (incl. R-ANKI-2) + Petra Interview ×2 (`D9_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** Reading MAIN — 1 timed passage on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html); log accuracy.
+- [ ] **1:10–1:30** Writing SECONDARY — Build a Sentence × 10 on TestReady; log any structure errors.
 
 ---
 
-### 📅 Day 14 · Sat 8/8 — 🎯 Bi-week review + Interview showcase
+### 📅 Day 10 · Wed 8/5 — L MAIN / S SECONDARY (Interview deep drill, opinion only)
 
-- [ ] **0:00–0:15** Anki + reviews
-- [ ] **0:15–0:30** Shadowing
-- [ ] **0:30–1:00** **🎯 Interview showcase** — 4 fresh **R-OFF-1** Interview questions, recorded, submitted to **R-AI-2** for full scoring. **Compare to Day 1 baseline.**
-- [ ] **1:00–1:30** Ch.6 Review Card + **L&R preservation check** (7 items, fresh, target ≥ 75%).
+> **Today's focus:** Second category-focused drill — drill the **opinion** stance-in-5-sec reflex.
+
+- [ ] **0:00–0:40** Anki + Petra Interview ×2 (`D10_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** Listening MAIN — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening: 1 lecture + 1 conversation, full notes; log missed details.
+- [ ] **1:10–1:30** **Speaking SECONDARY — Interview** — **R-AI-1** PrepEx (https://prepex.ai) → request 4 **opinion** questions ("do you prefer…"). Record as `D10_Opinion_Q1..Q4`. Focus: clear stance in first 5 sec; mark each playback ✓ / ✗ on that target.
+
+---
+
+### 📅 Day 11 · Thu 8/6 — W MAIN / R SECONDARY
+
+> **Today's focus:** Writing depth day; preserve daily Petra count.
+
+- [ ] **0:00–0:40** Anki + Petra Interview ×2 (`D11_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** Writing MAIN — 1 Discussion task on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), 10 min timed.
+- [ ] **1:10–1:30** Reading SECONDARY — 1 Complete-the-Words on TestReady; log unknown items into Anki.
+
+---
+
+### 📅 Day 12 · Fri 8/7 — S MAIN (Interview + L&R) / L SECONDARY
+
+> **Today's focus:** Second mixed-category Interview block + second weekly L&R preservation check.
+
+- [ ] **0:00–0:40** Anki + Petra Interview ×2 (`D12_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** Speaking MAIN — 4 Interview questions (mixed categories) on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html); record as `D12_Mock_Q1..Q4`. Then 7-item L&R refresh on TestReady; log score (target ≥ 80%).
+- [ ] **1:10–1:30** Listening SECONDARY — 1 lecture on **R-OFF-1**; log missed details.
+
+---
+
+### 📅 Day 13 · Sat 8/8 — R MAIN / S SECONDARY (Interview, hypothetical category)
+
+> **Today's focus:** Final category-focused drill — cover **hypothetical** before tomorrow's showcase.
+
+- [ ] **0:00–0:40** Anki + Petra Interview ×2 (`D13_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:40–1:10** Reading MAIN — 1 timed passage on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html); log accuracy.
+- [ ] **1:10–1:30** **Speaking SECONDARY** — **R-AI-1** PrepEx (https://prepex.ai) → request 4 **hypothetical** questions ("If you could ... what would you do?"). Record as `D13_Hypo_Q1..Q4`. In the error log note: did you commit to a single hypothetical or drift between several?
+
+---
+
+### 📅 Day 14 · Sun 8/9 — 🎯 Bi-week review + Interview showcase
+
+> **Today's focus:** Closeout — measure the chapter's actual Interview delta, lock the Ch.6 Review Card, and confirm L&R hasn't regressed.
+
+- [ ] **0:00–0:15** Anki — reviews only, no new cards.
+- [ ] **0:15–0:30** Shadowing 15 min (**R-SHAD-1**, https://ed.ted.com/lessons).
+- [ ] **0:30–1:00** **🎯 Interview showcase** — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → Interview, 4 fresh questions; record as `D14_Show_Q1..Q4`. Submit to **R-AI-2** FluentPrep (https://www.fluentprep.online/) for full rubric scoring. Paste scores into the Ch.6 Review Card below alongside Day 1 baseline numbers.
+- [ ] **1:00–1:30** Fill in the Ch.6 Review Card + run **L&R preservation check** on **R-OFF-1** (7 fresh items; target ≥ 75%); record the score in the card.
 
 ---
 
 ## 5 · Ch.6 Review Card (Day 14)
 
 ```markdown
-## Ch.6 Review (8/8)
+## Ch.6 Review (8/9)
 
 ### Showcase Interview results
 - Q1 (opinion): Delivery __ / 4   Language __ / 4   Topic __ / 4

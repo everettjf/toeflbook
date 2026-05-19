@@ -1,131 +1,129 @@
-# Ch.10 · Final Week — Pre-Exam Tune-up (9/20 – 9/26)
+# Ch.10 · Final Taper (9/21 – 9/24)
 
-> **Days:** 7 (Day 1 = Sun 9/20 → Day 7 = Sat 9/26 = **EXAM DAY**)
+> **Days:** 4 (Day 1 = Mon 9/21 → Day 4 = Thu 9/24). Then 9/25 Fri = full rest day, 9/26 Sat = **EXAM DAY**.
 > **Emphasis:** State management, micro-fixes only, no new heavy practice.
-> **Skill coverage:** Every day touches all 4 skills, but lightly.
+> **Skill coverage:** Each day touches all 4 skills lightly. Cadence drops every day.
 > **Deliverables:** Walk into the exam **rested, calibrated, and confident**.
 
 ---
 
 ## 1 · The taper logic
 
-You've done 18 weeks of work. The skills are built. The neural pathways are laid. **Adding new practice in the final week shows up as fatigue, not score gains.**
+You've done 19 weeks of work. The skills are built. The neural pathways are laid. **Adding new practice in the final week shows up as fatigue, not score gains.**
 
-This week's job is:
-1. **Maintain** what you have (Anki, Shadowing, light skill touches)
+This stretch's job:
+1. **Maintain** what you have (Anki reviews, light shadowing)
 2. **Sharpen** one or two systematic errors from Ch.9 attribution
 3. **Rest** — sleep, hydration, low cognitive load
 4. **Rehearse** the exam day until it feels routine
 
 **What NOT to do:**
-- No full mocks after Wed (Day 4)
-- No new Anki cards after Wed (only reviews)
+- No full mocks after Day 1 (Mon 9/21 mini-mock is the last one)
+- No new Anki cards from Day 2 (Tue 9/22) onward — reviews only
 - No new sources / decks / tools
-- No comparing yourself to other test takers online
+- No comparing yourself to other test-takers online
 
 ---
 
-## 2 · Daily checklists (7 days)
+## 2 · Daily checklists (4 days)
 
 ---
 
-### 📅 Day 1 · Sun 9/20 — Calibration day
+### 📅 Day 1 · Mon 9/21 — Last mini-mock + sticky-note error
 
-- [ ] **0:00–0:15** Anki — 10 new (half normal) + reviews
-- [ ] **0:15–0:30** Shadowing 15 min — a video you've shadowed before (no new material this week)
-- [ ] **0:30–1:00** **1 R-M1 set** (10 items, strict 18 min). **Goal: calibrate timing**, not score.
-- [ ] **1:00–1:20** **1 L conversation set** (5 items) + **2 Petra Interview questions**.
-- [ ] **1:20–1:30** Review yesterday's Ch.9 final attribution. Pick **one** systematic error to fix this week. Write it on a sticky note.
+> **Today's focus:** Run the last timed integration; pick the one systematic error you'll attack for the remaining 3 days.
 
----
-
-### 📅 Day 2 · Mon 9/21 — Mini-mock (last full mock)
-
-- [ ] **0:00–0:15** Anki + 5-min Shadowing warm-up
-- [ ] **0:15–1:45** **Final mini-mock** — 1 Reading section + 1 Listening section (~60 min) + 1 Email + 1 Interview question. Roughly 75 min total. **This is the last full session.**
-- [ ] Score immediately. **Don't dwell** — if it dipped, that's normal pre-exam state.
+- [ ] **0:00–0:15** Anki — 10 new (half normal) + reviews. Open **R-ANKI-4** (https://apps.ankiweb.net/) desktop / AnkiDroid → today's deck → cap new cards at 10 in deck options. **This is the last day for new cards.**
+- [ ] **0:15–0:30** Shadowing 15 min — re-use a previously-marked clip from **R-SHAD-1** (https://ed.ted.com/lessons) or **R-SHAD-2** (https://www.ted.com/talks); skip the recording pass to save energy.
+- [ ] **0:30–1:45** **Final mini-mock** — 1 Reading section + 1 Listening section (~60 min) + 1 Email + 1 Interview question. Use **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) for R/L (timed mode) and **R-AI-2** FluentPrep (https://www.fluentprep.online/) for Email + Interview scoring. Roughly 75 min total. **This is the last full session** — no pausing, no retries.
+- [ ] Score immediately and log raw scores under `D1_final_mock` in your error log. Identify **one** systematic error → write it on a physical sticky note → put it on your monitor. You will re-read it before every session for the next 3 days. **Don't dwell** on the score — if it dipped, that's normal pre-exam state.
 
 ---
 
-### 📅 Day 3 · Tue 9/22 — Targeted fix on the sticky note
+### 📅 Day 2 · Tue 9/22 — Targeted fix on the sticky note
 
-- [ ] Anki + Shadowing
-- [ ] **0:30–1:10** **Targeted fix** — only the systematic error from Day 1 sticky note. Examples:
-  - If "L lecture inference questions" → drill 3 lecture sets and only re-do the inference items
-  - If "Discussion stance ambiguity" → write 3 PEEL paragraphs focused on opening-sentence stance
-  - If "L&R memory drop on long sentences" → 10 sentence-level repetitions, 12+ word range
-- [ ] **1:10–1:30** **1 Email** (10 min strict) — last Email practice + error log
+> **Today's focus:** Spend the whole session on the one error from Day 1 — nothing else.
 
----
-
-### 📅 Day 4 · Wed 9/23 — Last full Speaking warm + Writing warm
-
-- [ ] Anki + Shadowing
-- [ ] **0:30–1:00** Speaking: 7 L&R + 4 Interview. **R-AI-2** scoring.
-- [ ] **1:00–1:20** Writing: 1 Discussion strict 10 min. **R-AI-2** scoring.
-- [ ] **1:20–1:30** Review week-to-date progress vs sticky note. **Do not add new fixes** — only refine the original one.
+- [ ] **0:00–0:30** Anki **reviews only** (no new cards from today onward — set new cards/day = 0 in deck options) + 15-min Shadowing on a re-used clip.
+- [ ] **0:30–1:10** **Targeted fix** — only the sticky-note error from Day 1. Examples:
+  - If "L lecture inference questions" → drill 3 lecture sets on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening → filter Lecture, and only re-do the inference items
+  - If "Discussion stance ambiguity" → write 3 PEEL paragraphs focused on opening-sentence stance; score on **R-AI-2** (https://www.fluentprep.online/)
+  - If "L&R memory drop on long sentences" → 10 sentence-level repetitions from **R-SHAD-3** (https://www.scientificamerican.com/podcast/60-second-science/), 12+ word range; record and self-check
+- [ ] **1:10–1:30** **1 Email** (10 min strict) on **R-OFF-1** Writing → Email — last Email practice. Log score and any grammar slip under `D2_email`.
 
 ---
 
-### 📅 Day 5 · Thu 9/24 — Light day
+### 📅 Day 3 · Wed 9/23 — Logistics + dress rehearsal
 
-> 2 days out. **Drop the load.**
+> **Today's focus:** Zero practice friction Saturday morning — every logistic decided today; rehearse the exam-morning routine end-to-end.
 
-- [ ] **0:00–0:15** Anki — **reviews only**, no new cards
-- [ ] **0:15–0:30** Shadowing 15 min — your favorite clip, low effort
-- [ ] **0:30–0:45** Listen to one **R-SHAD-3** 60-sec Science episode + summarize aloud in one sentence
-- [ ] **0:45–1:00** Read one **R-REAL-1** Economist Espresso brief (5 min)
-- [ ] No drills. No mocks. **Get 8+ hours of sleep tonight.**
-
----
-
-### 📅 Day 6 · Fri 9/25 — Logistics + rest day
-
-> 1 day out. **Rest > practice.**
-
-- [ ] **0:00–0:15** Anki reviews only
-- [ ] **0:15–0:30** Shadowing — short, easy clip
-- [ ] **0:30–0:45** **Logistics check**:
-  - Test admission ticket / confirmation email — printed or screenshot
-  - ID document — passport ready
-  - Test center location + transit time + parking (or at-home: room cleared, browser/system check completed in TestReady)
-  - Exam-day breakfast bought / planned
-  - Clothes laid out
-  - Phone alarm set for **wake time**
-  - **No screens after 22:00**. Sleep early.
-- [ ] No practice items today.
+- [ ] **0:00–0:15** Anki reviews only. If review queue >60, do 60 and stop.
+- [ ] **0:15–0:30** Shadowing — short, easy clip from **R-SHAD-4** BBC 6 Minute English (https://www.bbc.co.uk/learningenglish/english/features/6-minute-english) or a re-used favorite. Blind pass only.
+- [ ] **0:30–0:50** **Dress rehearsal** — at the exam start time (08:00 ideally) walk through the full pre-exam routine: wake, breakfast, brush, get dressed, transit/setup. Time it end-to-end. Note any gaps to fix tomorrow.
+- [ ] **0:50–1:20** **Logistics check** (everything decided NOW, not exam morning):
+  - Test admission ticket / confirmation email — printed AND saved as screenshot on phone
+  - ID document — passport ready, placed with ticket by the front door
+  - Test center location + transit time + parking (or at-home: room cleared, browser/system check completed via **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Home Test → System Check)
+  - Exam-day breakfast bought / planned — same one used before any Ch.9 mock
+  - Clothes laid out (layers — test rooms run cold)
+  - Phone alarm set for wake time + backup alarm 5 min later
+- [ ] **1:20–1:30** Re-read the sticky note + rewrite it in one sharper sentence if needed. **Don't add new fixes** — only refine the original one.
 
 ---
 
-### 📅 Day 7 · Sat 9/26 — 🎯 EXAM DAY
+### 📅 Day 4 · Thu 9/24 — Pure taper
+
+> **Today's focus:** Keep the language brain warm; protect sleep and energy. 2 days out — drop the load.
+
+- [ ] **0:00–0:15** Anki — reviews only, queue capped at 60. Verify new cards/day is still set to 0 in deck options.
+- [ ] **0:15–0:30** Shadowing 15 min — your favorite clip, low effort. Skip the recording pass; just transcript-along.
+- [ ] **0:30–0:45** Listen to one **R-SHAD-3** (https://www.scientificamerican.com/podcast/60-second-science/) 60-sec Science episode + summarize aloud in one sentence. Don't grade yourself.
+- [ ] **0:45–1:00** Read one **R-REAL-1** Economist Espresso brief (https://www.economist.com/the-world-in-brief) — 5 min, single read-through, no note-taking.
+- [ ] No drills. No mocks. **Get 8+ hours of sleep tonight.** Caffeine cutoff by 14:00.
+
+---
+
+## 3 · Pre-exam rest day · Fri 9/25 (1 day out)
+
+> **Today's focus:** Rest > anything else. The work is done.
+
+- [ ] **5 min** Anki reviews if there's a queue. If queue >30, do 30 and stop. No new cards.
+- [ ] **5 min** Shadow a 1-min clip from **R-SHAD-3** (https://www.scientificamerican.com/podcast/60-second-science/) — blind pass only. This is the only language work today.
+- [ ] **Re-confirm logistics** from Day 3 (ticket, ID, transit, breakfast, alarms). Place everything by the door.
+- [ ] **No screens after 22:00.** Sleep early. Caffeine cutoff by 12:00.
+
+---
+
+## 4 · 🎯 EXAM DAY · Sat 9/26
 
 **08:00 AM — TOEFL iBT 2026**
 
-#### Pre-exam (60–90 min before)
-- [ ] Wake at your rehearsed time
-- [ ] Same breakfast as your rehearsals
-- [ ] **5-min Shadowing** — your favorite clip. Wakes up the language brain.
-- [ ] **2-min Anki review** — quick scan of yesterday's reviews. No new cards.
-- [ ] Mantra: *"Module 1 accuracy. Single-pass. Slow start. Trust the work."*
+### Pre-exam (60–90 min before)
+- [ ] Wake at your rehearsed time (same as Ch.9 mocks and Day 3 dress rehearsal).
+- [ ] Same breakfast as your rehearsals — do not experiment.
+- [ ] **5-min Shadowing** — your favorite clip on phone. Wakes up the language brain. One blind pass, headphones on.
+- [ ] **2-min Anki review** — quick scan of yesterday's reviews in AnkiWeb (https://ankiweb.net) or AnkiDroid. No new cards.
+- [ ] Mantra: *"Module 1 accuracy. Single-pass. Slow start. Trust the work."* Say it once aloud before leaving.
 
-#### During the exam
-- **Reading**: First 2 items, **deliberately read slowly**. Reset your reading speed before pace-setting.
+### During the exam
+- **Reading**: First 2 items, **deliberately read slowly**. Reset your reading speed before pace-setting. Target ≥ 80% Module 1 accuracy.
 - **Listening**: Notes from the first sentence. Don't wait to see if "it'll be important."
 - **Speaking**:
-  - L&R — breathe before each item, stay in the speaker's rhythm
+  - Listen & Repeat — breathe before each item, stay in the speaker's rhythm
   - Interview — first 5 sec: state your stance clearly, then unfold
 - **Writing**:
   - Email — greet / context / ask / close. Stop at 100 words.
-  - Discussion — PEEL: Point in opening sentence. Build a Sentence — read each option twice.
+  - Discussion — PEEL: Point in opening sentence.
+  - Build a Sentence — read each option twice.
 
-#### After the exam
-- Walk away. Don't re-litigate.
+### After the exam
+- Walk away. Don't re-litigate items with yourself or others.
 - Eat something good.
-- Score arrives in 72 hours via **R-OFF-1**.
+- Score arrives in 72 hours via **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → My Tests → Score Report.
 
 ---
 
-## 3 · Post-Exam (within 72 hours)
+## 5 · Post-Exam reflection (within 72 hours)
 
 ```markdown
 ## Exam Reflection
@@ -153,7 +151,7 @@ This week's job is:
 
 ---
 
-## 4 · If the score isn't what you wanted
+## 6 · If the score isn't what you wanted
 
 1. **Wait 72 hours** before deciding anything. Initial reactions are biased by exhaustion.
 2. **Look at the section breakdown.** A retake should target the weakest single section — not "study everything more."
@@ -162,10 +160,10 @@ This week's job is:
 
 ---
 
-## 5 · The one thing to remember
+## 7 · The one thing to remember
 
-You spent 132 days building infrastructure: Anki habit, Shadowing reflex, error attribution, weekly rotation, mock execution, taper discipline. The score is downstream of the system.
+You spent 130 days building infrastructure: Anki habit, Shadowing reflex, error attribution, weekly rotation, mock execution, taper discipline. The score is downstream of the system.
 
 **Trust the system. Execute the test.**
 
-Good luck. 🎯
+Good luck.

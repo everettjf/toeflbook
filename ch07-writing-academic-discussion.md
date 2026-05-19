@@ -1,6 +1,6 @@
-# Ch.7 · Writing — Academic Discussion (8/9 – 8/22)
+# Ch.7 · Writing — Academic Discussion (8/10 – 8/23)
 
-> **Days:** 14 (Day 1 = Sun 8/9, Day 14 = Sat 8/22)
+> **Days:** 14 (Day 1 = Mon 8/10, Day 14 = Sun 8/23)
 > **Emphasis:** Writing Task 3 — Academic Discussion (200-word forum post in 10 min).
 > **Skill coverage:** Every day touches ≥ 2 skills. Anki + Shadowing floor.
 > **Deliverables:** Discussion 200 words in **≤ 10 min** with clear PEEL structure + Milestone 3 (Email ≤ 10 min, Discussion ≤ 10 min on Day 14) + integrated reading–writing connection drilled.
@@ -55,7 +55,7 @@ The AI scorer rewards: **stance clarity, idea novelty, logical structure, and na
 - **Friday** · MAIN = Reading · SECONDARY = Speaking
 - **Saturday** · MAIN = L+S combined · SECONDARY = **Writing — Build a Sentence + Email**
 
-Weekly counts: W = 2 MAIN + 2 SEC + 7 PEEL micro-drills = 11; R = 2 MAIN + 1 SEC; L = 1 MAIN + 1 SEC + 1 combined + 1 SEC = 4; S = 1 MAIN + 2 SEC + 1 combined = 4. ✅
+Weekly counts: W = 2 MAIN + 2 SEC + 7 PEEL micro-drills = 11; R = 2 MAIN + 1 SEC; L = 1 MAIN + 2 SEC + 1 combined = 4; S = 1 MAIN + 2 SEC + 1 combined = 4. ✅
 
 ---
 
@@ -63,13 +63,15 @@ Weekly counts: W = 2 MAIN + 2 SEC + 7 PEEL micro-drills = 11; R = 2 MAIN + 1 SEC
 
 ---
 
-### 📅 Day 1 · Sun 8/9 — Discussion exam-mock baseline
+### 📅 Day 1 · Mon 8/10 — Discussion exam-mock baseline
 
-- [ ] **0:00–0:15** Anki
+> **Today's focus:** Establish Discussion baseline draft + AI rubric snapshot for end-of-chapter comparison.
+
+- [ ] **0:00–0:15** Anki — 20 new + ~60 reviews from current deck (R-ANKI-1 Book 4–6 or R-ANKI-2).
 - [ ] **0:15–0:20** **PEEL micro-drill** — pick random topic ("Should universities require physical education?"), write one PEEL paragraph (~80 words). 5 min strict.
-- [ ] **0:20–0:35** Shadowing 15 min
-- [ ] **0:35–1:10** **Writing MAIN — Discussion exam-mock** — **R-OFF-1** TestReady → Writing → Academic Discussion. **Strict 10 min**. Score via **R-AI-2** (FluentPrep).
-- [ ] **1:10–1:30** **Listening SECONDARY** — 1 lecture (6 items) + error log
+- [ ] **0:20–0:35** Shadowing 15 min — current phase source (e.g. R-SHAD-2 TED Talks https://www.ted.com/talks).
+- [ ] **0:35–1:10** **Writing MAIN — Discussion exam-mock** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → log in → Writing section → Academic Discussion. **Strict 10 min** timer. Paste draft into **R-AI-2** FluentPrep (https://www.fluentprep.online/) for rubric scores. Save draft as `D1_Discussion_baseline.md`.
+- [ ] **1:10–1:30** **Listening SECONDARY** — 1 lecture (6 items) on R-OFF-1 TestReady Listening → log missed items in your error log.
 
 **Baseline log:**
 ```
@@ -82,118 +84,144 @@ Day 1 Discussion Baseline
 
 ---
 
-### 📅 Day 2 · Mon 8/10 — R MAIN / W SECONDARY (Email)
+### 📅 Day 2 · Tue 8/11 — R MAIN / W SECONDARY (Email)
+
+> **Today's focus:** Drill reading-to-writing transfer by paraphrasing a passage thesis; keep Email muscle warm.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** Reading MAIN — 1 passage, strict 15 min, + **paraphrase passage thesis** in 1 sentence after.
-- [ ] **1:10–1:30** Writing SECONDARY — Email 10 min + error log
+- [ ] **0:35–1:10** Reading MAIN — 1 passage on R-OFF-1 TestReady → Reading section, strict 15 min, + **paraphrase passage thesis** in 1 sentence. Log the paraphrase under `D2_thesis_paraphrase`.
+- [ ] **1:10–1:30** Writing SECONDARY — Email task on R-OFF-1 TestReady → Writing → Email, strict 10 min. Log grammar/register errors.
 
 ---
 
-### 📅 Day 3 · Tue 8/11 — L MAIN / S SECONDARY
+### 📅 Day 3 · Wed 8/12 — L MAIN / S SECONDARY
+
+> **Today's focus:** Keep Listening accuracy up and Speaking Interview reflex sharp.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** Listening MAIN — 1 lecture + 1 conversation.
-- [ ] **1:10–1:30** Speaking SECONDARY — Petra Interview × 2 + error log
+- [ ] **0:35–1:10** Listening MAIN — 1 lecture + 1 conversation on R-OFF-1 TestReady → Listening. Aim ≥ 80% accuracy; log every miss.
+- [ ] **1:10–1:30** Speaking SECONDARY — **R-AI-1** PrepEx/Petra (https://prepex.ai) → Interview task × 2. Record + log filler-word count and any rubric feedback.
 
 ---
 
-### 📅 Day 4 · Wed 8/12 — W MAIN (Discussion v2) / R SECONDARY
+### 📅 Day 4 · Thu 8/13 — W MAIN (Discussion v2) / R SECONDARY
+
+> **Today's focus:** Stance clarity in the opening sentence — make P of PEEL unmistakable in the first 30 seconds.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** **Writing MAIN — Discussion v2**. **Today's focus: stance clarity in opening sentence.** AI feedback specifically on "Topic Development / Task Achievement."
-- [ ] **1:10–1:30** Reading SECONDARY — Complete-the-Words OR **R-REAL-3** article + error log
+- [ ] **0:35–1:10** **Writing MAIN — Discussion v2** on R-OFF-1 TestReady → Writing → Academic Discussion, strict 10 min. Score in **R-AI-2** FluentPrep (https://www.fluentprep.online/); read AI feedback specifically on "Topic Development / Task Achievement." Save as `D4_Discussion_v2`.
+- [ ] **1:10–1:30** Reading SECONDARY — Complete-the-Words on R-OFF-1 TestReady OR read 1 **R-REAL-3** Nature/Science News article (https://www.nature.com/news · https://www.sciencenews.org) and log 5 unknown words to Anki.
 
 ---
 
-### 📅 Day 5 · Thu 8/13 — S MAIN / L SECONDARY
+### 📅 Day 5 · Fri 8/14 — S MAIN / L SECONDARY
+
+> **Today's focus:** Speaking volume day — pronunciation reps (L&R) + Interview fluency.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** Speaking MAIN — Listen & Repeat × 7 + Interview × 2.
-- [ ] **1:10–1:30** Listening SECONDARY — 1 lecture + error log
+- [ ] **0:35–1:10** Speaking MAIN — Listen & Repeat × 7 on R-OFF-1 TestReady → Speaking → Listen & Repeat, then Interview × 2 on **R-AI-1** PrepEx (https://prepex.ai). Record into phone Voice Memos, save as `D5_Speaking`.
+- [ ] **1:10–1:30** Listening SECONDARY — 1 lecture on R-OFF-1 TestReady → Listening; log misses.
 
 ---
 
-### 📅 Day 6 · Fri 8/14 — R MAIN / S SECONDARY
+### 📅 Day 6 · Sat 8/15 — R MAIN / S SECONDARY
+
+> **Today's focus:** Cross-skill bridge — turn a Reading passage into a Discussion-style PEEL stance.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** Reading MAIN — 1 passage. Today try: read passage **first**, then write a 1-paragraph PEEL stance on the passage's central claim (instead of the standard items). Tests reading–writing transfer.
-- [ ] **1:10–1:30** Speaking SECONDARY — Petra × 2 + error log
+- [ ] **0:35–1:10** Reading MAIN — 1 passage on R-OFF-1 TestReady → Reading. Today: read passage **first**, then write a 1-paragraph PEEL stance (~80 words, 5 min) on the passage's central claim instead of doing the standard items. Save as `D6_PEEL_from_reading`.
+- [ ] **1:10–1:30** Speaking SECONDARY — **R-AI-1** PrepEx (https://prepex.ai) → Interview × 2. Log filler-word count + 1 phrasing fix.
 
 ---
 
-### 📅 Day 7 · Sat 8/15 — L+S combined / W secondary (Build + Email)
+### 📅 Day 7 · Sun 8/16 — L+S combined / W secondary (Build + Email)
+
+> **Today's focus:** Long-form listen-then-speak integration + lightweight Writing maintenance to close week 1.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** L+S combined — TED talk 10–15 min, 90-sec spoken summary.
-- [ ] **1:10–1:30** Writing SECONDARY — Build a Sentence × 5 + 1 Email outline. Weekly mini-review.
+- [ ] **0:35–1:10** L+S combined — pick a **R-SHAD-2** TED Talk 10–15 min (https://www.ted.com/talks, filter 5–15 min). Watch once, take 5 bullet notes, then record a 90-sec spoken summary into Voice Memos as `D7_LS_summary`.
+- [ ] **1:10–1:30** Writing SECONDARY — Build a Sentence × 5 on R-OFF-1 TestReady → Writing → Build a Sentence + outline 1 Email (no full draft). Weekly mini-review: scan Days 1–6 error log, mark top recurring error.
 
 ---
 
-### 📅 Day 8 · Sun 8/16 — Discussion mock v3 (compare to Day 1)
+### 📅 Day 8 · Mon 8/17 — Discussion mock v3 (compare to Day 1)
+
+> **Today's focus:** Mid-chapter Discussion benchmark — quantify progress vs. Day 1 baseline.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** **Discussion mock v3**. **Re-read Day 1 draft first**, then go. Score. **Compare AI rubric scores side-by-side**.
-- [ ] **1:10–1:30** Listening SECONDARY + error log
+- [ ] **0:35–1:10** **Discussion mock v3** on R-OFF-1 TestReady → Writing → Academic Discussion, strict 10 min. Re-read `D1_Discussion_baseline.md` first, then go. Score in **R-AI-2** FluentPrep (https://www.fluentprep.online/). Paste both rubric scorecards into a side-by-side table; note movement per rubric line.
+- [ ] **1:10–1:30** Listening SECONDARY — 1 lecture on R-OFF-1 TestReady → Listening; error log.
 
 ---
 
-### 📅 Day 9 · Mon 8/17 — R MAIN / W SECONDARY
+### 📅 Day 9 · Tue 8/18 — R MAIN / W SECONDARY
+
+> **Today's focus:** Reading accuracy + Email speed maintenance going into week 2.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** Reading MAIN — 1 passage.
-- [ ] **1:10–1:30** Writing SECONDARY — Email 10 min + error log
+- [ ] **0:35–1:10** Reading MAIN — 1 passage on R-OFF-1 TestReady → Reading, strict 15 min. Aim ≥ 80% accuracy; paraphrase thesis in 1 sentence.
+- [ ] **1:10–1:30** Writing SECONDARY — Email on R-OFF-1 TestReady → Writing → Email, strict 10 min. Log register/grammar errors.
 
 ---
 
-### 📅 Day 10 · Tue 8/18 — L MAIN / S SECONDARY
+### 📅 Day 10 · Wed 8/19 — L MAIN / S SECONDARY
+
+> **Today's focus:** Listening accuracy block + Interview reflex reps.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** Listening MAIN — 1 lecture + 1 conversation.
-- [ ] **1:10–1:30** Speaking SECONDARY — Petra × 2 + error log
+- [ ] **0:35–1:10** Listening MAIN — 1 lecture + 1 conversation on R-OFF-1 TestReady → Listening. Aim ≥ 80% accuracy; log every miss.
+- [ ] **1:10–1:30** Speaking SECONDARY — **R-AI-1** PrepEx (https://prepex.ai) → Interview × 2. Log filler count + 1 corrected phrasing.
 
 ---
 
-### 📅 Day 11 · Wed 8/19 — W MAIN (Discussion v4) / R SECONDARY
+### 📅 Day 11 · Thu 8/20 — W MAIN (Discussion v4) / R SECONDARY
+
+> **Today's focus:** Third-stance Discussion — break the "pick A or B" reflex and produce original synthesis.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** **Discussion v4** — today: **third-stance** practice. Don't agree with student A or B — propose a synthesis. 10 min strict.
-- [ ] **1:10–1:30** Reading SECONDARY — Complete-the-Words + error log
+- [ ] **0:35–1:10** **Discussion v4** on R-OFF-1 TestReady → Writing → Academic Discussion, strict 10 min. Today: **third-stance** — don't agree with student A or B, propose a synthesis. Score in **R-AI-2** FluentPrep (https://www.fluentprep.online/); save as `D11_Discussion_v4_thirdstance`.
+- [ ] **1:10–1:30** Reading SECONDARY — Complete-the-Words on R-OFF-1 TestReady → Reading; log unknown stems to Anki.
 
 ---
 
-### 📅 Day 12 · Thu 8/20 — S MAIN / L SECONDARY
+### 📅 Day 12 · Fri 8/21 — S MAIN / L SECONDARY
+
+> **Today's focus:** Speaking high-volume day — Interview reps + pronunciation refresh.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** Speaking MAIN — Interview × 4 + 7 L&R refresh.
-- [ ] **1:10–1:30** Listening SECONDARY — 1 lecture + error log
+- [ ] **0:35–1:10** Speaking MAIN — **R-AI-1** PrepEx (https://prepex.ai) → Interview × 4, then 7 Listen & Repeat items on R-OFF-1 TestReady → Speaking → Listen & Repeat. Record into Voice Memos as `D12_Speaking`.
+- [ ] **1:10–1:30** Listening SECONDARY — 1 lecture on R-OFF-1 TestReady → Listening; error log.
 
 ---
 
-### 📅 Day 13 · Fri 8/21 — R MAIN / S SECONDARY
+### 📅 Day 13 · Sat 8/22 — R MAIN / S SECONDARY
+
+> **Today's focus:** Final tune-up before Milestone 3 — keep Reading + Speaking warm without burning energy.
 
 - [ ] Anki + PEEL drill + Shadowing
-- [ ] **0:35–1:10** Reading MAIN — 1 passage.
-- [ ] **1:10–1:30** Speaking SECONDARY — Petra × 2 + error log
+- [ ] **0:35–1:10** Reading MAIN — 1 passage on R-OFF-1 TestReady → Reading, strict 15 min. Paraphrase thesis in 1 sentence.
+- [ ] **1:10–1:30** Speaking SECONDARY — **R-AI-1** PrepEx (https://prepex.ai) → Interview × 2. Log filler count.
 
 ---
 
-### 📅 Day 14 · Sat 8/22 — 🎯 Milestone 3 + Bi-week review
+### 📅 Day 14 · Sun 8/23 — 🎯 Milestone 3 + Bi-week review
+
+> **Today's focus:** Prove both Writing tasks fit under exam time, then close out Ch.7 with the review card.
 
 **Milestone 3:** Both Writing tasks under exam time.
 
-- [ ] **0:00–0:15** Anki + reviews
-- [ ] **0:15–0:30** Shadowing
-- [ ] **0:30–0:45** **🎯 Email mock** — strict 10 min. Target: ≤ 10 min.
-- [ ] **0:45–1:00** **🎯 Discussion mock** — strict 10 min. Target: ≤ 10 min + PEEL visible.
-- [ ] **1:00–1:30** Ch.7 Review Card
+- [ ] **0:00–0:15** Anki + reviews — clear any due backlog.
+- [ ] **0:15–0:30** Shadowing — 15 min on current source.
+- [ ] **0:30–0:45** **🎯 Email mock** — R-OFF-1 TestReady → Writing → Email, strict 10 min. Target: ≤ 10 min, ~100 words. Log final word count + time.
+- [ ] **0:45–1:00** **🎯 Discussion mock** — R-OFF-1 TestReady → Writing → Academic Discussion, strict 10 min. Target: ≤ 10 min, 180–220 words, all 4 PEEL elements visible. Score in **R-AI-2** FluentPrep (https://www.fluentprep.online/) and record results in the Review Card below.
+- [ ] **1:00–1:30** Ch.7 Review Card — fill out the template in § 5 below.
 
 ---
 
 ## 5 · Ch.7 Review Card (Day 14)
 
 ```markdown
-## Ch.7 Review (8/22) — Milestone 3
+## Ch.7 Review (8/23) — Milestone 3
 
 ### Milestone 3 results
 - Email: __ words in __ min — **PASS** (≤ 10 min, ~100 words) / **HOLD** / **REDO**

@@ -5,6 +5,26 @@
 
 ---
 
+## 0 · How to read the codes (R-XXX-N)
+
+Every resource in this book has a short code like **R-OFF-1** or **R-FREE-3**. The chapters reference these codes instead of repeating full names + URLs. Format is **`R-<category>-<number>`**:
+
+| Prefix | Stands for | Category | Section | Example |
+|---|---|---|---|---|
+| **R-OFF-** | **OFF**icial | ETS official materials | § 1 | R-OFF-1 = ETS TestReady |
+| **R-AI-** | **AI** | AI feedback / scoring tools | § 2 | R-AI-1 = PrepEx (Petra) |
+| **R-ANKI-** | **ANKI** | Anki vocabulary decks + app | § 3 | R-ANKI-1 = 4000 Essential English Words |
+| **R-SHAD-** | **SHAD**owing | Shadowing source material | § 4 | R-SHAD-1 = TED-Ed |
+| **R-FREE-** | **FREE** | Free practice test sources | § 5 | R-FREE-1 = Magoosh free 2026 test |
+| **R-REAL-** | **REAL**-world | Real-world academic input | § 6 | R-REAL-4 = MIT OpenCourseWare |
+| **R-REF-** | **REF**erence | Research papers / format guides | § 7 | R-REF-1 = Liu 2014 ETS study |
+
+The number is just the order within that category. So **R-SHAD-3** = the 3rd item in the Shadowing section (Scientific American 60-Second Science).
+
+**When a chapter says "Use R-OFF-1":** flip to § 1 of this file, find R-OFF-1, use the URL and instructions there.
+
+---
+
 ## 1 · Official ETS Materials (gold standard for 2026 format)
 
 ### R-OFF-1 — ETS TOEFL TestReady (official platform)
@@ -15,27 +35,22 @@
 ### R-OFF-2 — ETS Sample Test Jan 2026 (FREE full sample)
 - **URL:** https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html
 - **Price:** Free
-- **Use case:** **Use this for Day 2–3 baseline mock.** Exact new-format.
+- **Use case:** **Use this for Day 2–3 baseline mock.** Exact new-format. Also reused as Mock 4 in Ch.9 (4 months later you'll have forgotten enough).
 
-### R-OFF-3 — The Official Guide to the TOEFL iBT (book, latest 2026 edition)
-- **URL:** https://www.amazon.com/Official-Guide-TOEFL-iBT-Test/dp/1265477388
-- **Price:** ~$25
-- **Use case:** 4 full authentic practice tests in print.
-
-### R-OFF-4 — TOEFL iBT Test Content breakdown
+### R-OFF-3 — TOEFL iBT Test Content breakdown
 - **URL:** https://www.ets.org/toefl/test-takers/ibt/about/content.html
 - **Price:** Free
 - **Use case:** Reference for what every task looks like.
 
-### R-OFF-5 — TPO (TOEFL Practice Online)
-- **URL:** https://www.ets.org/toefl/test-takers/ibt/prepare/practice-tests.html
-- **Price:** $45.95 / volume
-- **Use case:** Full-length retired tests. Buy 1–2 volumes once Ch.8 starts.
-
-### R-OFF-6 — TOEFL Test Prep Planner (8-week official plan, PDF)
+### R-OFF-4 — TOEFL Test Prep Planner (8-week official plan, PDF)
 - **URL:** https://www.ets.org/pdfs/toefl/toefl-ibt-student-test-prep-planner.pdf
 - **Price:** Free PDF
 - **Use case:** Cross-reference for the final stretch.
+
+### R-OFF-5 — TPO (TOEFL Practice Online) — **OPTIONAL LAST-RESORT ONLY**
+- **URL:** https://www.ets.org/toefl/test-takers/ibt/prepare/practice-tests.html
+- **Price:** $45.95 / volume
+- **Use case:** **Skip unless** you've already done all 4 Ch.9 mocks from the free sources below AND you feel you need one more genuinely-official full-length retired test before exam day. The free sources in § 5 plus R-OFF-1's free tier are designed to cover all 4 mocks at $0.
 
 ---
 
@@ -63,15 +78,10 @@
 
 ### R-AI-5 — ChatGPT (or Claude)
 - **URL:** https://chat.openai.com / https://claude.ai
-- **Price:** Free / Paid tier
+- **Price:** Free tier (sufficient for this plan)
 - **Best for:** Grammar polish + idea brainstorming. **Do not** trust its scores.
 
-### R-AI-6 — My Speaking Score
-- **URL:** https://www.myspeakingscore.com
-- **Price:** Paid
-- **Best for:** Speaking-only deep analytics (delivery, fluency); optional.
-
-> **Rule of thumb:** Pick **one** AI scorer (R-AI-1 or R-AI-2) and stick with it for trend tracking. Switching tools mid-plan ruins comparability.
+> **Rule of thumb:** Pick **one** AI scorer (R-AI-1 or R-AI-2) and stick with it for trend tracking. Switching tools mid-plan ruins comparability. All five AI tools above have working free tiers — the plan is built on free tiers only.
 
 ---
 
@@ -94,8 +104,8 @@
 
 ### R-ANKI-4 — Anki desktop download
 - **URL:** https://apps.ankiweb.net/
-- **Price:** Free
-- **Use case:** Required to import shared decks. iOS app is paid (~$25, worth it).
+- **Price:** Free (desktop + Android via AnkiDroid)
+- **Use case:** Required to import shared decks. Desktop (Mac/Windows/Linux) and Android (AnkiDroid) are 100% free. iOS users: use the web reviewer at https://ankiweb.net on Safari instead of the paid iOS app.
 
 > **Daily Anki target (1.5 hr plan):** 20 new + ~60 reviews ≈ 15 minutes.
 
@@ -149,7 +159,9 @@ Pick **one source per phase**; don't rotate too fast.
 
 ---
 
-## 5 · Free Practice Test Sources (when paid TPO not available)
+## 5 · Free Practice Test Sources (the Ch.9 mock backbone)
+
+> **This plan uses free sources for every Ch.9 mock.** Mix and match — using the same source for all 4 mocks may exhaust the free pool or train you on its quirks rather than the test.
 
 ### R-FREE-1 — Magoosh free TOEFL practice test (2026 version)
 - **URL:** https://magoosh.com/toefl/toefl-practice-test/
@@ -229,8 +241,9 @@ ETS research (Liu 2014) found coaching attendance has **near-zero** correlation 
 ### R-REF-5 — Magoosh 2026 changes
 - **URL:** https://toefl.magoosh.com/toefl-2026-changes
 
-### R-REF-6 — My Speaking Score 2026 Speaking guide
+### R-REF-6 — My Speaking Score 2026 Speaking guide (free article)
 - **URL:** https://www.myspeakingscore.com/toefl-speaking-2026
+- **Note:** Free read-only guide. Their scoring product is paid and not used in this plan.
 
 ---
 
@@ -245,4 +258,4 @@ ETS research (Liu 2014) found coaching attendance has **near-zero** correlation 
 - [ ] Decide where your **error log** lives (Notion page, markdown file, Apple Notes — pick one and don't switch)
 - [ ] Optional: install **R-SHAD-6** (Language Reactor) browser extension
 
-**Total spend so far:** $0 (everything above has a free tier). Optional later: TPO volume ($45) for Ch.8, Anki iOS app ($25).
+**Total spend:** **$0 — full plan, all 130 days, all 4 mocks.** Every required resource has a working free tier or is fully free. The only paid resource still listed (R-OFF-5 TPO) is flagged **optional last-resort** — skip it unless you've already burned through all the free Ch.9 mocks and want one extra rep before exam day.

@@ -1,6 +1,6 @@
-# Ch.8 · Adaptive Realism — Module 1 Mastery (8/23 – 9/5)
+# Ch.8 · Adaptive Realism — Module 1 Mastery (8/24 – 9/6)
 
-> **Days:** 14 (Day 1 = Sun 8/23, Day 14 = Sat 9/5)
+> **Days:** 14 (Day 1 = Mon 8/24, Day 14 = Sun 9/6)
 > **Emphasis:** Module 1 accuracy across all 4 skills (with Listening/Reading getting most adaptive-specific drilling, since those are the only truly adaptive sections).
 > **Skill coverage:** Every day touches ≥ 2 skills. Anki + Shadowing floor.
 > **Deliverables:** Module 1 accuracy targets met on **every** skill area + careless-error rate cut by ≥ 50% vs Ch.1 baseline + transition from "skill building" to "test performance" mindset.
@@ -59,17 +59,18 @@ Weekly counts: R = 3 MAIN + 1 SEC; L = 2 MAIN + 1 SEC + 1 combined; W = 2 MAIN +
 
 ---
 
-### 📅 Day 1 · Sun 8/23 — Mini-full mock (fatigue-stack baseline)
+### 📅 Day 1 · Mon 8/24 — Mini-full mock (fatigue-stack baseline)
 
-- [ ] **0:00–0:15** Anki
-- [ ] **0:15–0:20** **Careless-error review** — re-read your 3 most recent "careless" tagged errors aloud, articulate what you'll do differently
-- [ ] **0:20–0:35** Shadowing 15 min
-- [ ] **0:35–1:10** **Mini-full mock**:
-  - 1 Reading Module 1 set (10 items, 18 min strict)
+> **Today's focus:** Establish a Ch.8 fatigue-stacked baseline across R+L+W Module 1 work so every later day has something to beat.
+
+- [ ] **0:00–0:15** Anki — open desktop/AnkiDroid (**R-ANKI-4** https://apps.ankiweb.net/), clear today's due queue from **R-ANKI-1** (https://ankiweb.net/shared/info/1104981491) Book 4–6 + **R-ANKI-2** (https://ankiweb.net/shared/info/973421516)
+- [ ] **0:15–0:20** **Careless-error review** — open your error log, re-read your 3 most recent "careless" tagged errors aloud, articulate in one sentence what you'll do differently next time
+- [ ] **0:20–0:35** Shadowing 15 min — pick today's clip from **R-SHAD-2** (https://www.ted.com/talks) filtered 5–10 min, apply the 3-pass protocol
+- [ ] **0:35–1:20** **Mini-full mock** (45 min block) — log in to **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), run back-to-back with **no breaks**:
+  - 1 Reading Module 1 set (10 items, 18 min strict — use a phone timer)
   - 1 Listening Module 1 set (10 items, ~15 min)
-  - 1 Email (10 min)
-  - **Source: R-OFF-1** TestReady. **No breaks.**
-- [ ] **1:10–1:30** Writing SECONDARY — Discussion 10 min + error log
+  - 1 Email task (10 min strict)
+- [ ] **1:20–1:30** Writing SECONDARY — Discussion task on **R-OFF-1**, 10 min strict; paste response into **R-AI-2** FluentPrep (https://www.fluentprep.online/) for rubric scoring; log every error tagged careless/knowledge/timing
 
 **Baseline log:**
 ```
@@ -82,115 +83,141 @@ Day 1 Mini-mock Baseline
 
 ---
 
-### 📅 Day 2 · Mon 8/24 — R-M1 MAIN / W SECONDARY
+### 📅 Day 2 · Tue 8/25 — R-M1 MAIN / W SECONDARY
 
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** **Reading Module 1 MAIN** — 1 Module 1 set, strict 18 min. Goal: **single-pass accuracy ≥ 90%**. Score, then attribute every error.
-- [ ] **1:10–1:30** Writing SECONDARY — Build a Sentence × 10 + error log
+> **Today's focus:** First clean Reading Module 1 attempt of the chapter — aim for the 90% accuracy bar and tag every miss.
 
----
-
-### 📅 Day 3 · Tue 8/25 — L-M1 MAIN / S SECONDARY
-
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** **Listening Module 1 MAIN** — 1 Module 1 set (1 lecture + 1 conversation). Goal: **≥ 85%**.
-- [ ] **1:10–1:30** Speaking SECONDARY — Petra Interview × 2 + error log
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min from **R-SHAD-2** https://www.ted.com/talks)
+- [ ] **0:35–1:10** **Reading Module 1 MAIN** — on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Reading → pick a fresh Module 1 set, strict 18 min timer. Goal: **single-pass accuracy ≥ 90%**. Score immediately, then tag every error as careless / vocab / inference / time-pressure in the error log.
+- [ ] **1:10–1:30** Writing SECONDARY — Build a Sentence × 10 on **R-OFF-1** Writing drills + log any grammar misses
 
 ---
 
-### 📅 Day 4 · Wed 8/26 — Discussion MAIN / R-M1 SECONDARY
+### 📅 Day 3 · Wed 8/26 — L-M1 MAIN / S SECONDARY
 
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** **Writing MAIN — Discussion** strict 10 min, target ≤ 9 min.
-- [ ] **1:10–1:30** **Reading Module 1 SECONDARY** — small 5-item drill, accuracy-focused (no time pressure). + error log
+> **Today's focus:** First clean Listening Module 1 attempt — hit ≥ 85% and identify whether misses are note-taking or recall failures.
 
----
-
-### 📅 Day 5 · Thu 8/27 — Speaking L&R + Interview MAIN / L-M1 SECONDARY
-
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** **Speaking MAIN** — 7 L&R items + 4 Interview items, all recorded, all scored via **R-AI-2**.
-- [ ] **1:10–1:30** **Listening Module 1 SECONDARY** — 1 conversation (5 items) + error log
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:10** **Listening Module 1 MAIN** — on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening → fresh Module 1 set (1 lecture + 1 conversation), headphones on, no pausing. Goal: **≥ 85%**. After scoring, replay each missed item and mark in error log whether you mis-heard, mis-noted, or forgot.
+- [ ] **1:10–1:30** Speaking SECONDARY — open **R-AI-1** PrepEx / Petra (https://prepex.ai), run 2 Interview-task prompts, record into the tool, save the AI feedback, log weak phrases
 
 ---
 
-### 📅 Day 6 · Fri 8/28 — R-M1 MAIN / S SECONDARY
+### 📅 Day 4 · Thu 8/27 — Discussion MAIN / R-M1 SECONDARY
 
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** Reading Module 1 — new set, strict 18 min.
-- [ ] **1:10–1:30** Speaking SECONDARY — Petra × 2 + error log
+> **Today's focus:** Lock Discussion-task timing under 9 min while keeping rubric quality, plus a low-pressure accuracy-only Reading drill.
 
----
-
-### 📅 Day 7 · Sat 8/29 — L+S combined / W secondary (Email)
-
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** L+S combined — **R-REAL-4** MIT OCW 10-min lecture, notes, 90-sec spoken summary.
-- [ ] **1:10–1:30** Writing SECONDARY — Email 10 min + weekly mini-review
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:10** **Writing MAIN — Discussion** — fresh prompt on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), strict 10 min timer, target finish ≤ 9 min. Paste into **R-AI-2** FluentPrep (https://www.fluentprep.online/) for rubric scoring; record finish time + word count.
+- [ ] **1:10–1:30** **Reading Module 1 SECONDARY** — 5-item drill from **R-OFF-1** (or **R-FREE-3** https://testsucceed.com/materials/tests/toefl_new if you've burned the TestReady set), **no timer** — focus purely on accuracy + reasoning, log every miss
 
 ---
 
-### 📅 Day 8 · Sun 8/30 — Mini-full mock v2 (compare to Day 1)
+### 📅 Day 5 · Fri 8/28 — Speaking L&R + Interview MAIN / L-M1 SECONDARY
 
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** **Mini-full mock v2** — fresh sets. **Compare scores and felt-fatigue against Day 1.**
-- [ ] **1:10–1:30** Discussion 10 min + error log
+> **Today's focus:** High-volume Speaking session — push L&R exact-match toward 85% and stress-test Interview fluency under rubric scoring.
 
----
-
-### 📅 Day 9 · Mon 8/31 — R-M1 MAIN / W SECONDARY
-
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** Reading Module 1, strict 18 min.
-- [ ] **1:10–1:30** Writing SECONDARY — Build a Sentence × 10 + error log
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:10** **Speaking MAIN** — 7 Listen & Repeat items + 4 Interview items from **R-OFF-1** Speaking (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html). Record each into phone Voice Memos saved as `D5_LR_##` / `D5_Int_##`, then upload to **R-AI-2** FluentPrep (https://www.fluentprep.online/) for ETS-rubric scoring. Log L&R exact-match % and Interview overall.
+- [ ] **1:10–1:30** **Listening Module 1 SECONDARY** — 1 conversation (5 items) on **R-OFF-1**, score and log misses
 
 ---
 
-### 📅 Day 10 · Tue 9/1 — L-M1 MAIN / S SECONDARY
+### 📅 Day 6 · Sat 8/29 — R-M1 MAIN / S SECONDARY
 
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** Listening Module 1.
-- [ ] **1:10–1:30** Speaking SECONDARY — Petra × 2 + error log
+> **Today's focus:** Second clean Reading Module 1 rep of the week — confirm the Day 2 result wasn't a fluke.
 
----
-
-### 📅 Day 11 · Wed 9/2 — Discussion MAIN / R-M1 SECONDARY
-
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** Discussion 10 min, target ≤ 9 min.
-- [ ] **1:10–1:30** Reading Module 1 SEC — 5-item drill + error log
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:10** Reading Module 1 MAIN — new fresh set on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), strict 18 min. Score, log, compare % vs Day 2.
+- [ ] **1:10–1:30** Speaking SECONDARY — **R-AI-1** PrepEx (https://prepex.ai) Interview × 2, record + capture AI feedback in error log
 
 ---
 
-### 📅 Day 12 · Thu 9/3 — Speaking MAIN / L-M1 SECONDARY
+### 📅 Day 7 · Sun 8/30 — L+S combined / W secondary (Email)
 
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** Speaking — 7 L&R + 4 Interview.
-- [ ] **1:10–1:30** Listening Module 1 SEC — 1 conv + error log
+> **Today's focus:** Real-world lecture-to-speech rep that mirrors test cognitive load, then a fast Email under timer.
 
----
-
-### 📅 Day 13 · Fri 9/4 — R-M1 MAIN / S SECONDARY
-
-- [ ] Anki + Careless-error review + Shadowing
-- [ ] **0:35–1:10** Reading Module 1.
-- [ ] **1:10–1:30** Speaking SECONDARY — Petra × 2 + error log
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:10** L+S combined — pick one 10-min lecture clip from **R-REAL-4** MIT OpenCourseWare (https://ocw.mit.edu/), take Cornell-style notes while listening, then deliver a 90-sec spoken summary into phone Voice Memos saved as `D7_Summary`. Self-grade: did you cover thesis + 2 supporting points + 1 example?
+- [ ] **1:10–1:30** Writing SECONDARY — Email task on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), 10 min strict, score via **R-AI-2** (https://www.fluentprep.online/). Then 5-min weekly mini-review: scan error log, note 1 pattern
 
 ---
 
-### 📅 Day 14 · Sat 9/5 — 🎯 Module 1 showcase across 4 skills + Bi-week review
+### 📅 Day 8 · Mon 8/31 — Mini-full mock v2 (compare to Day 1)
 
-- [ ] **0:00–0:15** Anki + reviews
-- [ ] **0:15–0:30** Shadowing
-- [ ] **0:30–1:15** **🎯 Module 1 showcase** — 1 fresh set each: R-M1, L-M1, 7-item L&R, 1 Email (10 min). No breaks. Score all.
-- [ ] **1:15–1:30** Ch.8 Review Card
+> **Today's focus:** Repeat the Day 1 stack with fresh sets so you have a like-for-like before/after to judge the week's gains.
+
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:20** **Mini-full mock v2** (45 min block) — same stack as Day 1 on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), all fresh sets, no breaks: R-M1 (18 min) + L-M1 (~15 min) + Email (10 min). After scoring, write 2-line diff vs Day 1: which skill moved most? where did fatigue still bite?
+- [ ] **1:20–1:30** Discussion 10 min on **R-OFF-1** → score in **R-AI-2** (https://www.fluentprep.online/) + log errors
+
+---
+
+### 📅 Day 9 · Tue 9/1 — R-M1 MAIN / W SECONDARY
+
+> **Today's focus:** Third counted Reading Module 1 rep — this is one of the 3 fresh sets that have to clear G1's 90%.
+
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:10** Reading Module 1 MAIN — fresh set on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), strict 18 min. Log %; mark in tracker as the 3rd of the G1 "≥ 90% on 3 separate fresh sets" set if it clears.
+- [ ] **1:10–1:30** Writing SECONDARY — Build a Sentence × 10 on **R-OFF-1** Writing drills + log any grammar misses
+
+---
+
+### 📅 Day 10 · Wed 9/2 — L-M1 MAIN / S SECONDARY
+
+> **Today's focus:** Second fresh Listening Module 1 of the chapter — confirm ≥ 85% stays repeatable.
+
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:10** Listening Module 1 MAIN — fresh set on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), headphones, no pausing. Log %; replay misses and tag note-taking vs recall.
+- [ ] **1:10–1:30** Speaking SECONDARY — **R-AI-1** PrepEx (https://prepex.ai) Interview × 2 + error log
+
+---
+
+### 📅 Day 11 · Thu 9/3 — Discussion MAIN / R-M1 SECONDARY
+
+> **Today's focus:** Second Discussion rep with the ≤ 9 min ceiling — make sub-9 the norm, not the exception.
+
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:10** Discussion MAIN — fresh prompt on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), 10 min strict, target finish ≤ 9 min. Score in **R-AI-2** (https://www.fluentprep.online/); log finish time + rubric.
+- [ ] **1:10–1:30** Reading Module 1 SEC — 5-item accuracy drill (no timer) on **R-OFF-1** or **R-FREE-3** (https://testsucceed.com/materials/tests/toefl_new) + error log
+
+---
+
+### 📅 Day 12 · Fri 9/4 — Speaking MAIN / L-M1 SECONDARY
+
+> **Today's focus:** Second high-volume Speaking session — push L&R closer to the G3 ≥ 85% bar.
+
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:10** Speaking MAIN — 7 L&R + 4 Interview from **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html). Record into Voice Memos as `D12_LR_##` / `D12_Int_##`, score via **R-AI-2** (https://www.fluentprep.online/). Compare L&R % vs Day 5.
+- [ ] **1:10–1:30** Listening Module 1 SEC — 1 conversation (5 items) on **R-OFF-1** + error log
+
+---
+
+### 📅 Day 13 · Sat 9/5 — R-M1 MAIN / S SECONDARY
+
+> **Today's focus:** Final Reading Module 1 dress rehearsal before tomorrow's showcase — lock the 18-min pacing.
+
+- [ ] **0:00–0:35** Anki + Careless-error review + Shadowing (15 min)
+- [ ] **0:35–1:10** Reading Module 1 MAIN — fresh set on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), strict 18 min, score and log.
+- [ ] **1:10–1:30** Speaking SECONDARY — **R-AI-1** PrepEx (https://prepex.ai) Interview × 2 + error log
+
+---
+
+### 📅 Day 14 · Sun 9/6 — 🎯 Module 1 showcase across 4 skills + Bi-week review
+
+> **Today's focus:** Stack all 4 skills back-to-back at Module 1 difficulty to verify chapter goals G1–G4 before Ch.9 mocks begin.
+
+- [ ] **0:00–0:15** Anki + reviews — clear today's queue across **R-ANKI-1** (https://ankiweb.net/shared/info/1104981491) + **R-ANKI-2** (https://ankiweb.net/shared/info/973421516)
+- [ ] **0:15–0:30** Shadowing 15 min (3-pass) from **R-SHAD-2** (https://www.ted.com/talks)
+- [ ] **0:30–1:15** **🎯 Module 1 showcase** — on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), no breaks, all fresh sets: R-M1 (18 min) → L-M1 (~15 min) → 7-item L&R (record as `D14_LR_##`, score via **R-AI-2** https://www.fluentprep.online/) → 1 Email (10 min). Drop all results into the Review Card below.
+- [ ] **1:15–1:30** Fill in the Ch.8 Review Card and decide PASS/HOLD/REDO per goal
 
 ---
 
 ## 5 · Ch.8 Review Card (Day 14)
 
 ```markdown
-## Ch.8 Review (9/5)
+## Ch.8 Review (9/6)
 
 ### Module 1 showcase results
 - Reading M1: __ / 10 → %: ___ → PASS (≥ 90%) / HOLD / REDO

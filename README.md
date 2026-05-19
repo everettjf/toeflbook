@@ -1,8 +1,8 @@
-# TOEFL iBT 2026 · 132-Day Sprint Plan
+# TOEFL iBT 2026 · 130-Day Sprint Plan
 
 > **Exam date:** 2026-09-26 (Saturday), 08:00 AM
-> **Start date:** 2026-05-17
-> **Total:** 132 days / ~19 weeks / 9 bi-weekly chapters + 1 final-week tune-up
+> **Start date:** 2026-05-18 (Monday)
+> **Total:** 130 days / ~19 weeks / 9 bi-weekly chapters + 4-day final taper (+ 9/25 rest day, 9/26 exam)
 > **Target score:** 100+ (CEFR C1)
 > **Daily commitment:** 90 minutes
 
@@ -47,7 +47,7 @@ On **2026-01-21**, ETS launched a completely redesigned **Adaptive TOEFL iBT**. 
 **Three rules that run through every chapter:**
 
 1. **Early items are not equal.** The adaptive engine punishes Module 1 mistakes more heavily. All "accuracy training" in this book targets the early items.
-2. **Real input beats drill.** ETS's own research (Liu, 2014; see `resources.md` § R-REF-1) found coaching attendance has near-zero correlation with score. **Total real-English exposure** is the main driver. Every week includes real material (academic podcasts, TED, Coursera).
+2. **Real input beats drill.** ETS's own research (Liu, 2014; see `resources.md` § 7, R-REF-1) found coaching attendance has near-zero correlation with score. **Total real-English exposure** is the main driver. Every week includes real material (academic podcasts, TED, Coursera).
 3. **No templates.** The new AI scorer penalizes templated language. This book trains **structural thinking** (Email 4-part frame, Discussion PEEL reasoning) — not phrases to memorize.
 
 ---
@@ -106,10 +106,10 @@ Picked one per role; see `resources.md` § 2 for full catalog.
 - **Saturday** · MAIN = Listening + Speaking combined (30 min) · SECONDARY = Writing (20 min) · Touches: L, S, W
 - **Sunday** · MAIN = Writing — Email or Discussion (30 min) · SECONDARY = Short mock + weekly review (20 min) · Touches: W + full skill recap
 
-**Weekly skill count (MAIN sessions):** R×3, L×3, W×3, S×3 + 1 combined ⇒ **every skill ≥ 3 focused sessions per week**.
+**Weekly focused touches (MAIN + SECONDARY + combined):** R×3, L×3, W×4, S×4 (combined L+S counted once for each) ⇒ **every skill ≥ 3 focused sessions per week**.
 
 ### 2.3 Sunday extra: review + short mock
-Sundays use 30 min for a short TPO-style segment (~10 reading items OR 8 listening items OR 1 writing task), with the remaining time on error-log review. This is where weekly practice **converts into score**.
+Sundays use 30 min for a short mock-style segment (~10 reading items OR 8 listening items OR 1 writing task), pulled from any free source in `resources.md` § 5 (Magoosh, TestSucceed, TestReady free items). Remaining time on error-log review. This is where weekly practice **converts into score**.
 
 ### 2.4 The floor rules
 - **Anki + Shadowing never get skipped.** They are the floor. Break either for 3 consecutive days and the whole system collapses.
@@ -122,69 +122,72 @@ Sundays use 30 min for a short TPO-style segment (~10 reading items OR 8 listeni
 > ⚠️ **Important:** Each chapter's "theme" is an **emphasis on top of** the weekly rotation — not "this chapter only practices one skill."
 > The § 2.2 rotation is always in effect. The chapter theme just shifts MAIN sessions toward the focus skill.
 
-**Ch.1 — 5/17 to 5/30 (14 days)**
+**Ch.1 — 5/18 to 5/31 (14 days)**
 - Emphasis: Diagnosis + system setup (4-skill baseline)
 - Deliverable: Weak-skill profile + tools live
 
-**Ch.2 — 5/31 to 6/13 (14 days)**
+**Ch.2 — 6/1 to 6/14 (14 days)**
 - Emphasis: Listening + high-frequency vocabulary
-- Deliverable: TPO listening baseline
+- Deliverable: Listening baseline (free TestReady/Magoosh items)
 
-**Ch.3 — 6/14 to 6/27 (14 days)**
+**Ch.3 — 6/15 to 6/28 (14 days)**
 - Emphasis: Reading + academic vocabulary
 - Deliverable: Reading Module 1 ≥ 85% accuracy
 
-**Ch.4 — 6/28 to 7/11 (14 days)**
+**Ch.4 — 6/29 to 7/12 (14 days)**
 - Emphasis: Speaking — Listen & Repeat focus
 - Deliverable: 7-item exact-repeat rate ≥ 80%
 
-**Ch.5 — 7/12 to 7/25 (14 days)**
+**Ch.5 — 7/13 to 7/26 (14 days)**
 - Emphasis: Writing — Email + Build a Sentence
 - Deliverable: Email 100 words in 10 min
 
-**Ch.6 — 7/26 to 8/8 (14 days)**
+**Ch.6 — 7/27 to 8/9 (14 days)**
 - Emphasis: Speaking — Interview + AI dialogue
 - Deliverable: Structured 45-sec Interview answer
 
-**Ch.7 — 8/9 to 8/22 (14 days)**
+**Ch.7 — 8/10 to 8/23 (14 days)**
 - Emphasis: Writing — Academic Discussion
 - Deliverable: 200-word Discussion in 10 min
 
-**Ch.8 — 8/23 to 9/5 (14 days)**
+**Ch.8 — 8/24 to 9/6 (14 days)**
 - Emphasis: Adaptive realism — Module 1 mastery
 - Deliverable: 4-skill Module 1 accuracy on target
 
-**Ch.9 — 9/6 to 9/19 (14 days)**
+**Ch.9 — 9/7 to 9/20 (14 days)**
 - Emphasis: Full mocks ×4 + error attribution
 - Deliverable: Stable mock score ≥ 100
 
-**Final Week — 9/20 to 9/26 (7 days)**
-- Emphasis: Pre-exam tune-up + state management
+**Final Taper — 9/21 to 9/24 (4 days)**
+- Emphasis: Pre-exam tune-up + state management (taper week compressed)
 - Deliverable: Peak on exam morning
 
-**What "emphasis" means in practice:** in Ch.2 (Listening focus week), the Monday "MAIN = Reading" slot temporarily becomes "MAIN = Listening." Across the week, Listening MAIN sessions go from 2 → 4. But **Reading, Writing, Speaking each still get ≥ 2 MAIN sessions** + daily Shadowing + daily Anki. Each chapter's intro restates its modified weekly schedule.
+**Pre-exam rest — 9/25 Fri** (off — Anki maintenance only, no new content)
+**Exam day — 9/26 Sat 08:00**
+
+**What "emphasis" means in practice:** in Ch.2 (Listening focus week), the Sunday "MAIN = Writing" slot temporarily becomes a "Listening micro-mock," and Shadowing source switches to lecture-style audio. Across the week, Listening focused touches rise while **Reading, Writing, Speaking each still get ≥ 3 focused sessions** + daily Shadowing + daily Anki. Each chapter's intro restates its modified weekly schedule.
 
 ---
 
 ## 4 · Evaluation Checkpoints (don't skip)
 
-**Baseline mock** — Days 2–3 (5/18–19)
+**Baseline mock** — Days 2–3 (5/19–20)
 - What: Full mock using R-OFF-2 (ETS Sample Test Jan 2026)
 - Target: Get a starting score
 
-**Milestone 1** — End of Ch.3 (6/27)
+**Milestone 1** — End of Ch.3 (6/28)
 - What: Reading Module 1 only
 - Target: ≥ 85% accuracy
 
-**Milestone 2** — End of Ch.5 (7/25)
+**Milestone 2** — End of Ch.5 (7/26)
 - What: Listening + Speaking Listen-and-Repeat combined
 - Target: Listening ≥ 24/30 raw, L&R ≥ 80% exact
 
-**Milestone 3** — End of Ch.7 (8/22)
+**Milestone 3** — End of Ch.7 (8/23)
 - What: Writing — both tasks under exam time
 - Target: Email ≤ 10 min, Discussion ≤ 10 min
 
-**Mock weeks** — Ch.9 (9/6–19)
+**Mock weeks** — Ch.9 (9/7–20)
 - What: 4 full mocks
 - Target: Stable total ≥ 100
 
@@ -246,6 +249,6 @@ After all chapters are written, run `pandoc` to compile into a single PDF (`buil
 - Liu, O. L. (2014). *Investigating the Relationship Between Test Preparation and TOEFL iBT Performance.* ETS Research Report.
 - Hamada, Y. (2016). *Shadowing: Who Benefits and How?* Language Teaching Research.
 - ETS TOEFL TestReady (2026 adaptive version)
-- Beyond English / Magoosh / My Speaking Score 2026 format guides
+- Beyond English / Magoosh 2026 format guides
 
 (Full URLs in `resources.md` § 7.)

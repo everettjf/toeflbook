@@ -1,6 +1,6 @@
-# Ch.4 · Speaking — Listen & Repeat Focus (6/28 – 7/11)
+# Ch.4 · Speaking — Listen & Repeat Focus (6/29 – 7/12)
 
-> **Days:** 14 (Day 1 = Sun 6/28, Day 14 = Sat 7/11)
+> **Days:** 14 (Day 1 = Mon 6/29, Day 14 = Sun 7/12)
 > **Emphasis:** Speaking Task 1 (Listen & Repeat). Shadowing intensified.
 > **Skill coverage:** Every day touches ≥ 2 skills. Anki + Shadowing remain floor (and Shadowing today becomes *the* training, not warm-up).
 > **Deliverables:** Listen & Repeat exact-match rate ≥ 80% on a 7-item fresh set + auditory memory span of 12+ words + clear consonant articulation under speed.
@@ -35,8 +35,8 @@ These are **exactly** what shadowing trains. Hamada (2016) and the 2025 Tandfonl
 
 **Three changes:**
 
-1. **Shadowing time doubles** — go from 15 min → **30 min** every day. The block 0:15–0:45 is all shadowing.
-2. **Daily 5-min "sentence-level Listen & Repeat" drill** added between Anki and Shadowing — using **R-SHAD-3** (60-Second Science).
+1. **Shadowing time doubles** — go from 15 min → **30 min** every day. The block 0:20–0:50 is all shadowing.
+2. **Daily 5-min "sentence-level Listen & Repeat" drill** added between Anki and Shadowing — using **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/).
 3. The Sunday MAIN slot becomes a **7-item L&R micro-mock**.
 
 **New daily template for Ch.4 (still 90 min total):**
@@ -53,7 +53,7 @@ These are **exactly** what shadowing trains. Hamada (2016) and the 2025 Tandfonl
 
 ### Weekly cadence
 
-- **Sunday** · MAIN = **L&R 7-item micro-mock** · SECONDARY = Writing — Email
+- **Sunday** · MAIN = **L&R 7-item micro-mock** · SECONDARY = Writing — 1 Build-a-Sentence (the 10-min compressed SEC slot doesn't fit a strict-10-min Email)
 - **Monday** · MAIN = Reading · SECONDARY = Writing
 - **Tuesday** · MAIN = Listening · SECONDARY = **Speaking — Interview**
 - **Wednesday** · MAIN = Writing · SECONDARY = Reading
@@ -61,7 +61,7 @@ These are **exactly** what shadowing trains. Hamada (2016) and the 2025 Tandfonl
 - **Friday** · MAIN = Reading · SECONDARY = **Speaking — Interview**
 - **Saturday** · MAIN = L+S combined (lecture summary) · SECONDARY = Writing
 
-Weekly counts (incl. doubled Shadowing as L+S): S = 1 MAIN + 2 SEC + 1 combined + 14 shadow + 7 sentence drills = saturated; R = 2 MAIN + 1 SEC = 3; L = 1 MAIN + 1 SEC + 1 combined + 14 shadows = 17 touches; W = 1 MAIN + 2 SEC = 3. ✅
+Weekly counts (incl. doubled Shadowing as L+S): S = 2 MAIN + 2 SEC + 1 combined + 14 shadow + 7 sentence drills = saturated; R = 2 MAIN + 1 SEC = 3; L = 1 MAIN + 1 SEC + 1 combined + 14 shadows = 17 touches; W = 1 MAIN + 2 SEC = 3. ✅
 
 ---
 
@@ -69,128 +69,156 @@ Weekly counts (incl. doubled Shadowing as L+S): S = 1 MAIN + 2 SEC + 1 combined 
 
 ---
 
-### 📅 Day 1 · Sun 6/28 — L&R micro-mock + Shadowing extended
+### 📅 Day 1 · Mon 6/29 — L&R micro-mock + Shadowing extended
 
-- [ ] **0:00–0:15** Anki — 20 new, prioritize Barron's TOEFL
-- [ ] **0:15–0:20** **Sentence-level L&R drill** — Open **R-SHAD-3** (60-Second Science). Play any episode. Pick 5 sentences (~8–15 words each). For each: pause after the sentence → repeat aloud from memory → re-listen.
-- [ ] **0:20–0:50** **Shadowing 30 min** — Pick a 5-min TED-Ed (**R-SHAD-1**, https://ed.ted.com/lessons). Run **3-pass protocol twice** (= 6 passes total): each cycle is blind → transcript → record-compare.
-- [ ] **0:50–1:20** **L&R 7-item micro-mock** — **R-OFF-1** TestReady → Speaking → Listen & Repeat task. Record each. Upload to **R-AI-1** PrepEx for scoring. Log exact-match counts.
-- [ ] **1:20–1:30** Writing SECONDARY — quick 1 Build-a-Sentence + error log
+> **Today's focus:** Set the chapter baseline — record a 7-item L&R micro-mock and double the shadowing block so every later day has something to beat.
 
----
-
-### 📅 Day 2 · Mon 6/29 — R MAIN / W SECONDARY
-
-- [ ] **0:00–0:15** Anki
-- [ ] **0:15–0:20** Sentence-level L&R drill
-- [ ] **0:20–0:50** Shadowing (30 min)
-- [ ] **0:50–1:20** **Reading MAIN** — **R-OFF-1** 1 passage, strict 15 min + brief error attribution (the rest of the block).
-- [ ] **1:20–1:30** Writing SECONDARY — Build a Sentence × 5 + error log
+- [ ] **0:00–0:15** Anki — 20 new, prioritize **R-ANKI-2** Barron's TOEFL (https://ankiweb.net/shared/info/973421516); clear all due reviews
+- [ ] **0:15–0:20** **Sentence-level L&R drill** — Open **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/). Play any episode. Pick 5 sentences (~8–15 words each). For each: pause after the sentence → repeat aloud from memory → re-listen. Tally how many you nailed verbatim (target ≥ 3/5).
+- [ ] **0:20–0:50** **Shadowing 30 min** — Pick a 5-min TED-Ed (**R-SHAD-1**, https://ed.ted.com/lessons). Run **3-pass protocol twice** (= 6 passes total): each cycle is blind → transcript → record-compare. Save recording as `D1_Shadow` for end-of-chapter A/B compare.
+- [ ] **0:50–1:20** **L&R 7-item micro-mock** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → log in → Speaking section → Listen & Repeat task. Record each item into phone Voice Memos as `D1_LR_1`…`D1_LR_7`. Upload to **R-AI-1** PrepEx (https://prepex.ai) for scoring. Log exact-match count (X/7) in Ch.4 Review Card under "Day 1 baseline".
+- [ ] **1:20–1:30** Writing SECONDARY — 1 Build-a-Sentence item from **R-OFF-1**, log any grammar slip in error log
 
 ---
 
-### 📅 Day 3 · Tue 6/30 — L MAIN / S SECONDARY (Interview)
+### 📅 Day 2 · Tue 6/30 — R MAIN / W SECONDARY
 
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** **Listening MAIN** — 1 lecture + 1 conversation from **R-OFF-1**.
-- [ ] **1:20–1:30** **Speaking SECONDARY — Interview** — Petra **R-AI-1** Interview × 2 questions + 1-line error log
+> **Today's focus:** Preserve Reading accuracy under the new Speaking-heavy template — prove one MAIN slot still hits Module 1 ≥ 80%.
 
----
-
-### 📅 Day 4 · Wed 7/1 — W MAIN / R SECONDARY
-
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** **Writing MAIN** — Discussion, 10 min strict, score via **R-AI-2**.
-- [ ] **1:20–1:30** Reading SECONDARY — 1 Complete-the-Words paragraph + error log
+- [ ] **0:00–0:15** Anki — 20 new + reviews
+- [ ] **0:15–0:20** Sentence-level L&R drill — 5 sentences from **R-SHAD-3** (https://www.scientificamerican.com/podcast/60-second-science/)
+- [ ] **0:20–0:50** Shadowing 30 min — same TED-Ed video as Day 1 OR pick a new 5-min **R-SHAD-1** (https://ed.ted.com/lessons); 3-pass protocol × 2
+- [ ] **0:50–1:20** **Reading MAIN** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Reading → 1 passage, strict 15-min timer. Use remaining time for error attribution (vocab / inference / detail / negative-factual). Log Module 1 % — aim ≥ 80%.
+- [ ] **1:20–1:30** Writing SECONDARY — Build a Sentence × 5 from **R-OFF-1** Writing section + error log
 
 ---
 
-### 📅 Day 5 · Thu 7/2 — S MAIN (L&R deep drill) / L SECONDARY
+### 📅 Day 3 · Wed 7/1 — L MAIN / S SECONDARY (Interview)
 
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** **L&R deep drill** — 14 items total: 7 from **R-OFF-1** TestReady L&R + 7 from **R-FREE-3** (https://testsucceed.com/materials/tests/toefl_new). For each item, do 2 takes: blind take → re-listen → corrected take. Compare both recordings.
-- [ ] **1:20–1:30** Listening SECONDARY — 1 short conversation set + error log
+> **Today's focus:** Keep Listening lecture comprehension at ≥ 5/6 and start banking weekly Interview reps so Ch.6 doesn't start cold.
 
----
-
-### 📅 Day 6 · Fri 7/3 — R MAIN / S SECONDARY (Interview)
-
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** **Reading MAIN** — **R-OFF-1** 1 passage.
-- [ ] **1:20–1:30** **Speaking SECONDARY — Interview** — Petra × 2 + error log
+- [ ] Anki (20 new + reviews) + Sentence-level L&R drill (5 from **R-SHAD-3**) + Shadowing 30 min (3-pass × 2 on **R-SHAD-1**)
+- [ ] **0:50–1:20** **Listening MAIN** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening → 1 lecture + 1 conversation, take Cornell-style notes. Score; target lecture ≥ 5/6. Log result.
+- [ ] **1:20–1:30** **Speaking SECONDARY — Interview** — **R-AI-1** PrepEx (https://prepex.ai) → Interview mode → 2 questions back-to-back. Record. Capture 1-line error per response (filler word / grammar / vagueness).
 
 ---
 
-### 📅 Day 7 · Sat 7/4 — L+S combined / W secondary
+### 📅 Day 4 · Thu 7/2 — W MAIN / R SECONDARY
 
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** **L+S combined** — Pick 10-min TED talk. Listen once, take notes. Record 90-sec spoken summary. Re-listen to verify.
-- [ ] **1:20–1:30** Writing SECONDARY — Email 10 min + weekly mini-review
+> **Today's focus:** Hold Writing Discussion rhythm with a single hard-timed rep so Ch.5 starts from a known score.
 
----
-
-### 📅 Day 8 · Sun 7/5 — L&R micro-mock (compare to Day 1)
-
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** **L&R micro-mock** — 7-item fresh set. Score. **Compare exact-match count to Day 1.**
-- [ ] **1:20–1:30** Writing SECONDARY + error log
+- [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
+- [ ] **0:50–1:20** **Writing MAIN** — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Writing → Discussion task, strict 10-min timer. Paste response into **R-AI-2** FluentPrep (https://www.fluentprep.online/) for rubric scoring. Log score and 1 weakness.
+- [ ] **1:20–1:30** Reading SECONDARY — 1 Complete-the-Words paragraph from **R-OFF-1** + error log
 
 ---
 
-### 📅 Day 9 · Mon 7/6 — R MAIN / W SECONDARY
+### 📅 Day 5 · Fri 7/3 — S MAIN (L&R deep drill) / L SECONDARY
 
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** Reading MAIN — 1 passage, strict 15 min.
-- [ ] **1:20–1:30** Writing SECONDARY — Build a Sentence × 5 + error log
+> **Today's focus:** First volume push — 14 L&R items with explicit re-take, so the failure modes (memory / pronunciation / speed / stress) become diagnosable.
 
----
-
-### 📅 Day 10 · Tue 7/7 — L MAIN / S SECONDARY (Interview)
-
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** Listening MAIN — 1 lecture + 1 conversation.
-- [ ] **1:20–1:30** Speaking SECONDARY — Petra Interview × 2 + error log
+- [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
+- [ ] **0:50–1:20** **L&R deep drill** — 14 items total: 7 from **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) Speaking → L&R + 7 from **R-FREE-3** TestSucceed (https://testsucceed.com/materials/tests/toefl_new) → Speaking samples. For each item: blind take (record) → re-listen to original → corrected take (record). Save pair as `D5_LR_{n}a`/`D5_LR_{n}b`. After all 14, tag each miss with one of: memory / pronunciation / speed / stress.
+- [ ] **1:20–1:30** Listening SECONDARY — 1 short conversation set from **R-OFF-1** + error log
 
 ---
 
-### 📅 Day 11 · Wed 7/8 — W MAIN / R SECONDARY
+### 📅 Day 6 · Sat 7/4 — R MAIN / S SECONDARY (Interview)
 
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** Writing MAIN — Discussion, 10 min.
-- [ ] **1:20–1:30** Reading SECONDARY — 1 Complete-the-Words drill + error log
+> **Today's focus:** Second Reading MAIN this week + second Interview rep — both maintenance, no new mechanics.
 
----
-
-### 📅 Day 12 · Thu 7/9 — S MAIN (L&R deep drill v2) / L SECONDARY
-
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** **L&R deep drill v2** — Today add **speed pressure**: play the audio at 1.1× (in TestReady use browser playback speed, or download audio and use Audacity/VLC). 14 items.
-- [ ] **1:20–1:30** Listening SECONDARY — 1 conversation + error log
+- [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
+- [ ] **0:50–1:20** **Reading MAIN** — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Reading → 1 passage, strict 15-min timer + error attribution. Log Module 1 %.
+- [ ] **1:20–1:30** **Speaking SECONDARY — Interview** — **R-AI-1** PrepEx (https://prepex.ai) Interview × 2 questions; log 1 error per response
 
 ---
 
-### 📅 Day 13 · Fri 7/10 — R MAIN / S SECONDARY
+### 📅 Day 7 · Sun 7/5 — L+S combined / W secondary
 
-- [ ] Anki + Sentence drill + Shadowing 30 min
-- [ ] **0:50–1:20** Reading MAIN — 1 passage.
-- [ ] **1:20–1:30** Speaking SECONDARY — Petra × 2 + error log
+> **Today's focus:** Bridge Listening and Speaking under one task — a lecture-summary rep that previews Ch.8's integrated work.
+
+- [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
+- [ ] **0:50–1:20** **L+S combined** — Pick a 10-min talk from **R-SHAD-2** TED Talks (https://www.ted.com/talks), filter 5–10 min. Listen once with notes. Record a 90-sec spoken summary into Voice Memos as `D7_Summary`. Re-listen to original; mark any key point you missed.
+- [ ] **1:20–1:30** Writing SECONDARY — Email task from **R-OFF-1**, 10 min + weekly mini-review (skim week's error log, pick top 1 recurring issue to watch next week)
 
 ---
 
-### 📅 Day 14 · Sat 7/11 — 🎯 Bi-week review + Showcase L&R + Listening preserve mock
+### 📅 Day 8 · Mon 7/6 — L&R micro-mock (compare to Day 1)
 
-- [ ] **0:00–0:15** Anki + reviews
-- [ ] **0:15–0:20** Sentence drill (one last time)
-- [ ] **0:20–0:50** Shadowing 30 min
-- [ ] **0:50–1:15** **🎯 Showcase L&R**: 7-item fresh set. Score. Goal: ≥ 80% exact match.
-- [ ] **1:15–1:30** Quick **Listening preserve drill** (5 items from a fresh **R-OFF-1** lecture, no notes today — just see if accuracy holds) + Ch.4 Review Card
+> **Today's focus:** First trend check — same protocol as Day 1, so the delta is the only signal.
+
+- [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
+- [ ] **0:50–1:20** **L&R micro-mock** — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → Listen & Repeat, fresh 7-item set (not items used Day 1 or Day 5). Record as `D8_LR_1`…`D8_LR_7`. Score via **R-AI-1** PrepEx (https://prepex.ai). Log exact-match count under "Day 8 mid-point" in Review Card. **Compare to Day 1 baseline** — note delta.
+- [ ] **1:20–1:30** Writing SECONDARY — 1 Build-a-Sentence from **R-OFF-1** + error log
+
+---
+
+### 📅 Day 9 · Tue 7/7 — R MAIN / W SECONDARY
+
+> **Today's focus:** Week-2 Reading maintenance — confirm Module 1 hasn't slipped under the doubled Speaking load.
+
+- [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
+- [ ] **0:50–1:20** Reading MAIN — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Reading → 1 passage, strict 15-min timer + error attribution. Log Module 1 %; flag drop vs. Day 2/6.
+- [ ] **1:20–1:30** Writing SECONDARY — Build a Sentence × 5 from **R-OFF-1** + error log
+
+---
+
+### 📅 Day 10 · Wed 7/8 — L MAIN / S SECONDARY (Interview)
+
+> **Today's focus:** Hold lecture comprehension at chapter goal and bank Interview rep #3.
+
+- [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
+- [ ] **0:50–1:20** Listening MAIN — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening → 1 lecture + 1 conversation, Cornell notes. Score; lecture target ≥ 5/6.
+- [ ] **1:20–1:30** Speaking SECONDARY — **R-AI-1** PrepEx (https://prepex.ai) Interview × 2 + 1-line error log per response
+
+---
+
+### 📅 Day 11 · Thu 7/9 — W MAIN / R SECONDARY
+
+> **Today's focus:** Second Writing Discussion rep of the chapter — track score delta vs. Day 4.
+
+- [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
+- [ ] **0:50–1:20** Writing MAIN — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Writing → Discussion, strict 10-min timer. Score in **R-AI-2** FluentPrep (https://www.fluentprep.online/). Log score, compare to Day 4.
+- [ ] **1:20–1:30** Reading SECONDARY — 1 Complete-the-Words drill from **R-OFF-1** + error log
+
+---
+
+### 📅 Day 12 · Fri 7/10 — S MAIN (L&R deep drill v2) / L SECONDARY
+
+> **Today's focus:** Speed-overload the L&R skill so real-time pace feels easy on Day 14 showcase.
+
+- [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
+- [ ] **0:50–1:20** **L&R deep drill v2** — 14 items with **speed pressure** at 1.1× playback. In **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), use browser playback-speed control (or download audio + Audacity/VLC at 1.1×). Sources: 7 from R-OFF-1 L&R + 7 from **R-FREE-3** (https://testsucceed.com/materials/tests/toefl_new). Record each, tag failure mode (memory / pronunciation / speed / stress). Note which mode dominates.
+- [ ] **1:20–1:30** Listening SECONDARY — 1 conversation from **R-OFF-1** + error log
+
+---
+
+### 📅 Day 13 · Sat 7/11 — R MAIN / S SECONDARY
+
+> **Today's focus:** Final Reading touch + final Interview rep (=4) before showcase day; also record a Day-13 shadowing clip for end-of-chapter A/B.
+
+- [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2. Save today's record-compare clip as `D13_Shadow` for tomorrow's A/B vs. `D1_Shadow`.
+- [ ] **0:50–1:20** Reading MAIN — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Reading → 1 passage, strict 15 min + error attribution.
+- [ ] **1:20–1:30** Speaking SECONDARY — **R-AI-1** PrepEx (https://prepex.ai) Interview × 2 + error log
+
+---
+
+### 📅 Day 14 · Sun 7/12 — 🎯 Bi-week review + Showcase L&R + Listening preserve mock
+
+> **Today's focus:** Verdict day — score the showcase L&R against the ≥ 80% chapter goal and fill in the Ch.4 Review Card that drives Ch.5 modifications.
+
+- [ ] **0:00–0:15** Anki — clear all due reviews
+- [ ] **0:15–0:20** Sentence-level L&R drill — 5 from **R-SHAD-3** (https://www.scientificamerican.com/podcast/60-second-science/), one last time
+- [ ] **0:20–0:50** Shadowing 30 min — **R-SHAD-1** (https://ed.ted.com/lessons), 3-pass × 2. Then play `D1_Shadow` and `D13_Shadow` back to back; note "improvement: Yes / Partial / No" for Review Card.
+- [ ] **0:50–1:15** **🎯 Showcase L&R** — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → L&R, fresh 7-item set. Record as `D14_LR_1`…`D14_LR_7`. Score via **R-AI-1** PrepEx (https://prepex.ai) + self-check. Goal: ≥ 80% exact match (≥ 6/7). Also run the 12-word novel-sentence test once (ask a friend or use a fresh **R-SHAD-3** sentence) and log error count.
+- [ ] **1:15–1:30** **Listening preserve drill** — 5 items from a fresh **R-OFF-1** lecture, **no notes** today (test bare recall). Log _/5. Then fill in the Ch.4 Review Card below.
 
 ---
 
 ## 5 · Ch.4 Review Card (Day 14)
 
 ```markdown
-## Ch.4 Review (7/11)
+## Ch.4 Review (7/12)
 
 ### Goal: Listen & Repeat exact-match ≥ 80%
 - Day 1 baseline: __ / 7
