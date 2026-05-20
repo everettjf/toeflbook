@@ -396,5 +396,154 @@ const CONTENT = {
         { word:"subsequent", correct:"coming after something else", options:["coming after something else","happening first","never happening","completely hidden"] },
       ]}
     },
+    // ===================== Day 29 — passage (reading) =====================
+    29: {
+      skill:"reading", engine:"inference-detective", title:"Inference Detective IV",
+      blurb:"Open the reading chapter by inferring the implied meaning of four academic passages.",
+      data:{ items:[
+        { passage:"Archaeologists found grain stores far larger than a single household could consume in one of the settlement's oldest buildings. Nearby, they uncovered tablets recording who had deposited and withdrawn portions of grain.", question:"What can be inferred about the settlement?", options:["Its people did not farm grain.","It had some form of organized communal storage.","The building was used only for housing.","The tablets were purely decorative."], correct:1, why:"Oversized stores plus deposit-and-withdrawal records imply grain was managed communally rather than per household." },
+        { passage:"After a coastal city banned cars from its historic center, shopkeepers initially protested. A year later, foot traffic had risen and several owners reported their best sales in years.", question:"What can be inferred about the car ban?", options:["It drove most shops out of business.","It ended up benefiting many of the businesses there.","Shopkeepers were correct to oppose it.","It reduced the number of visitors."], correct:1, why:"Rising foot traffic and record sales after the ban show it ultimately helped the businesses." },
+        { passage:"A species of moth that once had pale wings became predominantly dark in regions where soot from factories coated the trees. In areas with clean air, the pale form remained common.", question:"What can be inferred about the moths' coloring?", options:["Wing color is unrelated to surroundings.","Coloring that blends with the trees offers an advantage.","All moths eventually turn dark.","Soot directly dyes the moths' wings."], correct:1, why:"Dark moths thrived on sooty trees while pale ones stayed common on clean trees, so blending in confers an advantage." },
+        { passage:"The diary of an eighteenth-century merchant lists frequent shipments of ice packed in sawdust traveling hundreds of miles inland during summer. The ice was sold at high prices to wealthy households.", question:"What can be inferred from the diary?", options:["Ice was worthless in that era.","There was a profitable trade in preserving and transporting ice.","Only poor families could afford ice.","Sawdust was used to melt the ice faster."], correct:1, why:"High prices and long-distance summer shipments imply a profitable trade in storing and moving ice." },
+      ]}
+    },
+    // ===================== Day 30 — vocab (reading) =====================
+    30: {
+      skill:"reading", engine:"vocab-galaxy", title:"Vocab Galaxy: Reading Words",
+      blurb:"Launch the reading chapter by matching eight academic words to their precise meanings.",
+      data:{ items:[
+        { word:"ambiguous", correct:"open to more than one interpretation", options:["open to more than one interpretation","perfectly clear and exact","completely silent","strictly forbidden"] },
+        { word:"advocate", correct:"to publicly support a cause or idea", options:["to publicly support a cause or idea","to strongly oppose","to count again","to repeat aloud"] },
+        { word:"scrutinize", correct:"to examine closely and critically", options:["to examine closely and critically","to glance at briefly","to destroy fully","to hide away"] },
+        { word:"comprehensive", correct:"complete and covering all parts", options:["complete and covering all parts","narrow and partial","completely random","easily broken"] },
+        { word:"mitigate", correct:"to make something less severe", options:["to make something less severe","to make far worse","to keep secret","to summarize briefly"] },
+        { word:"plausible", correct:"reasonable and likely to be true", options:["reasonable and likely to be true","clearly impossible","strictly secret","loud and harsh"] },
+        { word:"empirical", correct:"based on observation or experiment", options:["based on observation or experiment","based purely on guessing","totally unrelated","barely visible"] },
+        { word:"arbitrary", correct:"based on chance rather than reason", options:["based on chance rather than reason","carefully justified","clearly visible","easily removed"] },
+      ]}
+    },
+    // ===================== Day 31 — vocab (reading) =====================
+    31: {
+      skill:"reading", engine:"word-cascade", title:"Word Cascade: Reading",
+      blurb:"Catch falling academic words and pair each with its correct reading-level meaning.",
+      data:{ items:[
+        { word:"prevalent", correct:"widespread or common in an area", options:["widespread or common in an area","extremely rare","completely hidden","strictly forbidden"] },
+        { word:"viable", correct:"capable of working successfully", options:["capable of working successfully","certain to fail","totally random","easily broken"] },
+        { word:"redundant", correct:"no longer needed because of repetition", options:["no longer needed because of repetition","absolutely essential","loud and harsh","barely visible"] },
+        { word:"concise", correct:"expressing much in few words", options:["expressing much in few words","long and wordy","completely empty","strictly secret"] },
+        { word:"anomaly", correct:"something that differs from the norm", options:["something that differs from the norm","a perfectly typical case","a written contract","a kind of tool"] },
+        { word:"pertinent", correct:"clearly relevant to the matter", options:["clearly relevant to the matter","completely off topic","loud and sudden","easily removed"] },
+        { word:"transient", correct:"lasting only a short time", options:["lasting only a short time","permanent and fixed","strictly secret","clearly visible"] },
+        { word:"lucid", correct:"clear and easy to understand", options:["clear and easy to understand","confusing and murky","extremely loud","barely visible"] },
+      ]}
+    },
+    // ===================== Day 32 — passage (reading) =====================
+    32: {
+      skill:"reading", engine:"inference-detective", title:"Inference Detective V",
+      blurb:"Sharpen your reading by deducing the conclusion supported by four new passages.",
+      data:{ items:[
+        { passage:"In a long-term study, gardens that left a strip of wildflowers along their edges attracted far more bees than tidy gardens with no flowering borders. The wildflower gardens also produced larger vegetable harvests.", question:"What can be inferred from the study?", options:["Wildflowers harm vegetable plants.","Attracting bees can improve vegetable yields.","Tidy gardens always produce more food.","Bees avoid wildflowers."], correct:1, why:"More bees and bigger harvests in wildflower gardens imply that attracting bees boosts vegetable yields." },
+        { passage:"A region that once relied on a single coal mine for most jobs invested heavily in retraining workers for technology firms. A decade later, unemployment there was lower than in similar towns that made no such investment.", question:"What can be inferred about the retraining program?", options:["It had no measurable effect.","It likely helped the region adapt to economic change.","It forced the coal mine to expand.","It increased unemployment."], correct:1, why:"Lower unemployment than comparable towns suggests the retraining helped the region adapt." },
+        { passage:"Sailors of the past noticed that ships disappeared from view hull-first, with the masts vanishing last as they sailed away. This observation troubled those who assumed the sea was perfectly flat.", question:"What can be inferred from the sailors' observation?", options:["Ships sank as they sailed away.","The surface of the sea is curved.","Masts are heavier than hulls.","The sailors had poor eyesight."], correct:1, why:"Hulls vanishing before masts is what a curved surface would cause, undermining the flat-sea assumption." },
+        { passage:"A museum replaced its harsh overhead lighting with softer, indirect light in one gallery. Visitors lingered noticeably longer in that gallery and rated their experience higher than in the brightly lit rooms.", question:"What can be inferred about the lighting change?", options:["Bright light makes art easier to enjoy.","Lighting can shape how visitors experience a gallery.","Visitors prefer total darkness.","The artworks were changed as well."], correct:1, why:"Longer visits and higher ratings after the change show lighting affects the gallery experience." },
+      ]}
+    },
+    // ===================== Day 33 — vocab (reading) =====================
+    33: {
+      skill:"reading", engine:"bubble-match", title:"Bubble Match: Reading",
+      blurb:"Pop the bubble that defines each academic word to expand your reading vocabulary.",
+      data:{ items:[
+        { word:"augment", correct:"to increase the size or amount of", options:["to increase the size or amount of","to reduce sharply","to count once","to repeat aloud"] },
+        { word:"eradicate", correct:"to remove or destroy completely", options:["to remove or destroy completely","to gently encourage","to delay a task","to hide away"] },
+        { word:"magnitude", correct:"the great size or importance of something", options:["the great size or importance of something","a tiny detail","a written rule","a quiet whisper"] },
+        { word:"prone", correct:"likely to do or suffer something", options:["likely to do or suffer something","completely protected","strictly secret","loud and harsh"] },
+        { word:"validate", correct:"to confirm that something is true or sound", options:["to confirm that something is true or sound","to prove false","totally random","easily broken"] },
+        { word:"nuance", correct:"a subtle difference in meaning", options:["a subtle difference in meaning","a huge obvious gap","a serious failure","a kind of machine"] },
+        { word:"paradigm", correct:"a typical model or pattern of thinking", options:["a typical model or pattern of thinking","a random exception","a written reward","a long delay"] },
+        { word:"ubiquitous", correct:"present everywhere at once", options:["present everywhere at once","found in only one place","completely hidden","barely visible"] },
+      ]}
+    },
+    // ===================== Day 34 — scramble (writing) =====================
+    34: {
+      skill:"writing", engine:"sentence-builder", title:"Sentence Builder III",
+      blurb:"Strengthen your writing by reordering six scrambled academic sentences correctly.",
+      data:{ items:[
+        { answer:"The researchers presented their findings to a skeptical audience." },
+        { answer:"Careful editing can transform a rough draft into clear prose." },
+        { answer:"The author compares two competing theories throughout the chapter." },
+        { answer:"Reliable evidence should always support a strong argument." },
+        { answer:"The committee reviewed each proposal before reaching a decision." },
+        { answer:"Reading critically helps students question what they encounter." },
+      ]}
+    },
+    // ===================== Day 35 — vocab (reading) =====================
+    35: {
+      skill:"reading", engine:"word-runner", title:"Word Runner: Reading",
+      blurb:"Run through a lane of academic words, choosing the right meaning at full speed.",
+      data:{ items:[
+        { word:"intrinsic", correct:"belonging naturally to something", options:["belonging naturally to something","added from outside","completely absent","easily removed"] },
+        { word:"discrete", correct:"separate and individually distinct", options:["separate and individually distinct","blended into one mass","strictly secret","loud and sudden"] },
+        { word:"catalyst", correct:"something that speeds up a change", options:["something that speeds up a change","something that halts change","a written rule","a quiet whisper"] },
+        { word:"synthesize", correct:"to combine ideas into a new whole", options:["to combine ideas into a new whole","to take fully apart","to count again","to repeat aloud"] },
+        { word:"candid", correct:"honest and straightforward in speech", options:["honest and straightforward in speech","secretive and evasive","totally random","barely visible"] },
+        { word:"rigorous", correct:"extremely thorough and demanding", options:["extremely thorough and demanding","careless and loose","completely empty","easily broken"] },
+        { word:"autonomy", correct:"the ability to govern oneself", options:["the ability to govern oneself","total dependence on others","a serious failure","a kind of machine"] },
+        { word:"dynamic", correct:"marked by constant change or activity", options:["marked by constant change or activity","fixed and unchanging","strictly forbidden","clearly visible"] },
+      ]}
+    },
+    // ===================== Day 36 — passage (reading) =====================
+    36: {
+      skill:"reading", engine:"inference-detective", title:"Inference Detective VI",
+      blurb:"Test your reading instincts by inferring what each of four passages logically implies.",
+      data:{ items:[
+        { passage:"A bird native to a remote island lost the ability to fly over many generations, since the island had no ground predators. When rats were later introduced by ships, the bird's numbers fell rapidly.", question:"What can be inferred about the flightless bird?", options:["It could easily escape the rats.","Its loss of flight left it vulnerable to new predators.","Rats helped the bird survive.","The bird never lived on the ground."], correct:1, why:"A sharp decline after rats arrived implies that being flightless made the bird vulnerable to ground predators." },
+        { passage:"Two groups of students prepared for the same test. One group spread its study over two weeks, while the other crammed everything into the final night. The spaced group recalled far more a month later.", question:"What can be inferred about studying?", options:["Cramming is the most effective method.","Spreading study over time aids long-term recall.","The test was unfair to one group.","Memory does not depend on study habits."], correct:1, why:"Better month-later recall by the spaced group implies spacing study improves lasting memory." },
+        { passage:"A river that had been straightened decades ago to speed up boat traffic was recently allowed to wind naturally again. Within a few years, fish populations recovered and downstream flooding became less frequent.", question:"What can be inferred about the straightened river?", options:["Straightening it had improved the ecosystem.","The natural, winding form better supports the river's health.","Boats can no longer use the river.","Flooding is unrelated to river shape."], correct:1, why:"Recovering fish and reduced flooding after restoring the winding form imply that shape supports river health." },
+        { passage:"An ancient script remained unreadable for centuries until scholars found a stone carved with the same text in three languages, two of which were already understood. Soon after, translations of the unknown script appeared.", question:"What can be inferred about the three-language stone?", options:["It made the script harder to read.","It provided a key for decoding the unknown script.","The unknown script was never deciphered.","Only one language on it was useful."], correct:1, why:"Translations appearing soon after the stone's discovery imply it served as the key to decoding the script." },
+      ]}
+    },
+    // ===================== Day 37 — vocab (reading) =====================
+    37: {
+      skill:"reading", engine:"cube-match", title:"Cube Match: Reading",
+      blurb:"Rotate through academic words and lock each one to its precise meaning.",
+      data:{ items:[
+        { word:"integral", correct:"necessary to make something complete", options:["necessary to make something complete","entirely optional","completely hidden","strictly forbidden"] },
+        { word:"contradict", correct:"to state the opposite of something", options:["to state the opposite of something","to fully agree with","to count again","to repeat aloud"] },
+        { word:"ethical", correct:"relating to right and wrong conduct", options:["relating to right and wrong conduct","without any rules","loud and harsh","barely visible"] },
+        { word:"negligible", correct:"so small as to be unimportant", options:["so small as to be unimportant","large and significant","strictly secret","easily broken"] },
+        { word:"profound", correct:"very deep or far-reaching", options:["very deep or far-reaching","shallow and minor","completely empty","clearly visible"] },
+        { word:"trivial", correct:"of little value or importance", options:["of little value or importance","deeply important","a kind of machine","a long delay"] },
+        { word:"aggregate", correct:"a total formed by combining parts", options:["a total formed by combining parts","a single isolated piece","a written reward","a quiet whisper"] },
+        { word:"simultaneous", correct:"happening at the same time", options:["happening at the same time","occurring one after another","never happening","strictly forbidden"] },
+      ]}
+    },
+    // ===================== Day 38 — echo (speaking) =====================
+    38: {
+      skill:"speaking", engine:"echo-mic", title:"Echo Mic: Reading Aloud",
+      blurb:"Build speaking fluency by reading six academic sentences aloud into the mic.",
+      data:{ items:[
+        "The passage suggests that early cities grew up around reliable water sources.",
+        "According to the author, careful reading begins with asking good questions.",
+        "Each paragraph in the essay supports a single, clearly stated idea.",
+        "The evidence presented here points toward an unexpected conclusion.",
+        "Skimming a text first can help you locate its main argument quickly.",
+        "A strong summary captures the central point in just a few sentences.",
+      ]}
+    },
+    // ===================== Day 39 — vocab (reading) =====================
+    39: {
+      skill:"reading", engine:"vocab-galaxy", title:"Vocab Galaxy: Reading Depth",
+      blurb:"Deepen your reading vocabulary by matching eight more academic words to their meanings.",
+      data:{ items:[
+        { word:"cumulative", correct:"increasing by successive additions", options:["increasing by successive additions","shrinking steadily","completely random","strictly forbidden"] },
+        { word:"deteriorate", correct:"to become progressively worse", options:["to become progressively worse","to steadily improve","to count again","to repeat aloud"] },
+        { word:"exemplify", correct:"to serve as a typical example of", options:["to serve as a typical example of","to contradict entirely","to destroy fully","to hide away"] },
+        { word:"hierarchy", correct:"a system ranked by level or rank", options:["a system ranked by level or rank","a group with no order","a written reward","a quiet whisper"] },
+        { word:"intervene", correct:"to step in to alter an outcome", options:["to step in to alter an outcome","to stay completely out","strictly secret","easily broken"] },
+        { word:"mutual", correct:"shared by two or more parties", options:["shared by two or more parties","held by one alone","loud and harsh","barely visible"] },
+        { word:"refute", correct:"to prove a claim to be false", options:["to prove a claim to be false","to firmly support","completely empty","clearly visible"] },
+        { word:"scope", correct:"the range a subject covers", options:["the range a subject covers","a single fixed point","a kind of machine","a long delay"] },
+      ]}
+    },
   },
 };
