@@ -24,7 +24,7 @@ TDG.engine("grammar-invaders", {
     let ships = [];                   // {x,y,w,text,color,idx,dead,explode,reveal}
     let bullets = [];                 // {x,y}
     let parts = [];
-    let descend = 18;                 // px/sec, ramps up
+    let descend = 30;                 // px/sec, ramps up
     let locked = false;               // input frozen during resolve
     let questionText = "", passageText = "";
     let whyText = "", whyTimer = 0, whyOk = false;
@@ -39,7 +39,7 @@ TDG.engine("grammar-invaders", {
       const order = shuffle(opts);
       const n = Math.max(1, order.length), laneW = C.w / n, sw = laneW * SHIP_W_FACTOR;
       ships = order.map((o, k) => ({
-        x: k * laneW + (laneW - sw) / 2, w: sw, y: -SHIP_H - rand(0, 80),
+        x: k * laneW + (laneW - sw) / 2, w: sw, y: 96 + rand(0, 36),
         text: o.text, color: COLORS[k % COLORS.length],
         idx: o.idx, correctIdx: it.correct,
         dead: false, explode: 0, reveal: false,

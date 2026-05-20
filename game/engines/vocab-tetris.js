@@ -12,12 +12,13 @@ TDG.engine("vocab-tetris", {
     let idx = s.i || 0, correct = s.correct || 0, combo = 0;
 
     const C = ctx.canvas(460); const g = C.ctx;
-    stage.insertAdjacentHTML("beforeend", '<p class="hint" style="margin-top:10px">⬅️ ➡️ Arrow keys / A·D / drag to aim · Down / Space / tap to HARD-DROP. Drop ONLY the block that matches the word — wrong blocks pile up.</p>');
+    stage.insertAdjacentHTML("beforeend", '<p class="hint" style="margin-top:10px">Meanings fall one by one. HARD-DROP (<b>Space</b> / ↓ / tap) the block that matches the word. Drop a wrong one and it piles up.</p>');
 
     // ---- well geometry ----
-    const COLS = 5;                 // grid columns across the well
+    const COLS = 5;                 // grid columns (backdrop only)
     const TOP = 90;                 // y where the well begins (below word banner)
-    const ROW_H = 30;               // stacked-row height
+    const ROW_H = 34;               // stacked-row height
+    const BLOCK_H = 60;             // falling block height (full-width, readable)
     const PALETTE = ["#6c8cff", "#22d3ee", "#f472b6", "#fbbf24"]; // per-option colors
 
     let wellX = 0, wellW = 0, cellW = 0, floorY = 0, maxRows = 0;
@@ -137,7 +138,7 @@ TDG.engine("vocab-tetris", {
       // gravity on the active piece
       if (piece && !advancing) {
         piece.y += piece.vy * dt;
-        const restY = floorY - stackHeight() - ROW_H;
+        const restY = floorY - stackHeight() - BLOCK_H;
         if (piece.y >= restY) { piece.y = restY; lockPiece(false); }
       }
 
@@ -162,11 +163,15 @@ TDG.engine("vocab-tetris", {
       g.fillStyle = "#9aa0c8"; g.font = "600 12px sans-serif";
       g.fillText("drop the matching meaning · Item " + Math.min(idx + 1, items.length) + "/" + items.length, C.w / 2, 60);
 
-      // locked pile (wrong drops)
+      // locked pile (wrong drops) — shown as dim bars with a single truncated line
       stackRows.forEach((r, i) => {
         const bx = wellX + 3, bw = wellW - 6;
         const by = floorY - (i + 1) * ROW_H + 2;
-        drawBlock(bx, by, bw, ROW_H - 4, r.color, r.text, 0.55);
+        g.globalAlpha = 0.5; g.fillStyle = r.color;
+        roundRect(g, bx, by, bw, ROW_H - 4, 7); g.fill();
+        g.globalAlpha = 0.95; g.fillStyle = "#0b1020"; g.font = "700 11px sans-serif"; g.textAlign = "center";
+        g.fillText(trunc("✗ " + r.text, bw - 16), bx + bw / 2, by + (ROW_H - 4) / 2 + 4);
+        g.globalAlpha = 1;
       });
 
       // line-clear flash sweeping the bottom row
@@ -177,13 +182,12 @@ TDG.engine("vocab-tetris", {
         roundRect(g, wellX, floorY - stackHeight() - ROW_H, wellW, ROW_H, 6); g.fill();
       }
 
-      // falling piece
+      // falling piece (full well width so the meaning is readable)
       if (piece) {
-        const bx = wellX + piece.col * cellW + 3;
-        const bw = cellW - 6;
-        drawBlock(bx, piece.y, bw, ROW_H + 14, piece.color, piece.text, 1);
-        // drop-shadow guide line under the piece
-        const restY = floorY - stackHeight() - ROW_H;
+        const bx = wellX + 3, bw = wellW - 6;
+        drawBlock(bx, piece.y, bw, BLOCK_H, piece.color, piece.text, 1);
+        // drop guide line at the resting position
+        const restY = floorY - stackHeight() - BLOCK_H;
         g.strokeStyle = "rgba(255,255,255,.18)"; g.setLineDash([5, 5]); g.lineWidth = 1;
         g.beginPath(); g.moveTo(bx, restY); g.lineTo(bx + bw, restY); g.stroke(); g.setLineDash([]);
       }
@@ -210,9 +214,15 @@ TDG.engine("vocab-tetris", {
       g.fillStyle = "rgba(255,255,255,.16)";
       roundRect(g, x + 3, y + 3, w - 6, Math.min(10, h / 3), 5); g.fill();
       g.globalAlpha = Math.min(1, alpha + 0.2);
-      g.fillStyle = "#0b1020"; g.font = "700 12px sans-serif"; g.textAlign = "center";
-      wrapText(g, text, x + w / 2, y + h / 2 - 4, w - 10, 14);
+      g.fillStyle = "#0b1020"; g.font = "700 13px sans-serif"; g.textAlign = "center";
+      wrapText(g, text, x + w / 2, y + h / 2, w - 18, 16);
       g.globalAlpha = 1;
+    }
+    function trunc(text, maxW) {
+      text = text + "";
+      if (g.measureText(text).width <= maxW) return text;
+      while (text.length > 1 && g.measureText(text + "…").width > maxW) text = text.slice(0, -1);
+      return text + "…";
     }
 
     function cleanup() {
