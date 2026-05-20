@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TOEFL Daily Game · 130-Day Play & Learn</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="hero">
+      <h1>🎮 TOEFL Daily Game</h1>
+      <p class="sub">One game a day for 130 days. Play and train listening, speaking, reading & writing — aligned with your study book.</p>
+      <div class="streakrow">
+        <div class="stat"><b id="s-streak">0</b><span>🔥 day streak</span></div>
+        <div class="stat"><b id="s-done">0</b><span>games completed</span></div>
+        <div class="stat"><b id="s-today">—</b><span>today is</span></div>
+      </div>
+      <div class="legend">
+        <span><i style="background:var(--listening)"></i>Listening</span>
+        <span><i style="background:var(--speaking)"></i>Speaking</span>
+        <span><i style="background:var(--reading)"></i>Reading</span>
+        <span><i style="background:var(--writing)"></i>Writing</span>
+        <span><i style="background:var(--mixed)"></i>Mixed</span>
+      </div>
+    </div>
+    <div id="cal"></div>
+  </div>
+
+  <script src="content.js"></script>
+  <script src="engine.js"></script>
+  <script>
+    (function () {
+      var T = window.TDG, C = CONTENT;
+      var today = T.todayDayNum();
+      var stats = T.Progress.stats();
+      document.getElementById("s-streak").textContent = stats.streak;
+      document.getElementById("s-done").textContent = stats.count;
+      var td = T.dateForDay(today);
+      document.getElementById("s-today").textContent = (today >= 1 && today <= 130) ? ("Day " + today) : T.fmt(td);
+
+      var SKILLVAR = { listening: "--listening", speaking: "--speaking", reading: "--reading", writing: "--writing", mixed: "--mixed" };
+      var cal = document.getElementById("cal");
+      var html = "";
+      C.chapters.forEach(function (ch) {
+        html += '<div class="chapter-block"><h3>Ch.' + ch.n + " · " + ch.title + "</h3>";
+        html += '<p class="crange">' + T.fmt(T.dateForDay(ch.from)) + " – " + T.fmt(T.dateForDay(ch.to)) + "</p>";
+        html += '<div class="grid">';
+        for (var d = ch.from; d <= ch.to; d++) {
+          var cfg = C.days[d];
+          var playable = !!cfg;
+          var prog = T.Progress.get(d);
+          var skill = cfg ? cfg.skill : ch.skill;
+          var color = "var(" + (SKILLVAR[skill] || "--mixed") + ")";
+          var cls = "cell " + (playable ? "playable" : "locked") + (d === today ? " today" : "");
+          var href = playable ? ' href="day-' + String(d).padStart(3, "0") + '.html"' : "";
+          var tag = playable ? "a" : "div";
+          html += "<" + tag + ' class="' + cls + '"' + href + ' title="' + (cfg ? cfg.title : "coming soon") + '">';
+          html += '<span class="dn">' + d + "</span>";
+          html += '<span class="dd">' + T.fmt(T.dateForDay(d)).split(" ")[0] + "</span>";
+          if (prog && prog.done) html += '<span class="done">✅</span>';
+          html += '<span class="bar" style="background:' + color + '"></span>';
+          html += "</" + tag + ">";
+        }
+        html += "</div></div>";
+      });
+      cal.innerHTML = html;
+    })();
+  </script>
+</body>
+</html>

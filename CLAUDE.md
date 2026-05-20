@@ -1,6 +1,15 @@
 # Project: TOEFL iBT 2026 130-Day Sprint Plan
 
+## Repo structure
+
+- `book/` — the 130-day study plan: `README.md`, `resources.md`, `ch01`–`ch10` chapter files, `build.sh` (pandoc → typst → `toefl-book.pdf`). Run the build from inside `book/` (`cd book && ./build.sh`).
+- `game/` — daily browser games (one HTML page per study day) that let you play-and-learn the day's L/S/R/W focus. (In development.)
+
 ## Output format rules
+
+These apply to files under `book/`.
+
+### No Markdown tables in chapter / resources / README files
 
 ### No Markdown tables in chapter / resources / README files
 
