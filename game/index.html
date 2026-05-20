@@ -4,16 +4,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>TOEFL Daily Game · 130-Day Play & Learn</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=2">
 </head>
 <body>
   <div class="wrap">
     <div class="hero">
       <h1>🎮 TOEFL Daily Game</h1>
-      <p class="sub">One game a day for 130 days. Play and train listening, speaking, reading & writing — aligned with your study book.</p>
+      <p class="sub">One game a day. Ten game engines — arcade, 3D, dictation, speaking — rotate as you go, training listening, speaking, reading & writing alongside your study book. Tap 🎲 in any day to shuffle the engine.</p>
       <div class="streakrow">
         <div class="stat"><b id="s-streak">0</b><span>🔥 day streak</span></div>
         <div class="stat"><b id="s-done">0</b><span>games completed</span></div>
+        <div class="stat"><b id="s-avg">—</b><span>avg score</span></div>
         <div class="stat"><b id="s-today">—</b><span>today is</span></div>
       </div>
       <div class="legend">
@@ -27,8 +28,8 @@
     <div id="cal"></div>
   </div>
 
-  <script src="content.js"></script>
-  <script src="engine.js"></script>
+  <script src="content.js?v=2"></script>
+  <script src="core.js?v=2"></script>
   <script>
     (function () {
       var T = window.TDG, C = CONTENT;
@@ -36,11 +37,11 @@
       var stats = T.Progress.stats();
       document.getElementById("s-streak").textContent = stats.streak;
       document.getElementById("s-done").textContent = stats.count;
+      document.getElementById("s-avg").textContent = stats.count ? (stats.avg + "%") : "—";
       var td = T.dateForDay(today);
       document.getElementById("s-today").textContent = (today >= 1 && today <= 130) ? ("Day " + today) : T.fmt(td);
 
       var SKILLVAR = { listening: "--listening", speaking: "--speaking", reading: "--reading", writing: "--writing", mixed: "--mixed" };
-      var cal = document.getElementById("cal");
       var html = "";
       C.chapters.forEach(function (ch) {
         html += '<div class="chapter-block"><h3>Ch.' + ch.n + " · " + ch.title + "</h3>";
@@ -53,18 +54,18 @@
           var skill = cfg ? cfg.skill : ch.skill;
           var color = "var(" + (SKILLVAR[skill] || "--mixed") + ")";
           var cls = "cell " + (playable ? "playable" : "locked") + (d === today ? " today" : "");
-          var href = playable ? ' href="day-' + String(d).padStart(3, "0") + '.html"' : "";
+          var href = playable ? ' href="play.html?d=' + d + '"' : "";
           var tag = playable ? "a" : "div";
-          html += "<" + tag + ' class="' + cls + '"' + href + ' title="' + (cfg ? cfg.title : "coming soon") + '">';
+          html += "<" + tag + ' class="' + cls + '"' + href + ' title="' + (cfg ? (cfg.title + " — " + cfg.engine) : "coming soon") + '">';
           html += '<span class="dn">' + d + "</span>";
           html += '<span class="dd">' + T.fmt(T.dateForDay(d)).split(" ")[0] + "</span>";
-          if (prog && prog.done) html += '<span class="done">✅</span>';
+          if (prog && prog.done) { html += '<span class="done">✅</span>'; html += '<span class="pct">' + prog.best + "%</span>"; }
           html += '<span class="bar" style="background:' + color + '"></span>';
           html += "</" + tag + ">";
         }
         html += "</div></div>";
       });
-      cal.innerHTML = html;
+      document.getElementById("cal").innerHTML = html;
     })();
   </script>
 </body>

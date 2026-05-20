@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TOEFL Daily Game</title>
+  <link rel="stylesheet" href="styles.css?v=2">
+</head>
+<body>
+  <div class="wrap"><div id="app"></div></div>
+
+  <script src="content.js?v=2"></script>
+  <script src="lib/three.min.js"></script>
+  <script src="core.js?v=2"></script>
+  <!-- engines -->
+  <script src="engines/vocab-galaxy.js?v=2"></script>
+  <script src="engines/word-runner.js?v=2"></script>
+  <script src="engines/bubble-match.js?v=2"></script>
+  <script src="engines/cube-match.js?v=2"></script>
+  <script src="engines/word-cascade.js?v=2"></script>
+  <script src="engines/dictation-arcade.js?v=2"></script>
+  <script src="engines/echo-mic.js?v=2"></script>
+  <script src="engines/rapid-interview.js?v=2"></script>
+  <script src="engines/inference-detective.js?v=2"></script>
+  <script src="engines/sentence-builder.js?v=2"></script>
+  <script>
+    (function () {
+      var p = new URLSearchParams(location.search);
+      var d = parseInt(p.get("d"), 10);
+      if (!d || d < 1) d = 1;
+      TDG.start(d);
+    })();
+  </script>
+</body>
+</html>
