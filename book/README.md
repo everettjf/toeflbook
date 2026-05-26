@@ -1,8 +1,8 @@
-# TOEFL iBT 2026 · 130-Day Sprint Plan
+# TOEFL iBT 2026 · 122-Day Sprint Plan
 
 > **Exam date:** 2026-09-26 (Saturday), 08:00 AM
-> **Start date:** 2026-05-18 (Monday)
-> **Total:** 130 days / ~19 weeks / 9 bi-weekly chapters + 4-day final taper (+ 9/25 rest day, 9/26 exam)
+> **Start date:** 2026-05-26 (Tuesday)
+> **Total:** 122 days / ~17 weeks / a compressed 6-day setup chapter + 8 bi-weekly chapters + 4-day final taper (+ 9/25 rest day, 9/26 exam)
 > **Target score:** 100+ (CEFR C1)
 > **Daily commitment:** 90 minutes
 
@@ -122,9 +122,10 @@ Sundays use 30 min for a short mock-style segment (~10 reading items OR 8 listen
 > ⚠️ **Important:** Each chapter's "theme" is an **emphasis on top of** the weekly rotation — not "this chapter only practices one skill."
 > The § 2.2 rotation is always in effect. The chapter theme just shifts MAIN sessions toward the focus skill.
 
-**Ch.1 — 5/18 to 5/31 (14 days)**
+**Ch.1 — 5/26 to 5/31 (6 days, compressed)**
 - Emphasis: Diagnosis + system setup (4-skill baseline)
 - Deliverable: Weak-skill profile + tools live
+- Note: compressed to 6 days because the plan starts 5/26 but keeps the fixed 9/26 exam. Ch.2 onward are full 14-day chapters.
 
 **Ch.2 — 6/1 to 6/14 (14 days)**
 - Emphasis: Listening + high-frequency vocabulary
@@ -171,7 +172,7 @@ Sundays use 30 min for a short mock-style segment (~10 reading items OR 8 listen
 
 ## 4 · Evaluation Checkpoints (don't skip)
 
-**Baseline mock** — Days 2–3 (5/19–20)
+**Baseline mock** — Days 2–3 (5/27–28)
 - What: Full mock using R-OFF-2 (ETS Sample Test Jan 2026)
 - Target: Get a starting score
 
@@ -227,7 +228,7 @@ Quick summary:
 toeflbook/
 ├── README.md                              ← you are here
 ├── resources.md                           ← URLs, tools, decks (the catalog)
-├── ch01-diagnosis-and-system-setup.md     ← 5/17–5/30
+├── ch01-diagnosis-and-system-setup.md     ← 5/26–5/31 (6-day compressed setup)
 ├── ch02-listening-and-vocabulary.md       ← 5/31–6/13
 ├── ch03-reading-and-academic-vocab.md     ← 6/14–6/27
 ├── ch04-speaking-listen-and-repeat.md     ← 6/28–7/11

@@ -258,4 +258,4 @@ ETS research (Liu 2014) found coaching attendance has **near-zero** correlation 
 - [ ] Decide where your **error log** lives (Notion page, markdown file, Apple Notes — pick one and don't switch)
 - [ ] Optional: install **R-SHAD-6** (Language Reactor) browser extension
 
-**Total spend:** **$0 — full plan, all 130 days, all 4 mocks.** Every required resource has a working free tier or is fully free. The only paid resource still listed (R-OFF-5 TPO) is flagged **optional last-resort** — skip it unless you've already burned through all the free Ch.9 mocks and want one extra rep before exam day.
+**Total spend:** **$0 — full plan, all 122 days, all 4 mocks.** Every required resource has a working free tier or is fully free. The only paid resource still listed (R-OFF-5 TPO) is flagged **optional last-resort** — skip it unless you've already burned through all the free Ch.9 mocks and want one extra rep before exam day.

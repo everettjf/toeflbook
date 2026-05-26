@@ -9,7 +9,7 @@
 
 ## 1 · The taper logic
 
-You've done 19 weeks of work. The skills are built. The neural pathways are laid. **Adding new practice in the final week shows up as fatigue, not score gains.**
+You've done 17 weeks of work. The skills are built. The neural pathways are laid. **Adding new practice in the final week shows up as fatigue, not score gains.**
 
 This stretch's job:
 1. **Maintain** what you have (Anki reviews, light shadowing)
@@ -162,7 +162,7 @@ This stretch's job:
 
 ## 7 · The one thing to remember
 
-You spent 130 days building infrastructure: Anki habit, Shadowing reflex, error attribution, weekly rotation, mock execution, taper discipline. The score is downstream of the system.
+You spent 122 days building infrastructure: Anki habit, Shadowing reflex, error attribution, weekly rotation, mock execution, taper discipline. The score is downstream of the system.
 
 **Trust the system. Execute the test.**
 
