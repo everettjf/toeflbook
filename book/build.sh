@@ -42,15 +42,15 @@ if [ "$FORMAT" = "pdf" ]; then
     --variable fontsize="$FONT_SIZE" \
     --variable margin-x=2cm \
     --variable margin-y=2cm \
-    --metadata title="TOEFL iBT 2026 · 132-Day Sprint Plan" \
+    --metadata title="TOEFL iBT 2026 · 122-Day Sprint Plan" \
     --metadata author="Personal study plan" \
-    --metadata date="2026-05-17 → 2026-09-26"
+    --metadata date="2026-05-26 → 2026-09-26"
 else
   pandoc "${CHAPTERS[@]}" \
     --output "$OUTPUT" \
     --toc --toc-depth=2 \
     --standalone \
-    --metadata title="TOEFL iBT 2026 · 132-Day Sprint Plan"
+    --metadata title="TOEFL iBT 2026 · 122-Day Sprint Plan"
 fi
 
 echo "✓ Wrote $OUTPUT ($(du -h "$OUTPUT" | cut -f1))"
