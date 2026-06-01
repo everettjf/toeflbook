@@ -1,4 +1,4 @@
-# Ch.5 · Writing — Email + Build a Sentence (7/13 – 7/26)
+# Ch.4 · Writing — Email + Build a Sentence (7/13 – 7/26)
 
 > **Days:** 14 (Day 1 = Mon 7/13, Day 14 = Sun 7/26)
 > **Emphasis:** Writing — Email task + Build a Sentence sub-task.
@@ -35,7 +35,7 @@ Build a Sentence tests pure **syntactic competence** — word-order under time p
 
 **Three changes:**
 
-1. **Shadowing resets to 15 min** (Ch.4 doubled it; now back to floor).
+1. **Shadowing resets to 15 min** (Ch.3 doubled it; now back to floor).
 2. **Daily "1 Email or 5 Build-a-Sentence items" micro-drill** between Anki and Shadowing (10 min).
 3. **Sunday MAIN** = Email under exam conditions + immediate AI feedback review.
 
@@ -193,7 +193,7 @@ Weekly counts: W = 2 MAIN + 1 SEC + 1 Sat-SEC + 7 micro-drills = 11 touches; R =
 
 ### 📅 Day 14 · Sun 7/26 — 🎯 Milestone 2 mock + Bi-week review
 
-> **Today's focus:** Milestone 2 combined showcase (Listening + L&R) + fill in Ch.5 Review Card to decide Ch.6 modifications.
+> **Today's focus:** Milestone 2 combined showcase (Listening + L&R) + fill in Ch.4 Review Card to decide Ch.5 modifications.
 
 **Milestone 2 (combined):** Listening showcase + L&R showcase.
 
@@ -202,14 +202,14 @@ Weekly counts: W = 2 MAIN + 1 SEC + 1 Sat-SEC + 7 micro-drills = 11 touches; R =
 - [ ] **0:30–1:15** **🎯 Milestone 2 mock** (single sitting, no breaks):
   - Full Listening Section (both modules) from **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening → Full Section → target: raw ≥ 24/30. Log raw `__/30` in Review Card.
   - 7-item L&R **fresh set** (not seen this chapter) from **R-OFF-1** → Speaking → Listen & Repeat → target: exact-match ≥ 80%. Log `__/7` in Review Card.
-- [ ] **1:15–1:30** Fill in **Ch.5 Review Card** (§ 5 below) — record Milestone 2 results, tick G1–G6, and write Ch.6 modification orders.
+- [ ] **1:15–1:30** Fill in **Ch.4 Review Card** (§ 5 below) — record Milestone 2 results, tick G1–G6, and write Ch.5 modification orders.
 
 ---
 
-## 5 · Ch.5 Review Card (Day 14)
+## 5 · Ch.4 Review Card (Day 14)
 
 ```markdown
-## Ch.5 Review (7/26) — Milestone 2
+## Ch.4 Review (7/26) — Milestone 2
 
 ### Milestone 2 results
 - Listening raw: __ / 30 → **PASS** (≥ 24) / **HOLD** (20–23) / **REDO** (< 20)
@@ -228,10 +228,10 @@ Weekly counts: W = 2 MAIN + 1 SEC + 1 Sat-SEC + 7 micro-drills = 11 touches; R =
 - Weakest register: ______ — fix: ______
 - AI rubric area most often flagged: ______ (delivery / vocabulary / grammar / task achievement)
 
-### Modification orders for Ch.6 (Speaking — Interview + AI dialogue)
-- If Milestone 2 Listening REDO → re-introduce L MAIN × 3/week in Ch.6
-- If L&R REDO → keep 30-min Shadowing in Ch.6 (rollback to Ch.4 style)
-- If Email register inconsistent → add 1 register-specific Email/week in Ch.6
+### Modification orders for Ch.5 (Speaking — Interview + AI dialogue)
+- If Milestone 2 Listening REDO → re-introduce L MAIN × 3/week in Ch.5
+- If L&R REDO → keep 30-min Shadowing in Ch.5 (rollback to Ch.3 style)
+- If Email register inconsistent → add 1 register-specific Email/week in Ch.5
 ```
 
 ---
@@ -242,4 +242,4 @@ Weekly counts: W = 2 MAIN + 1 SEC + 1 Sat-SEC + 7 micro-drills = 11 touches; R =
 2. **Greeting + close take 15% of your word count.** Budget for it. Don't waste space on flourishes.
 3. **Build a Sentence is grammar, not style.** If you miss items, drill **word order** (subject-verb-object inversions, adverb placement, comparatives) — don't add vocabulary.
 4. **AI scoring on Email is mediocre** — heavily weight your own re-read. ChatGPT/Claude are better for "is this natural?" than for numeric scores.
-5. **Don't let L&R rot.** It needed 14 days of intensity to build; it can lose 30% in 14 days of neglect. Keep the L&R micro-drill alive in Ch.5+.
+5. **Don't let L&R rot.** It needed 14 days of intensity to build; it can lose 30% in 14 days of neglect. Keep the L&R micro-drill alive in Ch.4+.

@@ -1,4 +1,4 @@
-# Ch.10 · Final Taper (9/21 – 9/24)
+# Ch.9 · Final Taper (9/21 – 9/24)
 
 > **Days:** 4 (Day 1 = Mon 9/21 → Day 4 = Thu 9/24). Then 9/25 Fri = full rest day, 9/26 Sat = **EXAM DAY**.
 > **Emphasis:** State management, micro-fixes only, no new heavy practice.
@@ -13,7 +13,7 @@ You've done 17 weeks of work. The skills are built. The neural pathways are laid
 
 This stretch's job:
 1. **Maintain** what you have (Anki reviews, light shadowing)
-2. **Sharpen** one or two systematic errors from Ch.9 attribution
+2. **Sharpen** one or two systematic errors from Ch.8 attribution
 3. **Rest** — sleep, hydration, low cognitive load
 4. **Rehearse** the exam day until it feels routine
 
@@ -64,7 +64,7 @@ This stretch's job:
   - Test admission ticket / confirmation email — printed AND saved as screenshot on phone
   - ID document — passport ready, placed with ticket by the front door
   - Test center location + transit time + parking (or at-home: room cleared, browser/system check completed via **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Home Test → System Check)
-  - Exam-day breakfast bought / planned — same one used before any Ch.9 mock
+  - Exam-day breakfast bought / planned — same one used before any Ch.8 mock
   - Clothes laid out (layers — test rooms run cold)
   - Phone alarm set for wake time + backup alarm 5 min later
 - [ ] **1:20–1:30** Re-read the sticky note + rewrite it in one sharper sentence if needed. **Don't add new fixes** — only refine the original one.
@@ -99,7 +99,7 @@ This stretch's job:
 **08:00 AM — TOEFL iBT 2026**
 
 ### Pre-exam (60–90 min before)
-- [ ] Wake at your rehearsed time (same as Ch.9 mocks and Day 3 dress rehearsal).
+- [ ] Wake at your rehearsed time (same as Ch.8 mocks and Day 3 dress rehearsal).
 - [ ] Same breakfast as your rehearsals — do not experiment.
 - [ ] **5-min Shadowing** — your favorite clip on phone. Wakes up the language brain. One blind pass, headphones on.
 - [ ] **2-min Anki review** — quick scan of yesterday's reviews in AnkiWeb (https://ankiweb.net) or AnkiDroid. No new cards.
@@ -136,7 +136,7 @@ This stretch's job:
 - Total: __ / 120
 - CEFR Overall: __
 
-### Comparison to Ch.9 mocks
+### Comparison to Ch.8 mocks
 - Best mock score: ___
 - Real exam score: ___
 - Delta: ___
@@ -156,13 +156,13 @@ This stretch's job:
 1. **Wait 72 hours** before deciding anything. Initial reactions are biased by exhaustion.
 2. **Look at the section breakdown.** A retake should target the weakest single section — not "study everything more."
 3. **Retake window:** TOEFL iBT allows next-attempt registration 3 days after; the next test date is typically 1–3 weeks out. ETS scoring rules permit unlimited retakes.
-4. **Re-use this book.** Treat the weak section as a new Ch.2–Ch.9 mini-cycle (6 weeks). Skip the rest.
+4. **Re-use this book.** Treat the weak section as a new Ch.1–Ch.8 mini-cycle (6 weeks). Skip the rest.
 
 ---
 
 ## 7 · The one thing to remember
 
-You spent 122 days building infrastructure: Anki habit, Shadowing reflex, error attribution, weekly rotation, mock execution, taper discipline. The score is downstream of the system.
+You spent 116 days building infrastructure: Anki habit, Shadowing reflex, error attribution, weekly rotation, mock execution, taper discipline. The score is downstream of the system.
 
 **Trust the system. Execute the test.**
 

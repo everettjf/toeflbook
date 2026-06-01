@@ -1,9 +1,43 @@
-# Ch.2 · Listening Foundation + High-Frequency Vocabulary (6/1 – 6/14)
+# Ch.1 · Listening Foundation + High-Frequency Vocabulary (6/1 – 6/14)
 
 > **Days:** 14 (Day 1 = Mon 6/1, Day 14 = Sun 6/14)
 > **Emphasis:** Listening (on top of standard rotation). Vocabulary cadence raised.
 > **Skill coverage:** Every day touches ≥ 2 skills. Daily Anki = vocab floor. Daily Shadowing = L+S floor.
 > **Deliverables:** Listening Module 1 ≥ 80% on single pass + 200 new high-frequency words mastered + a note-taking system you trust.
+
+---
+
+## 0 · One-time setup + 4-skill baseline (Day 1–2)
+
+> **Do this once, at the very start.** The install block goes on **Day 1 (6/1) morning, before** the Day-1 listening checklist in § 3. The 4-skill baseline mock runs across **Day 1–2** — capture an honest "naked" score before any prep contaminates the data. (This folds in what used to be a separate setup week: nothing essential is lost, there's just no slack.)
+
+### Install (Day 1, ~30 min — before today's listening block)
+
+- [ ] Create an account at **R-OFF-1** (ETS TestReady — https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html). Take the 5-question survey to generate your free study plan.
+- [ ] Install **Anki desktop** (**R-ANKI-4** — https://apps.ankiweb.net/). Import "4000 Essential English Words" (**R-ANKI-1** — https://ankiweb.net/shared/info/1104981491). In Deck Options set **New cards/day = 20**, **Max reviews/day = 100**.
+- [ ] Create an account on **one** AI speaking tool — **R-AI-1** PrepEx (https://prepex.ai) **or** **R-AI-2** FluentPrep (https://www.fluentprep.online/). Pick one and stick with it for the whole plan.
+- [ ] Bookmark **R-OFF-2** (ETS Jan 2026 Sample Test — https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html) — your baseline mock — and **R-SHAD-1** (TED-Ed — https://ed.ted.com/lessons).
+- [ ] Skim the ETS 2026 format spec — **R-OFF-3** (https://www.ets.org/toefl/test-takers/ibt/about/content.html), at least the Reading + Speaking sections.
+- [ ] Choose where your **error log** lives (one file) and don't switch.
+
+### 4-skill baseline mock (Day 1–2 — your headline starting number)
+
+Run the full **R-OFF-2** ETS Jan 2026 Sample Test under strict, no-phone conditions. Split it across the first two days:
+
+- **Day 1** — Reading section (both Modules, ~45 min) + Listening section (both Modules, ~45 min). Score with the key; log raw counts + wrong-item IDs. **Don't analyze *why* yet.**
+- **Day 2** — Speaking (Listen-and-Repeat 7 items + Interview 4 items) + Writing (Email ~100 words / 10 min + Academic Discussion 200 words / 10 min). Upload Speaking to your AI tool; paste Writing for rubric scoring.
+
+```markdown
+## Day 1–2 Baseline — Source: ETS Jan 2026 Sample Test
+- Reading: __/30      Listening: __/30
+- Speaking Repeat: __/7    Interview: Delivery__ / Language__ / Topic__
+- Writing Email: __   Discussion: __   (words / time)
+- Total estimate: __/120      Weakest skill (gut): ______
+```
+
+### Weak-skill profile (Day 2 evening)
+
+In your error log, write 3 sentences: which skill is **weakest**, *why* (e.g. vocabulary too small, can't catch connected speech), and the **first move** to fix it. You retake this exact mock as **Mock 4** in Ch.8 (9/17) — that delta is your headline progress number.
 
 ---
 
@@ -200,19 +234,19 @@ All four skills hit ≥ 3 focused sessions per week. ✅
 
 ### 📅 Day 14 · Sun 6/14 — 🎯 Bi-week review + Listening showcase mock
 
-> **Today's focus:** Showcase mock decides G1; review card converts the chapter's data into modification orders for Ch.3.
+> **Today's focus:** Showcase mock decides G1; review card converts the chapter's data into modification orders for Ch.2.
 
 - [ ] **0:00–0:15** Anki — 20 new + due reviews; note cumulative new card count for G3.
 - [ ] **0:15–0:30** Shadowing — re-run the Day 1 clip (`D1_Shadow` source); record as `D14_Shadow_redo` and compare fluency/accuracy side-by-side.
 - [ ] **0:30–1:10** **Showcase Listening mock** — full Listening Section (2 modules) from **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening. Strict timing, single pass, no replays. Log Module 1 % for G1.
-- [ ] **1:10–1:30** **Bi-week review** — fill the Ch.2 Review Card below.
+- [ ] **1:10–1:30** **Bi-week review** — fill the Ch.1 Review Card below.
 
 ---
 
-## 4 · Ch.2 Review Card (fill Day 14)
+## 4 · Ch.1 Review Card (fill Day 14)
 
 ```markdown
-## Ch.2 Review (6/14)
+## Ch.1 Review (6/14)
 
 ### Goals self-check
 - [ ] G1 Listening Module 1 ≥ 80% on showcase mock (Day 14)  → actual: __/__
@@ -227,10 +261,10 @@ All four skills hit ≥ 3 focused sessions per week. ✅
 - Most common L topic missed: ______ (e.g., biology / art history / economics)
 - Conversation vs Lecture: which is harder? ______
 
-### Modification orders for Ch.3 (Reading emphasis)
-- If L still below 80% on Day-14 mock → Ch.3 holds L MAIN at 2 sessions/week (don't drop to 1)
-- If vocabulary tag is dominant → Ch.3 doubles down on **R-ANKI-2** Barron's Essential Words for the TOEFL (https://ankiweb.net/shared/info/973421516)
-- If accent/speed tag dominant → Ch.3 Shadowing moves to 1.25× speed
+### Modification orders for Ch.2 (Reading emphasis)
+- If L still below 80% on Day-14 mock → Ch.2 holds L MAIN at 2 sessions/week (don't drop to 1)
+- If vocabulary tag is dominant → Ch.2 doubles down on **R-ANKI-2** Barron's Essential Words for the TOEFL (https://ankiweb.net/shared/info/973421516)
+- If accent/speed tag dominant → Ch.2 Shadowing moves to 1.25× speed
 ```
 
 ---

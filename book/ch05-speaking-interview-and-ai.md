@@ -1,4 +1,4 @@
-# Ch.6 · Speaking — Interview + AI Dialogue (7/27 – 8/9)
+# Ch.5 · Speaking — Interview + AI Dialogue (7/27 – 8/9)
 
 > **Days:** 14 (Day 1 = Mon 7/27, Day 14 = Sun 8/9)
 > **Emphasis:** Speaking Task 2 (Interview, 45-sec spontaneous answers). Heavy use of conversational AI.
@@ -119,7 +119,7 @@ Day 1 Interview Baseline
 - [ ] **0:00–0:40** Anki + Petra Interview ×2 (`D5_Petra_Q1/Q2`) + 15-min Shadowing (**R-SHAD-1**, https://ed.ted.com/lessons).
 - [ ] **0:40–1:10** **Speaking MAIN** —
   - 4 Interview questions (mixed categories) on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → Interview; record as `D5_Mock_Q1..Q4`.
-  - **+ 7-item L&R refresh** on TestReady (keep Ch.4 gain alive); aim for ≥ 80% accuracy and log the score.
+  - **+ 7-item L&R refresh** on TestReady (keep Ch.3 gain alive); aim for ≥ 80% accuracy and log the score.
 - [ ] **1:10–1:30** Listening SECONDARY — 1 lecture on **R-OFF-1**; log every missed detail into the error log.
 
 ---
@@ -206,19 +206,19 @@ Day 1 Interview Baseline
 
 ### 📅 Day 14 · Sun 8/9 — 🎯 Bi-week review + Interview showcase
 
-> **Today's focus:** Closeout — measure the chapter's actual Interview delta, lock the Ch.6 Review Card, and confirm L&R hasn't regressed.
+> **Today's focus:** Closeout — measure the chapter's actual Interview delta, lock the Ch.5 Review Card, and confirm L&R hasn't regressed.
 
 - [ ] **0:00–0:15** Anki — reviews only, no new cards.
 - [ ] **0:15–0:30** Shadowing 15 min (**R-SHAD-1**, https://ed.ted.com/lessons).
-- [ ] **0:30–1:00** **🎯 Interview showcase** — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → Interview, 4 fresh questions; record as `D14_Show_Q1..Q4`. Submit to **R-AI-2** FluentPrep (https://www.fluentprep.online/) for full rubric scoring. Paste scores into the Ch.6 Review Card below alongside Day 1 baseline numbers.
-- [ ] **1:00–1:30** Fill in the Ch.6 Review Card + run **L&R preservation check** on **R-OFF-1** (7 fresh items; target ≥ 75%); record the score in the card.
+- [ ] **0:30–1:00** **🎯 Interview showcase** — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → Interview, 4 fresh questions; record as `D14_Show_Q1..Q4`. Submit to **R-AI-2** FluentPrep (https://www.fluentprep.online/) for full rubric scoring. Paste scores into the Ch.5 Review Card below alongside Day 1 baseline numbers.
+- [ ] **1:00–1:30** Fill in the Ch.5 Review Card + run **L&R preservation check** on **R-OFF-1** (7 fresh items; target ≥ 75%); record the score in the card.
 
 ---
 
-## 5 · Ch.6 Review Card (Day 14)
+## 5 · Ch.5 Review Card (Day 14)
 
 ```markdown
-## Ch.6 Review (8/9)
+## Ch.5 Review (8/9)
 
 ### Showcase Interview results
 - Q1 (opinion): Delivery __ / 4   Language __ / 4   Topic __ / 4
@@ -238,10 +238,10 @@ Day 1 Interview Baseline
 - [ ] G5 L&R preserved
 - [ ] G6 R/L/W rotation intact
 
-### Modification orders for Ch.7 (Writing — Discussion)
+### Modification orders for Ch.6 (Writing — Discussion)
 - If Interview structure inconsistent → add Idea/Reason/Tie-in template card to Anki
-- If L&R dropped → reintroduce Shadowing 30-min daily in Ch.7
-- If hypothetical category weakest → daily 1 hypothetical Petra question in Ch.7
+- If L&R dropped → reintroduce Shadowing 30-min daily in Ch.6
+- If hypothetical category weakest → daily 1 hypothetical Petra question in Ch.6
 ```
 
 ---

@@ -35,7 +35,7 @@ The trailing number is just the order within that category. So **R-SHAD-3** = th
 ### R-OFF-2 — ETS Sample Test Jan 2026 (FREE full sample)
 - **URL:** https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html
 - **Price:** Free
-- **Use case:** **Use this for Day 2–3 baseline mock.** Exact new-format. Also reused as Mock 4 in Ch.9 (4 months later you'll have forgotten enough).
+- **Use case:** **Use this for Day 1–2 baseline mock.** Exact new-format. Also reused as Mock 4 in Ch.8 (4 months later you'll have forgotten enough).
 
 ### R-OFF-3 — TOEFL iBT Test Content breakdown
 - **URL:** https://www.ets.org/toefl/test-takers/ibt/about/content.html
@@ -50,7 +50,7 @@ The trailing number is just the order within that category. So **R-SHAD-3** = th
 ### R-OFF-5 — TPO (TOEFL Practice Online) — **OPTIONAL LAST-RESORT ONLY**
 - **URL:** https://www.ets.org/toefl/test-takers/ibt/prepare/practice-tests.html
 - **Price:** $45.95 / volume
-- **Use case:** **Skip unless** you've already done all 4 Ch.9 mocks from the free sources below AND you feel you need one more genuinely-official full-length retired test before exam day. The free sources in § 5 plus R-OFF-1's free tier are designed to cover all 4 mocks at $0.
+- **Use case:** **Skip unless** you've already done all 4 Ch.8 mocks from the free sources below AND you feel you need one more genuinely-official full-length retired test before exam day. The free sources in § 5 plus R-OFF-1's free tier are designed to cover all 4 mocks at $0.
 
 ---
 
@@ -119,19 +119,19 @@ Pick **one source per phase**; don't rotate too fast.
 - **URL:** https://ed.ted.com/lessons
 - **Length:** 4–6 min
 - **Difficulty:** C1
-- **Best for:** Phase 1 (Ch.1–3) — rich vocabulary, animated, has transcript.
+- **Best for:** Phase 1 (Ch.1–2) — rich vocabulary, animated, has transcript.
 
 ### R-SHAD-2 — TED Talks
 - **URL:** https://www.ted.com/talks
 - **Length:** 8–18 min
 - **Difficulty:** B2–C1
-- **Best for:** Phase 2 (Ch.4–6) — natural speech rhythm. **Filter by 5–10 min** length.
+- **Best for:** Phase 2 (Ch.3–5) — natural speech rhythm. **Filter by 5–10 min** length.
 
 ### R-SHAD-3 — Scientific American 60-Second Science
 - **URL:** https://www.scientificamerican.com/podcast/60-second-science/
 - **Length:** 60 sec
 - **Difficulty:** C1
-- **Best for:** Daily 1-minute focused shadow; great for Ch.4 Listen & Repeat training.
+- **Best for:** Daily 1-minute focused shadow; great for Ch.3 Listen & Repeat training.
 
 ### R-SHAD-4 — BBC 6 Minute English
 - **URL:** https://www.bbc.co.uk/learningenglish/english/features/6-minute-english
@@ -159,9 +159,9 @@ Pick **one source per phase**; don't rotate too fast.
 
 ---
 
-## 5 · Free Practice Test Sources (the Ch.9 mock backbone)
+## 5 · Free Practice Test Sources (the Ch.8 mock backbone)
 
-> **This plan uses free sources for every Ch.9 mock.** Mix and match — using the same source for all 4 mocks may exhaust the free pool or train you on its quirks rather than the test.
+> **This plan uses free sources for every Ch.8 mock.** Mix and match — using the same source for all 4 mocks may exhaust the free pool or train you on its quirks rather than the test.
 
 ### R-FREE-1 — Magoosh free TOEFL practice test (2026 version)
 - **URL:** https://magoosh.com/toefl/toefl-practice-test/
@@ -258,4 +258,4 @@ ETS research (Liu 2014) found coaching attendance has **near-zero** correlation 
 - [ ] Decide where your **error log** lives (Notion page, markdown file, Apple Notes — pick one and don't switch)
 - [ ] Optional: install **R-SHAD-6** (Language Reactor) browser extension
 
-**Total spend:** **$0 — full plan, all 122 days, all 4 mocks.** Every required resource has a working free tier or is fully free. The only paid resource still listed (R-OFF-5 TPO) is flagged **optional last-resort** — skip it unless you've already burned through all the free Ch.9 mocks and want one extra rep before exam day.
+**Total spend:** **$0 — full plan, all 116 days, all 4 mocks.** Every required resource has a working free tier or is fully free. The only paid resource still listed (R-OFF-5 TPO) is flagged **optional last-resort** — skip it unless you've already burned through all the free Ch.8 mocks and want one extra rep before exam day.

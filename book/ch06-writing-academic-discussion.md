@@ -1,4 +1,4 @@
-# Ch.7 · Writing — Academic Discussion (8/10 – 8/23)
+# Ch.6 · Writing — Academic Discussion (8/10 – 8/23)
 
 > **Days:** 14 (Day 1 = Mon 8/10, Day 14 = Sun 8/23)
 > **Emphasis:** Writing Task 3 — Academic Discussion (200-word forum post in 10 min).
@@ -206,7 +206,7 @@ Day 1 Discussion Baseline
 
 ### 📅 Day 14 · Sun 8/23 — 🎯 Milestone 3 + Bi-week review
 
-> **Today's focus:** Prove both Writing tasks fit under exam time, then close out Ch.7 with the review card.
+> **Today's focus:** Prove both Writing tasks fit under exam time, then close out Ch.6 with the review card.
 
 **Milestone 3:** Both Writing tasks under exam time.
 
@@ -214,14 +214,14 @@ Day 1 Discussion Baseline
 - [ ] **0:15–0:30** Shadowing — 15 min on current source.
 - [ ] **0:30–0:45** **🎯 Email mock** — R-OFF-1 TestReady → Writing → Email, strict 10 min. Target: ≤ 10 min, ~100 words. Log final word count + time.
 - [ ] **0:45–1:00** **🎯 Discussion mock** — R-OFF-1 TestReady → Writing → Academic Discussion, strict 10 min. Target: ≤ 10 min, 180–220 words, all 4 PEEL elements visible. Score in **R-AI-2** FluentPrep (https://www.fluentprep.online/) and record results in the Review Card below.
-- [ ] **1:00–1:30** Ch.7 Review Card — fill out the template in § 5 below.
+- [ ] **1:00–1:30** Ch.6 Review Card — fill out the template in § 5 below.
 
 ---
 
-## 5 · Ch.7 Review Card (Day 14)
+## 5 · Ch.6 Review Card (Day 14)
 
 ```markdown
-## Ch.7 Review (8/23) — Milestone 3
+## Ch.6 Review (8/23) — Milestone 3
 
 ### Milestone 3 results
 - Email: __ words in __ min — **PASS** (≤ 10 min, ~100 words) / **HOLD** / **REDO**
@@ -240,9 +240,9 @@ Day 1 Discussion Baseline
 - Weakest: ______ — root cause: ______
 - AI rubric area most often flagged across chapter: ______
 
-### Modification orders for Ch.8 (Adaptive Module 1 mastery)
-- If Milestone 3 REDO on either task → add 1 Email or Discussion micro-mock per Ch.8 week
-- If PEEL inconsistent → write 2 PEEL frames daily in Ch.8 (1 minute each, in Anki)
+### Modification orders for Ch.7 (Adaptive Module 1 mastery)
+- If Milestone 3 REDO on either task → add 1 Email or Discussion micro-mock per Ch.7 week
+- If PEEL inconsistent → write 2 PEEL frames daily in Ch.7 (1 minute each, in Anki)
 - If language use lagging → focus Anki on **academic phrase bank** instead of new vocab
 ```
 

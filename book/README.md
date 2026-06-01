@@ -1,8 +1,8 @@
-# TOEFL iBT 2026 · 122-Day Sprint Plan
+# TOEFL iBT 2026 · 116-Day Sprint Plan
 
 > **Exam date:** 2026-09-26 (Saturday), 08:00 AM
-> **Start date:** 2026-05-26 (Tuesday)
-> **Total:** 122 days / ~17 weeks / a compressed 6-day setup chapter + 8 bi-weekly chapters + 4-day final taper (+ 9/25 rest day, 9/26 exam)
+> **Start date:** 2026-06-01 (Monday)
+> **Total:** 116 days / ~16½ weeks / 8 bi-weekly chapters + a 4-day final taper (+ 9/25 rest day, 9/26 exam). One-time setup + 4-skill baseline are folded into Ch.1, Day 1–2.
 > **Target score:** 100+ (CEFR C1)
 > **Daily commitment:** 90 minutes
 
@@ -117,78 +117,74 @@ Sundays use 30 min for a short mock-style segment (~10 reading items OR 8 listen
 
 ---
 
-## 3 · 9 Chapters + 1 Week — Roadmap
+## 3 · 8 Chapters + 1 Taper — Roadmap
 
 > ⚠️ **Important:** Each chapter's "theme" is an **emphasis on top of** the weekly rotation — not "this chapter only practices one skill."
 > The § 2.2 rotation is always in effect. The chapter theme just shifts MAIN sessions toward the focus skill.
+> One-time tool setup + the 4-skill baseline mock are folded into **Ch.1, Day 1–2** (see that chapter's § 0).
 
-**Ch.1 — 5/26 to 5/31 (6 days, compressed)**
-- Emphasis: Diagnosis + system setup (4-skill baseline)
-- Deliverable: Weak-skill profile + tools live
-- Note: compressed to 6 days because the plan starts 5/26 but keeps the fixed 9/26 exam. Ch.2 onward are full 14-day chapters.
+**Ch.1 — 6/1 to 6/14 (14 days)**
+- Emphasis: Listening + high-frequency vocabulary (Day 1–2: setup + 4-skill baseline)
+- Deliverable: Weak-skill profile + tools live + Listening baseline (free TestReady/Magoosh items)
 
-**Ch.2 — 6/1 to 6/14 (14 days)**
-- Emphasis: Listening + high-frequency vocabulary
-- Deliverable: Listening baseline (free TestReady/Magoosh items)
-
-**Ch.3 — 6/15 to 6/28 (14 days)**
+**Ch.2 — 6/15 to 6/28 (14 days)**
 - Emphasis: Reading + academic vocabulary
 - Deliverable: Reading Module 1 ≥ 85% accuracy
 
-**Ch.4 — 6/29 to 7/12 (14 days)**
+**Ch.3 — 6/29 to 7/12 (14 days)**
 - Emphasis: Speaking — Listen & Repeat focus
 - Deliverable: 7-item exact-repeat rate ≥ 80%
 
-**Ch.5 — 7/13 to 7/26 (14 days)**
+**Ch.4 — 7/13 to 7/26 (14 days)**
 - Emphasis: Writing — Email + Build a Sentence
 - Deliverable: Email 100 words in 10 min
 
-**Ch.6 — 7/27 to 8/9 (14 days)**
+**Ch.5 — 7/27 to 8/9 (14 days)**
 - Emphasis: Speaking — Interview + AI dialogue
 - Deliverable: Structured 45-sec Interview answer
 
-**Ch.7 — 8/10 to 8/23 (14 days)**
+**Ch.6 — 8/10 to 8/23 (14 days)**
 - Emphasis: Writing — Academic Discussion
 - Deliverable: 200-word Discussion in 10 min
 
-**Ch.8 — 8/24 to 9/6 (14 days)**
+**Ch.7 — 8/24 to 9/6 (14 days)**
 - Emphasis: Adaptive realism — Module 1 mastery
 - Deliverable: 4-skill Module 1 accuracy on target
 
-**Ch.9 — 9/7 to 9/20 (14 days)**
+**Ch.8 — 9/7 to 9/20 (14 days)**
 - Emphasis: Full mocks ×4 + error attribution
 - Deliverable: Stable mock score ≥ 100
 
-**Final Taper — 9/21 to 9/24 (4 days)**
+**Final Taper (Ch.9) — 9/21 to 9/24 (4 days)**
 - Emphasis: Pre-exam tune-up + state management (taper week compressed)
 - Deliverable: Peak on exam morning
 
 **Pre-exam rest — 9/25 Fri** (off — Anki maintenance only, no new content)
 **Exam day — 9/26 Sat 08:00**
 
-**What "emphasis" means in practice:** in Ch.2 (Listening focus week), the Sunday "MAIN = Writing" slot temporarily becomes a "Listening micro-mock," and Shadowing source switches to lecture-style audio. Across the week, Listening focused touches rise while **Reading, Writing, Speaking each still get ≥ 3 focused sessions** + daily Shadowing + daily Anki. Each chapter's intro restates its modified weekly schedule.
+**What "emphasis" means in practice:** in Ch.1 (Listening focus week), the Sunday "MAIN = Writing" slot temporarily becomes a "Listening micro-mock," and Shadowing source switches to lecture-style audio. Across the week, Listening focused touches rise while **Reading, Writing, Speaking each still get ≥ 3 focused sessions** + daily Shadowing + daily Anki. Each chapter's intro restates its modified weekly schedule.
 
 ---
 
 ## 4 · Evaluation Checkpoints (don't skip)
 
-**Baseline mock** — Days 2–3 (5/27–28)
+**Baseline mock** — Day 1–2 (6/1–6/2)
 - What: Full mock using R-OFF-2 (ETS Sample Test Jan 2026)
 - Target: Get a starting score
 
-**Milestone 1** — End of Ch.3 (6/28)
+**Milestone 1** — End of Ch.2 (6/28)
 - What: Reading Module 1 only
 - Target: ≥ 85% accuracy
 
-**Milestone 2** — End of Ch.5 (7/26)
+**Milestone 2** — End of Ch.4 (7/26)
 - What: Listening + Speaking Listen-and-Repeat combined
 - Target: Listening ≥ 24/30 raw, L&R ≥ 80% exact
 
-**Milestone 3** — End of Ch.7 (8/23)
+**Milestone 3** — End of Ch.6 (8/23)
 - What: Writing — both tasks under exam time
 - Target: Email ≤ 10 min, Discussion ≤ 10 min
 
-**Mock weeks** — Ch.9 (9/7–20)
+**Mock weeks** — Ch.8 (9/7–20)
 - What: 4 full mocks
 - Target: Stable total ≥ 100
 
@@ -200,11 +196,11 @@ Sundays use 30 min for a short mock-style segment (~10 reading items OR 8 listen
 
 ## 5 · Setup Checklist (do all of this on Day 1)
 
-See `resources.md` § 8 for the full Day-1 setup list with exact URLs.
+See `resources.md` § 8 for the full Day-1 setup list with exact URLs, and Ch.1 § 0 for how setup + the baseline mock fold into Day 1–2.
 
 Quick summary:
 - ETS TestReady account (**R-OFF-1**)
-- Bookmark the free sample mock (**R-OFF-2**) for tomorrow
+- Bookmark the free sample mock (**R-OFF-2**) for the Day 1–2 baseline
 - Anki desktop + import 4000 Essential English Words (**R-ANKI-1**)
 - One AI speaking tool — PrepEx (**R-AI-1**) or FluentPrep (**R-AI-2**)
 - Subscribe to 60-Second Science podcast (**R-SHAD-3**)
@@ -228,16 +224,15 @@ Quick summary:
 toeflbook/
 ├── README.md                              ← you are here
 ├── resources.md                           ← URLs, tools, decks (the catalog)
-├── ch01-diagnosis-and-system-setup.md     ← 5/26–5/31 (6-day compressed setup)
-├── ch02-listening-and-vocabulary.md       ← 5/31–6/13
-├── ch03-reading-and-academic-vocab.md     ← 6/14–6/27
-├── ch04-speaking-listen-and-repeat.md     ← 6/28–7/11
-├── ch05-writing-email-and-sentence.md     ← 7/12–7/25
-├── ch06-speaking-interview-and-ai.md      ← 7/26–8/8
-├── ch07-writing-academic-discussion.md    ← 8/9–8/22
-├── ch08-adaptive-module1-mastery.md       ← 8/23–9/5
-├── ch09-full-mocks-and-attribution.md     ← 9/6–9/19
-└── ch10-final-week.md                     ← 9/20–9/26
+├── ch01-listening-and-vocabulary.md       ← 6/1–6/14 (incl. § 0 setup + baseline, Day 1–2)
+├── ch02-reading-and-academic-vocab.md     ← 6/15–6/28
+├── ch03-speaking-listen-and-repeat.md     ← 6/29–7/12
+├── ch04-writing-email-and-sentence.md     ← 7/13–7/26
+├── ch05-speaking-interview-and-ai.md      ← 7/27–8/9
+├── ch06-writing-academic-discussion.md    ← 8/10–8/23
+├── ch07-adaptive-module1-mastery.md       ← 8/24–9/6
+├── ch08-full-mocks-and-attribution.md     ← 9/7–9/20
+└── ch09-final-week.md                      ← 9/21–9/26
 ```
 
 After all chapters are written, run `pandoc` to compile into a single PDF (`build.sh` will be included).

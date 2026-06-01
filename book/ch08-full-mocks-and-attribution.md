@@ -1,4 +1,4 @@
-# Ch.9 · Full Mocks ×4 + Error Attribution (9/7 – 9/20)
+# Ch.8 · Full Mocks ×4 + Error Attribution (9/7 – 9/20)
 
 > **Days:** 14 (Day 1 = Mon 9/7, Day 14 = Sun 9/20)
 > **Emphasis:** Whole-test execution under real conditions; turning practice into score.
@@ -7,7 +7,7 @@
 
 ---
 
-## 1 · The Ch.9 rhythm
+## 1 · The Ch.8 rhythm
 
 This is the chapter where you stop "studying TOEFL" and start "executing TOEFL."
 
@@ -27,7 +27,7 @@ You do this 4 times (3 × 4 = 12 days) — with **Day 7 inserted as a deliberate
 - **Mock 3** → **R-OFF-1** ETS TestReady free-tier full mock (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html)
   - _Why this one here:_ Official scoring engine. **This is the one where you must hit ≥ 100.** Use whatever full adaptive mock is included in your TestReady free tier.
 - **Mock 4** → **R-OFF-2** ETS Sample Test Jan 2026 (https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html) (retake)
-  - _Why this one here:_ Most format-accurate free option. You did this in Ch.1 — 4 months later you've forgotten enough that the retake is honest. Compare scaled score to your Day 2–3 baseline = headline progress number.
+  - _Why this one here:_ Most format-accurate free option. You did this on Day 1 — 4 months later you've forgotten enough that the retake is honest. Compare scaled score to your Day 1–2 baseline = headline progress number.
 
 > **Why mix sources?** Same-source repetition trains you on that source's quirks (item style, scoring tendency), not the test itself. Mixing forces generalization — closer to real-exam behavior.
 >
@@ -215,20 +215,20 @@ Mock 1 Attribution
 
 ### 📅 Day 11 · Thu 9/17 — Mock 4
 
-> **Today's focus:** Stability + headline-progress mock — retake the Ch.1 baseline test, compare directly.
+> **Today's focus:** Stability + headline-progress mock — retake the Day 1–2 baseline test, compare directly.
 
 - [ ] **0:00–0:15** Anki + 5-min Shadowing warm-up
-- [ ] **0:15–1:45** **🎯 Mock 4** — **R-OFF-2** ETS Sample Test Jan 2026 (https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html) (the one you did in Ch.1 as baseline; you've forgotten enough after 4 months) — open the sample test page → run all 4 sections back-to-back under exam conditions. **Target ≥ 100 AND within 3 points of Mock 3** (= stability). **Also compare scaled score directly to your Day 2–3 baseline — this is your headline progress number.**
-- [ ] Score block (template from Day 1, label `Mock 4 (9/17)`) — log immediately; in the same entry record the delta vs Ch.1 baseline and vs Mock 3
+- [ ] **0:15–1:45** **🎯 Mock 4** — **R-OFF-2** ETS Sample Test Jan 2026 (https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html) (the one you did on Day 1 as baseline; you've forgotten enough after 4 months) — open the sample test page → run all 4 sections back-to-back under exam conditions. **Target ≥ 100 AND within 3 points of Mock 3** (= stability). **Also compare scaled score directly to your Day 1–2 baseline — this is your headline progress number.**
+- [ ] Score block (template from Day 1, label `Mock 4 (9/17)`) — log immediately; in the same entry record the delta vs Day 1–2 baseline and vs Mock 3
 
 ---
 
 ### 📅 Day 12 · Fri 9/18 — Attribution 4
 
-> **Today's focus:** Final stable-state read — classify residual errors as systematic vs random to set Ch.10's drill target.
+> **Today's focus:** Final stable-state read — classify residual errors as systematic vs random to set Ch.9's drill target.
 
 - [ ] **0:00–0:15** Anki + Shadowing (15 min)
-- [ ] **0:30–1:30** **Attribution session** on Mock 4 (same taxonomy as Day 2). Final stable-state assessment. **Are the remaining errors systematic or random?** Random = ready. Systematic = one more drill target for Ch.10 (Final Week) — write that target into the Ch.9 Review Card "Residual systematic errors" slot.
+- [ ] **0:30–1:30** **Attribution session** on Mock 4 (same taxonomy as Day 2). Final stable-state assessment. **Are the remaining errors systematic or random?** Random = ready. Systematic = one more drill target for Ch.9 (Final Week) — write that target into the Ch.8 Review Card "Residual systematic errors" slot.
 
 ---
 
@@ -238,27 +238,27 @@ Mock 1 Attribution
 
 - [ ] **0:00–0:15** Anki (20 new + 60 reviews) + Shadowing (3-pass on one short clip)
 - [ ] **0:30–1:10** Final drill on Mock 4 weakest skill — 1 Module 1 set (or equivalent) on **R-OFF-1** TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) free tier. Keep it light, this is taper — no over-drilling.
-- [ ] **1:10–1:30** Error log + start drafting your exam-day routine doc (wake time, breakfast, transit, on-arrival warm-up, mantras) for tomorrow's rehearsal — use the template in the Ch.9 Review Card
+- [ ] **1:10–1:30** Error log + start drafting your exam-day routine doc (wake time, breakfast, transit, on-arrival warm-up, mantras) for tomorrow's rehearsal — use the template in the Ch.8 Review Card
 
 ---
 
 ### 📅 Day 14 · Sun 9/20 — 🎯 Bi-week review + Exam-day dress rehearsal
 
-> **Today's focus:** Dress-rehearse the exam morning end-to-end and lock in the Ch.9 review card so Ch.10 starts clean.
+> **Today's focus:** Dress-rehearse the exam morning end-to-end and lock in the Ch.8 review card so Ch.9 starts clean.
 
 **Treat tomorrow's exam as if it were today.**
 
 - [ ] **Morning routine rehearsal**: wake up at the time you plan to wake up on exam day. Eat the same breakfast. Take the same transit (mentally walk through it if your test is at home).
 - [ ] **0:00–0:30** Anki + Shadowing — exactly as you would on exam morning (same source, same length)
 - [ ] **0:30–1:00** **Light warm-up** — 1 Reading Module 1 set on **R-OFF-1** TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) free tier (no scoring, just to wake up the language brain). **Do NOT do a full mock.**
-- [ ] **1:00–1:30** Fill in the Ch.9 Review Card below (all 4 mock scores + goals self-check + residual errors) + finalize the exam-day routine doc
+- [ ] **1:00–1:30** Fill in the Ch.8 Review Card below (all 4 mock scores + goals self-check + residual errors) + finalize the exam-day routine doc
 
 ---
 
-## 5 · Ch.9 Review Card (Day 14)
+## 5 · Ch.8 Review Card (Day 14)
 
 ```markdown
-## Ch.9 Review (9/20)
+## Ch.8 Review (9/20)
 
 ### Mock scores
 | Mock | Date | R | L | S | W | Total | CEFR |
@@ -280,7 +280,7 @@ Mock 1 Attribution
 - [ ] G5 No timing overruns
 - [ ] G6 Mock 4 stable vs Mock 3
 
-### Residual systematic errors (carry into Ch.10)
+### Residual systematic errors (carry into Ch.9)
 1.
 2.
 3.

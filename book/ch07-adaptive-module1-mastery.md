@@ -1,9 +1,9 @@
-# Ch.8 · Adaptive Realism — Module 1 Mastery (8/24 – 9/6)
+# Ch.7 · Adaptive Realism — Module 1 Mastery (8/24 – 9/6)
 
 > **Days:** 14 (Day 1 = Mon 8/24, Day 14 = Sun 9/6)
 > **Emphasis:** Module 1 accuracy across all 4 skills (with Listening/Reading getting most adaptive-specific drilling, since those are the only truly adaptive sections).
 > **Skill coverage:** Every day touches ≥ 2 skills. Anki + Shadowing floor.
-> **Deliverables:** Module 1 accuracy targets met on **every** skill area + careless-error rate cut by ≥ 50% vs Ch.1 baseline + transition from "skill building" to "test performance" mindset.
+> **Deliverables:** Module 1 accuracy targets met on **every** skill area + careless-error rate cut by ≥ 50% vs Day 1–2 baseline + transition from "skill building" to "test performance" mindset.
 
 ---
 
@@ -28,7 +28,7 @@ This chapter rewires your practice toward **single-pass accuracy under exam cond
 - **G2 — Listening Module 1 accuracy:** ≥ 85% on 3 separate fresh sets
 - **G3 — Speaking L&R accuracy:** ≥ 85% exact-match on 3 separate sets
 - **G4 — Writing Email + Discussion:** each completed in ≤ 9 min (1 min buffer below ceiling)
-- **G5 — Careless-error rate:** tagged "careless" errors ≤ 50% of Ch.1 baseline
+- **G5 — Careless-error rate:** tagged "careless" errors ≤ 50% of Day 1–2 baseline
 - **G6 — Speed-accuracy decoupling:** can verbally explain when to slow down vs press on
 
 ---
@@ -61,7 +61,7 @@ Weekly counts: R = 3 MAIN + 1 SEC; L = 2 MAIN + 1 SEC + 1 combined; W = 2 MAIN +
 
 ### 📅 Day 1 · Mon 8/24 — Mini-full mock (fatigue-stack baseline)
 
-> **Today's focus:** Establish a Ch.8 fatigue-stacked baseline across R+L+W Module 1 work so every later day has something to beat.
+> **Today's focus:** Establish a Ch.7 fatigue-stacked baseline across R+L+W Module 1 work so every later day has something to beat.
 
 - [ ] **0:00–0:15** Anki — open desktop/AnkiDroid (**R-ANKI-4** https://apps.ankiweb.net/), clear today's due queue from **R-ANKI-1** (https://ankiweb.net/shared/info/1104981491) Book 4–6 + **R-ANKI-2** (https://ankiweb.net/shared/info/973421516)
 - [ ] **0:15–0:20** **Careless-error review** — open your error log, re-read your 3 most recent "careless" tagged errors aloud, articulate in one sentence what you'll do differently next time
@@ -205,19 +205,19 @@ Day 1 Mini-mock Baseline
 
 ### 📅 Day 14 · Sun 9/6 — 🎯 Module 1 showcase across 4 skills + Bi-week review
 
-> **Today's focus:** Stack all 4 skills back-to-back at Module 1 difficulty to verify chapter goals G1–G4 before Ch.9 mocks begin.
+> **Today's focus:** Stack all 4 skills back-to-back at Module 1 difficulty to verify chapter goals G1–G4 before Ch.8 mocks begin.
 
 - [ ] **0:00–0:15** Anki + reviews — clear today's queue across **R-ANKI-1** (https://ankiweb.net/shared/info/1104981491) + **R-ANKI-2** (https://ankiweb.net/shared/info/973421516)
 - [ ] **0:15–0:30** Shadowing 15 min (3-pass) from **R-SHAD-2** (https://www.ted.com/talks)
 - [ ] **0:30–1:15** **🎯 Module 1 showcase** — on **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html), no breaks, all fresh sets: R-M1 (18 min) → L-M1 (~15 min) → 7-item L&R (record as `D14_LR_##`, score via **R-AI-2** https://www.fluentprep.online/) → 1 Email (10 min). Drop all results into the Review Card below.
-- [ ] **1:15–1:30** Fill in the Ch.8 Review Card and decide PASS/HOLD/REDO per goal
+- [ ] **1:15–1:30** Fill in the Ch.7 Review Card and decide PASS/HOLD/REDO per goal
 
 ---
 
-## 5 · Ch.8 Review Card (Day 14)
+## 5 · Ch.7 Review Card (Day 14)
 
 ```markdown
-## Ch.8 Review (9/6)
+## Ch.7 Review (9/6)
 
 ### Module 1 showcase results
 - Reading M1: __ / 10 → %: ___ → PASS (≥ 90%) / HOLD / REDO
@@ -226,8 +226,8 @@ Day 1 Mini-mock Baseline
 - Email: ___ min, ___ words, AI rubric overall ___
 
 ### Careless-error rate
-- Ch.1 baseline careless errors: ___
-- Ch.8 careless errors this 14-day stretch: ___
+- Day 1–2 baseline careless errors: ___
+- Ch.7 careless errors this 14-day stretch: ___
 - Reduction: ___% (target ≥ 50% reduction)
 
 ### Goals self-check
@@ -235,13 +235,13 @@ Day 1 Mini-mock Baseline
 - [ ] G2 L-M1 ≥ 85% on 3+ separate fresh sets
 - [ ] G3 L&R ≥ 85% on 3+ separate sets
 - [ ] G4 Email & Discussion ≤ 9 min reliably
-- [ ] G5 Careless rate halved vs Ch.1
+- [ ] G5 Careless rate halved vs Day 1
 - [ ] G6 Can articulate slow-down vs press-on heuristic
 
-### Modification orders for Ch.9 (Full mocks)
-- If any Module 1 still REDO → add 1 R-M1 or L-M1 drill per Ch.9 week
-- If careless rate stuck → start every Ch.9 mock with a 60-sec "deliberate slow-start" warm-up
-- If Email/Discussion timing still >10 min → micro-drill 1 task daily on top of Ch.9 mocks
+### Modification orders for Ch.8 (Full mocks)
+- If any Module 1 still REDO → add 1 R-M1 or L-M1 drill per Ch.8 week
+- If careless rate stuck → start every Ch.8 mock with a 60-sec "deliberate slow-start" warm-up
+- If Email/Discussion timing still >10 min → micro-drill 1 task daily on top of Ch.8 mocks
 ```
 
 ---
@@ -252,4 +252,4 @@ Day 1 Mini-mock Baseline
 2. **Careless errors come in clusters.** When you misread one item, you're often in a low-attention state — the next 2–3 items are at risk too. Build a habit of taking a 5-sec micro-reset after every error you catch.
 3. **Time is a tool, not a goal.** Don't say "I finished R-M1 in 14 min so I'm great." Say "I got 9/10 in 16 min so I'm great." Speed only matters if accuracy is locked.
 4. **AI scoring is noisier than it looks.** Compare 3 attempts before trusting a trend. A single bad score doesn't mean regression.
-5. **Don't burn out before Ch.9.** Ch.9 is full mocks ×4 — high-energy. If Ch.8 leaves you drained, you'll bomb Ch.9. Pace, hydrate, sleep.
+5. **Don't burn out before Ch.8.** Ch.8 is full mocks ×4 — high-energy. If Ch.7 leaves you drained, you'll bomb Ch.8. Pace, hydrate, sleep.

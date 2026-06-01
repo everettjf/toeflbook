@@ -1,381 +1,76 @@
 /* TOEFL Daily Game — content & day metadata.
-   Days 1-122 fully built. Each day declares skill, engine, title, blurb, and
+   Days 1-116 fully built. Each day declares skill, engine, title, blurb, and
    data shaped for that engine's `uses` category (see core.js header). */
 
 const CONTENT = {
-  "startDate": "2026-05-26",
+  "startDate": "2026-06-01",
   "chapters": [
     {
       "n": 1,
       "from": 1,
-      "to": 6,
-      "title": "Diagnosis & System Setup",
-      "skill": "mixed"
-    },
-    {
-      "n": 2,
-      "from": 7,
-      "to": 20,
+      "to": 14,
       "title": "Listening + Vocabulary",
       "skill": "listening"
     },
     {
-      "n": 3,
-      "from": 21,
-      "to": 34,
+      "n": 2,
+      "from": 15,
+      "to": 28,
       "title": "Reading + Academic Vocab",
       "skill": "reading"
     },
     {
-      "n": 4,
-      "from": 35,
-      "to": 48,
+      "n": 3,
+      "from": 29,
+      "to": 42,
       "title": "Speaking — Listen & Repeat",
       "skill": "speaking"
     },
     {
-      "n": 5,
-      "from": 49,
-      "to": 62,
+      "n": 4,
+      "from": 43,
+      "to": 56,
       "title": "Writing — Email + Sentence",
       "skill": "writing"
     },
     {
-      "n": 6,
-      "from": 63,
-      "to": 76,
+      "n": 5,
+      "from": 57,
+      "to": 70,
       "title": "Speaking — Interview + AI",
       "skill": "speaking"
     },
     {
-      "n": 7,
-      "from": 77,
-      "to": 90,
+      "n": 6,
+      "from": 71,
+      "to": 84,
       "title": "Writing — Academic Discussion",
       "skill": "writing"
     },
     {
-      "n": 8,
-      "from": 91,
-      "to": 104,
+      "n": 7,
+      "from": 85,
+      "to": 98,
       "title": "Adaptive — Module 1 Mastery",
       "skill": "mixed"
     },
     {
-      "n": 9,
-      "from": 105,
-      "to": 118,
+      "n": 8,
+      "from": 99,
+      "to": 112,
       "title": "Full Mocks ×4",
       "skill": "mixed"
     },
     {
-      "n": 10,
-      "from": 119,
-      "to": 122,
+      "n": 9,
+      "from": 113,
+      "to": 116,
       "title": "Final Taper",
       "skill": "mixed"
     }
   ],
   "days": {
     "1": {
-      "skill": "listening",
-      "engine": "dictation-arcade",
-      "title": "Dictation Arcade II",
-      "blurb": "Train your ear by transcribing six more academic sentences accurately.",
-      "data": {
-        "sentences": [
-          "The ancient city was abandoned long before European explorers arrived.",
-          "Economists disagree about the long term effects of raising interest rates.",
-          "Glaciers store a large portion of the planet's fresh water supply.",
-          "The orientation session will cover registration deadlines and library access.",
-          "Scientists believe the comet will not be visible again for many decades.",
-          "Effective teamwork depends on clear communication and shared goals."
-        ]
-      }
-    },
-    "2": {
-      "skill": "reading",
-      "engine": "cube-match",
-      "title": "Cube Match",
-      "blurb": "Rotate through academic words and lock each one to its meaning.",
-      "data": {
-        "items": [
-          {
-            "word": "complex",
-            "correct": "made of many connected or related parts",
-            "options": [
-              "made of many connected or related parts",
-              "very simple and plain",
-              "completely empty",
-              "loud and sudden"
-            ]
-          },
-          {
-            "word": "detect",
-            "correct": "to discover or notice something",
-            "options": [
-              "to discover or notice something",
-              "to destroy fully",
-              "to copy exactly",
-              "to delay on purpose"
-            ]
-          },
-          {
-            "word": "feature",
-            "correct": "a distinctive part or characteristic",
-            "options": [
-              "a distinctive part or characteristic",
-              "a serious error",
-              "a long pause",
-              "a written rule"
-            ]
-          },
-          {
-            "word": "gradual",
-            "correct": "happening slowly over time",
-            "options": [
-              "happening slowly over time",
-              "occurring all at once",
-              "never happening",
-              "strictly secret"
-            ]
-          },
-          {
-            "word": "justify",
-            "correct": "to give good reasons for something",
-            "options": [
-              "to give good reasons for something",
-              "to hide carefully",
-              "to measure exactly",
-              "to ignore completely"
-            ]
-          },
-          {
-            "word": "reveal",
-            "correct": "to make something known",
-            "options": [
-              "to make something known",
-              "to keep hidden",
-              "to count again",
-              "to throw away"
-            ]
-          },
-          {
-            "word": "stable",
-            "correct": "firmly fixed and not likely to change",
-            "options": [
-              "firmly fixed and not likely to change",
-              "constantly shifting",
-              "easily broken",
-              "completely missing"
-            ]
-          },
-          {
-            "word": "vital",
-            "correct": "absolutely necessary or essential",
-            "options": [
-              "absolutely necessary or essential",
-              "entirely optional",
-              "slightly useful",
-              "mildly annoying"
-            ]
-          }
-        ]
-      }
-    },
-    "3": {
-      "skill": "speaking",
-      "engine": "echo-mic",
-      "title": "Echo Mic: Fluency",
-      "blurb": "Boost your speaking rhythm by repeating six longer academic sentences aloud.",
-      "data": {
-        "items": [
-          "Although the project was difficult, the team completed it on time.",
-          "Researchers have found a strong link between sleep and memory.",
-          "The museum offers free admission to students on weekday afternoons.",
-          "Reducing plastic waste requires changes in both habits and policy.",
-          "The author argues that technology has reshaped how we communicate.",
-          "Before the exam, I plan to review every chapter at least twice."
-        ]
-      }
-    },
-    "4": {
-      "skill": "reading",
-      "engine": "inference-detective",
-      "title": "Inference Detective II",
-      "blurb": "Sharpen your reading by inferring the implied meaning of four new passages.",
-      "data": {
-        "items": [
-          {
-            "passage": "After the factory installed quieter machinery, nearby residents reported fewer sleep disturbances and complaints to the city dropped sharply. The factory's output, however, remained exactly the same.",
-            "question": "What can be inferred from the passage?",
-            "options": [
-              "The factory produced less after the change.",
-              "The original noise had been disturbing residents.",
-              "Residents wanted the factory to close.",
-              "Quieter machines work more slowly."
-            ],
-            "correct": 1,
-            "why": "Fewer disturbances after reducing noise show the earlier noise had been bothering residents."
-          },
-          {
-            "passage": "Penguins have a layer of densely packed feathers and a thick reserve of fat beneath their skin. They are able to remain active in temperatures that would be fatal to most other birds.",
-            "question": "What can be inferred about penguins?",
-            "options": [
-              "They cannot survive in warm climates.",
-              "Their bodies are adapted to extreme cold.",
-              "They rely on other animals for warmth.",
-              "They have no feathers at all."
-            ],
-            "correct": 1,
-            "why": "Their feather layer and fat reserve let them stay active in deadly cold, showing adaptation to it."
-          },
-          {
-            "passage": "The new online registration system reduced the average wait time from forty minutes to under five. Staff who once managed long lines were reassigned to help students with academic advising.",
-            "question": "What can be inferred about the registration system?",
-            "options": [
-              "It increased the number of staff overall.",
-              "It freed staff time for other work.",
-              "It made students wait longer.",
-              "It was unpopular with the college."
-            ],
-            "correct": 1,
-            "why": "Because the faster system let staff be reassigned, it freed up their time for other tasks."
-          },
-          {
-            "passage": "In the dry season, certain trees in the savanna shed all their leaves. This loss greatly reduces the amount of water the trees lose to the air, allowing them to survive months with little rainfall.",
-            "question": "What can be inferred about these trees?",
-            "options": [
-              "They die every dry season.",
-              "Shedding leaves is a survival strategy.",
-              "They grow only in rainforests.",
-              "They need constant rainfall."
-            ],
-            "correct": 1,
-            "why": "Since dropping leaves cuts water loss and helps them endure drought, it is a survival strategy."
-          }
-        ]
-      }
-    },
-    "5": {
-      "skill": "reading",
-      "engine": "word-runner",
-      "title": "Word Runner",
-      "blurb": "Run through a lane of academic words, choosing the right meaning at full speed.",
-      "data": {
-        "items": [
-          {
-            "word": "assess",
-            "correct": "to judge the value or quality of something",
-            "options": [
-              "to judge the value or quality of something",
-              "to ignore entirely",
-              "to build quickly",
-              "to repeat aloud"
-            ]
-          },
-          {
-            "word": "benefit",
-            "correct": "a helpful or useful advantage",
-            "options": [
-              "a helpful or useful advantage",
-              "a serious danger",
-              "a small noise",
-              "a written warning"
-            ]
-          },
-          {
-            "word": "crucial",
-            "correct": "extremely important",
-            "options": [
-              "extremely important",
-              "totally pointless",
-              "slightly amusing",
-              "barely visible"
-            ]
-          },
-          {
-            "word": "diminish",
-            "correct": "to become or make smaller",
-            "options": [
-              "to become or make smaller",
-              "to grow rapidly",
-              "to stay the same",
-              "to repeat often"
-            ]
-          },
-          {
-            "word": "enhance",
-            "correct": "to improve the quality of something",
-            "options": [
-              "to improve the quality of something",
-              "to break apart",
-              "to keep secret",
-              "to count again"
-            ]
-          },
-          {
-            "word": "foster",
-            "correct": "to encourage the growth of something",
-            "options": [
-              "to encourage the growth of something",
-              "to forbid strictly",
-              "to measure exactly",
-              "to hide away"
-            ]
-          },
-          {
-            "word": "generate",
-            "correct": "to produce or create something",
-            "options": [
-              "to produce or create something",
-              "to destroy fully",
-              "to delay endlessly",
-              "to question loudly"
-            ]
-          },
-          {
-            "word": "hinder",
-            "correct": "to make progress difficult",
-            "options": [
-              "to make progress difficult",
-              "to speed up greatly",
-              "to decorate richly",
-              "to summarize briefly"
-            ]
-          }
-        ]
-      }
-    },
-    "6": {
-      "skill": "writing",
-      "engine": "sentence-builder",
-      "title": "Sentence Builder II",
-      "blurb": "Practice writing by unscrambling six academic sentences into proper order.",
-      "data": {
-        "items": [
-          {
-            "answer": "Scientists carefully recorded the temperature every single hour."
-          },
-          {
-            "answer": "The library will remain open during the entire exam period."
-          },
-          {
-            "answer": "A balanced diet contributes greatly to overall good health."
-          },
-          {
-            "answer": "The historian described how the empire slowly collapsed."
-          },
-          {
-            "answer": "Most experts agree that early planning prevents many problems."
-          },
-          {
-            "answer": "The lecture explored the origins of modern human language."
-          }
-        ]
-      }
-    },
-    "7": {
       "skill": "listening",
       "engine": "dictation-arcade",
       "title": "Dictation Arcade III",
@@ -391,7 +86,7 @@ const CONTENT = {
         ]
       }
     },
-    "8": {
+    "2": {
       "skill": "listening",
       "engine": "vocab-galaxy",
       "title": "Vocab Galaxy: Lecture Words",
@@ -481,7 +176,7 @@ const CONTENT = {
         ]
       }
     },
-    "9": {
+    "3": {
       "skill": "listening",
       "engine": "dictation-arcade",
       "title": "Dictation Arcade IV",
@@ -497,7 +192,7 @@ const CONTENT = {
         ]
       }
     },
-    "10": {
+    "4": {
       "skill": "listening",
       "engine": "bubble-match",
       "title": "Bubble Match: Audio",
@@ -587,7 +282,7 @@ const CONTENT = {
         ]
       }
     },
-    "11": {
+    "5": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Lecture Lines",
@@ -603,7 +298,7 @@ const CONTENT = {
         ]
       }
     },
-    "12": {
+    "6": {
       "skill": "listening",
       "engine": "word-cascade",
       "title": "Word Cascade: Audio",
@@ -693,7 +388,7 @@ const CONTENT = {
         ]
       }
     },
-    "13": {
+    "7": {
       "skill": "listening",
       "engine": "dictation-arcade",
       "title": "Dictation Arcade V",
@@ -709,7 +404,7 @@ const CONTENT = {
         ]
       }
     },
-    "14": {
+    "8": {
       "skill": "listening",
       "engine": "cube-match",
       "title": "Cube Match: Audio",
@@ -799,7 +494,7 @@ const CONTENT = {
         ]
       }
     },
-    "15": {
+    "9": {
       "skill": "listening",
       "engine": "dictation-arcade",
       "title": "Dictation Arcade VI",
@@ -815,7 +510,7 @@ const CONTENT = {
         ]
       }
     },
-    "16": {
+    "10": {
       "skill": "listening",
       "engine": "word-runner",
       "title": "Word Runner: Audio",
@@ -905,7 +600,7 @@ const CONTENT = {
         ]
       }
     },
-    "17": {
+    "11": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Discussion",
@@ -921,7 +616,7 @@ const CONTENT = {
         ]
       }
     },
-    "18": {
+    "12": {
       "skill": "reading",
       "engine": "inference-detective",
       "title": "Inference Detective III",
@@ -979,7 +674,7 @@ const CONTENT = {
         ]
       }
     },
-    "19": {
+    "13": {
       "skill": "listening",
       "engine": "dictation-arcade",
       "title": "Dictation Arcade VII",
@@ -995,7 +690,7 @@ const CONTENT = {
         ]
       }
     },
-    "20": {
+    "14": {
       "skill": "listening",
       "engine": "vocab-galaxy",
       "title": "Vocab Galaxy: Chapter Finale",
@@ -1085,7 +780,7 @@ const CONTENT = {
         ]
       }
     },
-    "21": {
+    "15": {
       "skill": "reading",
       "engine": "inference-detective",
       "title": "Inference Detective IV",
@@ -1143,7 +838,7 @@ const CONTENT = {
         ]
       }
     },
-    "22": {
+    "16": {
       "skill": "reading",
       "engine": "vocab-galaxy",
       "title": "Vocab Galaxy: Reading Words",
@@ -1233,7 +928,7 @@ const CONTENT = {
         ]
       }
     },
-    "23": {
+    "17": {
       "skill": "reading",
       "engine": "word-cascade",
       "title": "Word Cascade: Reading",
@@ -1323,7 +1018,7 @@ const CONTENT = {
         ]
       }
     },
-    "24": {
+    "18": {
       "skill": "reading",
       "engine": "inference-detective",
       "title": "Inference Detective V",
@@ -1381,7 +1076,7 @@ const CONTENT = {
         ]
       }
     },
-    "25": {
+    "19": {
       "skill": "reading",
       "engine": "bubble-match",
       "title": "Bubble Match: Reading",
@@ -1471,7 +1166,7 @@ const CONTENT = {
         ]
       }
     },
-    "26": {
+    "20": {
       "skill": "writing",
       "engine": "sentence-builder",
       "title": "Sentence Builder III",
@@ -1499,7 +1194,7 @@ const CONTENT = {
         ]
       }
     },
-    "27": {
+    "21": {
       "skill": "reading",
       "engine": "word-runner",
       "title": "Word Runner: Reading",
@@ -1589,7 +1284,7 @@ const CONTENT = {
         ]
       }
     },
-    "28": {
+    "22": {
       "skill": "reading",
       "engine": "inference-detective",
       "title": "Inference Detective VI",
@@ -1647,7 +1342,7 @@ const CONTENT = {
         ]
       }
     },
-    "29": {
+    "23": {
       "skill": "reading",
       "engine": "cube-match",
       "title": "Cube Match: Reading",
@@ -1737,7 +1432,7 @@ const CONTENT = {
         ]
       }
     },
-    "30": {
+    "24": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Reading Aloud",
@@ -1753,7 +1448,7 @@ const CONTENT = {
         ]
       }
     },
-    "31": {
+    "25": {
       "skill": "reading",
       "engine": "vocab-galaxy",
       "title": "Vocab Galaxy: Reading Depth",
@@ -1843,7 +1538,7 @@ const CONTENT = {
         ]
       }
     },
-    "32": {
+    "26": {
       "skill": "reading",
       "engine": "grammar-invaders",
       "title": "Grammar Invaders: Hold the Line",
@@ -1913,7 +1608,7 @@ const CONTENT = {
         ]
       }
     },
-    "33": {
+    "27": {
       "skill": "reading",
       "engine": "word-tower-3d",
       "title": "Word Tower 3D: Stack the Meaning",
@@ -2003,7 +1698,7 @@ const CONTENT = {
         ]
       }
     },
-    "34": {
+    "28": {
       "skill": "reading",
       "engine": "sentence-surgeon",
       "title": "Sentence Surgeon: Cut the Errors",
@@ -2073,7 +1768,7 @@ const CONTENT = {
         ]
       }
     },
-    "35": {
+    "29": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Say It Back",
@@ -2089,7 +1784,7 @@ const CONTENT = {
         ]
       }
     },
-    "36": {
+    "30": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: Think and Speak",
@@ -2104,7 +1799,7 @@ const CONTENT = {
         ]
       }
     },
-    "37": {
+    "31": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Mirror the Lecture",
@@ -2120,7 +1815,7 @@ const CONTENT = {
         ]
       }
     },
-    "38": {
+    "32": {
       "skill": "listening",
       "engine": "listening-quiz",
       "title": "Listening Quiz: Catch the Detail",
@@ -2195,7 +1890,7 @@ const CONTENT = {
         ]
       }
     },
-    "39": {
+    "33": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Repeat with Rhythm",
@@ -2211,7 +1906,7 @@ const CONTENT = {
         ]
       }
     },
-    "40": {
+    "34": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: On the Spot",
@@ -2226,7 +1921,7 @@ const CONTENT = {
         ]
       }
     },
-    "41": {
+    "35": {
       "skill": "listening",
       "engine": "dictation-arcade",
       "title": "Dictation Arcade: Type What You Hear",
@@ -2242,7 +1937,7 @@ const CONTENT = {
         ]
       }
     },
-    "42": {
+    "36": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Find Your Voice",
@@ -2258,7 +1953,7 @@ const CONTENT = {
         ]
       }
     },
-    "43": {
+    "37": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: Speak Your Mind",
@@ -2273,7 +1968,7 @@ const CONTENT = {
         ]
       }
     },
-    "44": {
+    "38": {
       "skill": "reading",
       "engine": "vocab-tetris",
       "title": "Vocab Tetris: Drop the Right Meaning",
@@ -2363,7 +2058,7 @@ const CONTENT = {
         ]
       }
     },
-    "45": {
+    "39": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Echo the Experts",
@@ -2379,7 +2074,7 @@ const CONTENT = {
         ]
       }
     },
-    "46": {
+    "40": {
       "skill": "listening",
       "engine": "listening-quiz",
       "title": "Listening Quiz: Tune Your Ear",
@@ -2454,7 +2149,7 @@ const CONTENT = {
         ]
       }
     },
-    "47": {
+    "41": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: Quick Takes",
@@ -2469,7 +2164,7 @@ const CONTENT = {
         ]
       }
     },
-    "48": {
+    "42": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Last Words",
@@ -2485,7 +2180,7 @@ const CONTENT = {
         ]
       }
     },
-    "49": {
+    "43": {
       "skill": "writing",
       "engine": "email-composer",
       "title": "Inbox: Office Hours",
@@ -2531,7 +2226,7 @@ const CONTENT = {
         ]
       }
     },
-    "50": {
+    "44": {
       "skill": "writing",
       "engine": "sentence-builder",
       "title": "Sentence Scramble I",
@@ -2559,7 +2254,7 @@ const CONTENT = {
         ]
       }
     },
-    "51": {
+    "45": {
       "skill": "writing",
       "engine": "email-composer",
       "title": "Inbox: Asking for Help",
@@ -2605,7 +2300,7 @@ const CONTENT = {
         ]
       }
     },
-    "52": {
+    "46": {
       "skill": "writing",
       "engine": "sentence-surgeon",
       "title": "Grammar ER I",
@@ -2675,7 +2370,7 @@ const CONTENT = {
         ]
       }
     },
-    "53": {
+    "47": {
       "skill": "writing",
       "engine": "email-composer",
       "title": "Inbox: Dorm Life",
@@ -2721,7 +2416,7 @@ const CONTENT = {
         ]
       }
     },
-    "54": {
+    "48": {
       "skill": "writing",
       "engine": "grammar-invaders",
       "title": "Grammar Invaders I",
@@ -2791,7 +2486,7 @@ const CONTENT = {
         ]
       }
     },
-    "55": {
+    "49": {
       "skill": "writing",
       "engine": "email-composer",
       "title": "Inbox: Joining In",
@@ -2837,7 +2532,7 @@ const CONTENT = {
         ]
       }
     },
-    "56": {
+    "50": {
       "skill": "writing",
       "engine": "sentence-builder",
       "title": "Sentence Scramble II",
@@ -2865,7 +2560,7 @@ const CONTENT = {
         ]
       }
     },
-    "57": {
+    "51": {
       "skill": "writing",
       "engine": "email-composer",
       "title": "Inbox: Smoothing Things Over",
@@ -2911,7 +2606,7 @@ const CONTENT = {
         ]
       }
     },
-    "58": {
+    "52": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Debate Hall I",
@@ -2967,7 +2662,7 @@ const CONTENT = {
         ]
       }
     },
-    "59": {
+    "53": {
       "skill": "writing",
       "engine": "email-composer",
       "title": "Inbox: Getting Information",
@@ -3013,7 +2708,7 @@ const CONTENT = {
         ]
       }
     },
-    "60": {
+    "54": {
       "skill": "writing",
       "engine": "sentence-surgeon",
       "title": "Grammar ER II",
@@ -3083,7 +2778,7 @@ const CONTENT = {
         ]
       }
     },
-    "61": {
+    "55": {
       "skill": "writing",
       "engine": "email-composer",
       "title": "Inbox: Following Up",
@@ -3129,7 +2824,7 @@ const CONTENT = {
         ]
       }
     },
-    "62": {
+    "56": {
       "skill": "writing",
       "engine": "sentence-builder",
       "title": "Sentence Scramble III",
@@ -3157,7 +2852,7 @@ const CONTENT = {
         ]
       }
     },
-    "63": {
+    "57": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: Daily Choices",
@@ -3172,7 +2867,7 @@ const CONTENT = {
         ]
       }
     },
-    "64": {
+    "58": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Campus Conversations",
@@ -3188,7 +2883,7 @@ const CONTENT = {
         ]
       }
     },
-    "65": {
+    "59": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: Learning & School",
@@ -3203,7 +2898,7 @@ const CONTENT = {
         ]
       }
     },
-    "66": {
+    "60": {
       "skill": "listening",
       "engine": "listening-quiz",
       "title": "Listening Quiz: Short Lectures",
@@ -3278,7 +2973,7 @@ const CONTENT = {
         ]
       }
     },
-    "67": {
+    "61": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: Technology & Life",
@@ -3293,7 +2988,7 @@ const CONTENT = {
         ]
       }
     },
-    "68": {
+    "62": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Everyday Errands",
@@ -3309,7 +3004,7 @@ const CONTENT = {
         ]
       }
     },
-    "69": {
+    "63": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: Society & Choices",
@@ -3324,7 +3019,7 @@ const CONTENT = {
         ]
       }
     },
-    "70": {
+    "64": {
       "skill": "reading",
       "engine": "vocab-dungeon",
       "title": "Vocab Dungeon: Words in Context",
@@ -3394,7 +3089,7 @@ const CONTENT = {
         ]
       }
     },
-    "71": {
+    "65": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: Travel & Experience",
@@ -3409,7 +3104,7 @@ const CONTENT = {
         ]
       }
     },
-    "72": {
+    "66": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Group Projects",
@@ -3425,7 +3120,7 @@ const CONTENT = {
         ]
       }
     },
-    "73": {
+    "67": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: Work & Goals",
@@ -3440,7 +3135,7 @@ const CONTENT = {
         ]
       }
     },
-    "74": {
+    "68": {
       "skill": "listening",
       "engine": "listening-quiz",
       "title": "Listening Quiz: Talks & Announcements",
@@ -3515,7 +3210,7 @@ const CONTENT = {
         ]
       }
     },
-    "75": {
+    "69": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: Self & Reflection",
@@ -3530,7 +3225,7 @@ const CONTENT = {
         ]
       }
     },
-    "76": {
+    "70": {
       "skill": "reading",
       "engine": "synonym-snake",
       "title": "Synonym Snake: C-Word Roundup",
@@ -3620,7 +3315,7 @@ const CONTENT = {
         ]
       }
     },
-    "77": {
+    "71": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "The Online Classroom",
@@ -3676,7 +3371,7 @@ const CONTENT = {
         ]
       }
     },
-    "78": {
+    "72": {
       "skill": "writing",
       "engine": "sentence-builder",
       "title": "Build the Argument",
@@ -3704,7 +3399,7 @@ const CONTENT = {
         ]
       }
     },
-    "79": {
+    "73": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Screens and Childhood",
@@ -3760,7 +3455,7 @@ const CONTENT = {
         ]
       }
     },
-    "80": {
+    "74": {
       "skill": "writing",
       "engine": "grammar-invaders",
       "title": "Grammar Defense",
@@ -3830,7 +3525,7 @@ const CONTENT = {
         ]
       }
     },
-    "81": {
+    "75": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Cities of Tomorrow",
@@ -3886,7 +3581,7 @@ const CONTENT = {
         ]
       }
     },
-    "82": {
+    "76": {
       "skill": "writing",
       "engine": "email-composer",
       "title": "Inbox Diplomacy",
@@ -3932,7 +3627,7 @@ const CONTENT = {
         ]
       }
     },
-    "83": {
+    "77": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "The Price of Progress",
@@ -3988,7 +3683,7 @@ const CONTENT = {
         ]
       }
     },
-    "84": {
+    "78": {
       "skill": "writing",
       "engine": "sentence-surgeon",
       "title": "Sentence Surgery",
@@ -4058,7 +3753,7 @@ const CONTENT = {
         ]
       }
     },
-    "85": {
+    "79": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Wild Spaces",
@@ -4114,7 +3809,7 @@ const CONTENT = {
         ]
       }
     },
-    "86": {
+    "80": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "The Working Life",
@@ -4170,7 +3865,7 @@ const CONTENT = {
         ]
       }
     },
-    "87": {
+    "81": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Truth in the Feed",
@@ -4226,7 +3921,7 @@ const CONTENT = {
         ]
       }
     },
-    "88": {
+    "82": {
       "skill": "writing",
       "engine": "sentence-builder",
       "title": "Rebuild the Thesis",
@@ -4254,7 +3949,7 @@ const CONTENT = {
         ]
       }
     },
-    "89": {
+    "83": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Lines We Draw",
@@ -4310,7 +4005,7 @@ const CONTENT = {
         ]
       }
     },
-    "90": {
+    "84": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Living Together",
@@ -4366,7 +4061,7 @@ const CONTENT = {
         ]
       }
     },
-    "91": {
+    "85": {
       "skill": "reading",
       "engine": "vocab-dungeon",
       "title": "Vocab Dungeon: Module 1 Gate",
@@ -4436,7 +4131,7 @@ const CONTENT = {
         ]
       }
     },
-    "92": {
+    "86": {
       "skill": "listening",
       "engine": "listening-quiz",
       "title": "Listening Quiz: Lecture Lab",
@@ -4511,7 +4206,7 @@ const CONTENT = {
         ]
       }
     },
-    "93": {
+    "87": {
       "skill": "reading",
       "engine": "word-tower-3d",
       "title": "Word Tower 3D: Con- Climb",
@@ -4601,7 +4296,7 @@ const CONTENT = {
         ]
       }
     },
-    "94": {
+    "88": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Discussion Arena: Take a Stand",
@@ -4657,7 +4352,7 @@ const CONTENT = {
         ]
       }
     },
-    "95": {
+    "89": {
       "skill": "reading",
       "engine": "grammar-invaders",
       "title": "Grammar Invaders: Sentence Defense",
@@ -4727,7 +4422,7 @@ const CONTENT = {
         ]
       }
     },
-    "96": {
+    "90": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Echo Mic: Repeat the Lecture",
@@ -4743,7 +4438,7 @@ const CONTENT = {
         ]
       }
     },
-    "97": {
+    "91": {
       "skill": "reading",
       "engine": "vocab-tetris",
       "title": "Vocab Tetris: De- Drop",
@@ -4833,7 +4528,7 @@ const CONTENT = {
         ]
       }
     },
-    "98": {
+    "92": {
       "skill": "reading",
       "engine": "inference-detective",
       "title": "Inference Detective: Read Between the Lines",
@@ -4903,7 +4598,7 @@ const CONTENT = {
         ]
       }
     },
-    "99": {
+    "93": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Rapid Interview: 45-Second Sprint",
@@ -4918,7 +4613,7 @@ const CONTENT = {
         ]
       }
     },
-    "100": {
+    "94": {
       "skill": "reading",
       "engine": "synonym-snake",
       "title": "Synonym Snake: Dis- to E- Trail",
@@ -5008,7 +4703,7 @@ const CONTENT = {
         ]
       }
     },
-    "101": {
+    "95": {
       "skill": "listening",
       "engine": "dictation-arcade",
       "title": "Dictation Arcade: Module 1 Replay",
@@ -5024,7 +4719,7 @@ const CONTENT = {
         ]
       }
     },
-    "102": {
+    "96": {
       "skill": "writing",
       "engine": "email-composer",
       "title": "Email Composer: Real-World Inbox",
@@ -5070,7 +4765,7 @@ const CONTENT = {
         ]
       }
     },
-    "103": {
+    "97": {
       "skill": "reading",
       "engine": "cube-match",
       "title": "Cube Match: E-Word Faces",
@@ -5160,7 +4855,7 @@ const CONTENT = {
         ]
       }
     },
-    "104": {
+    "98": {
       "skill": "reading",
       "engine": "sentence-surgeon",
       "title": "Sentence Surgeon: Operate to Repair",
@@ -5230,7 +4925,7 @@ const CONTENT = {
         ]
       }
     },
-    "105": {
+    "99": {
       "skill": "reading",
       "engine": "mock-gauntlet",
       "title": "Mock 1 · Reading Gauntlet",
@@ -5336,7 +5031,7 @@ const CONTENT = {
         ]
       }
     },
-    "106": {
+    "100": {
       "skill": "listening",
       "engine": "listening-quiz",
       "title": "Mock 1 · Listening Quiz",
@@ -5411,7 +5106,7 @@ const CONTENT = {
         ]
       }
     },
-    "107": {
+    "101": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Mock 1 · Speaking Sprint",
@@ -5426,7 +5121,7 @@ const CONTENT = {
         ]
       }
     },
-    "108": {
+    "102": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Mock 1 · Writing Arena",
@@ -5482,7 +5177,7 @@ const CONTENT = {
         ]
       }
     },
-    "109": {
+    "103": {
       "skill": "reading",
       "engine": "mock-gauntlet",
       "title": "Mock 2 · Reading Gauntlet",
@@ -5588,7 +5283,7 @@ const CONTENT = {
         ]
       }
     },
-    "110": {
+    "104": {
       "skill": "listening",
       "engine": "listening-quiz",
       "title": "Mock 2 · Listening Quiz",
@@ -5663,7 +5358,7 @@ const CONTENT = {
         ]
       }
     },
-    "111": {
+    "105": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Mock 2 · Speaking Sprint",
@@ -5678,7 +5373,7 @@ const CONTENT = {
         ]
       }
     },
-    "112": {
+    "106": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Mock 2 · Writing Arena",
@@ -5734,7 +5429,7 @@ const CONTENT = {
         ]
       }
     },
-    "113": {
+    "107": {
       "skill": "reading",
       "engine": "mock-gauntlet",
       "title": "Mock 3 · Reading Gauntlet",
@@ -5840,7 +5535,7 @@ const CONTENT = {
         ]
       }
     },
-    "114": {
+    "108": {
       "skill": "listening",
       "engine": "listening-quiz",
       "title": "Mock 3 · Listening Quiz",
@@ -5915,7 +5610,7 @@ const CONTENT = {
         ]
       }
     },
-    "115": {
+    "109": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Mock 3 · Speaking Sprint",
@@ -5930,7 +5625,7 @@ const CONTENT = {
         ]
       }
     },
-    "116": {
+    "110": {
       "skill": "reading",
       "engine": "mock-gauntlet",
       "title": "Mock 4 · Reading Gauntlet",
@@ -6036,7 +5731,7 @@ const CONTENT = {
         ]
       }
     },
-    "117": {
+    "111": {
       "skill": "writing",
       "engine": "discussion-arena",
       "title": "Mock 4 · Writing Arena",
@@ -6092,7 +5787,7 @@ const CONTENT = {
         ]
       }
     },
-    "118": {
+    "112": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Mock 4 · Speaking Sprint",
@@ -6107,7 +5802,7 @@ const CONTENT = {
         ]
       }
     },
-    "119": {
+    "113": {
       "skill": "reading",
       "engine": "inference-detective",
       "title": "Taper · Inference Detective",
@@ -6177,7 +5872,7 @@ const CONTENT = {
         ]
       }
     },
-    "120": {
+    "114": {
       "skill": "speaking",
       "engine": "echo-mic",
       "title": "Taper · Echo Mic",
@@ -6193,7 +5888,7 @@ const CONTENT = {
         ]
       }
     },
-    "121": {
+    "115": {
       "skill": "reading",
       "engine": "vocab-tetris",
       "title": "Taper · Vocab Tetris",
@@ -6283,18 +5978,18 @@ const CONTENT = {
         ]
       }
     },
-    "122": {
+    "116": {
       "skill": "speaking",
       "engine": "rapid-interview",
       "title": "Final Day · Victory Lap Speaking",
-      "blurb": "You made it to day 122 — speak with the confidence you have earned!",
+      "blurb": "You made it to day 116 — speak with the confidence you have earned!",
       "data": {
         "seconds": 45,
         "prompts": [
-          "Describe how your English has improved over the last 122 days of practice.",
+          "Describe how your English has improved over the last 116 days of practice.",
           "What part of the TOEFL exam now feels easiest to you, and why?",
           "Imagine you just finished the real test. Tell a friend how it went and what helped most.",
-          "Give one piece of encouragement to someone just starting their own 122-day study journey."
+          "Give one piece of encouragement to someone just starting their own 116-day study journey."
         ]
       }
     }

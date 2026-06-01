@@ -1,4 +1,4 @@
-# Ch.4 · Speaking — Listen & Repeat Focus (6/29 – 7/12)
+# Ch.3 · Speaking — Listen & Repeat Focus (6/29 – 7/12)
 
 > **Days:** 14 (Day 1 = Mon 6/29, Day 14 = Sun 7/12)
 > **Emphasis:** Speaking Task 1 (Listen & Repeat). Shadowing intensified.
@@ -27,7 +27,7 @@ These are **exactly** what shadowing trains. Hamada (2016) and the 2025 Tandfonl
 - **G3 — Consonant clarity:** final consonants and *th / v / r* sounds intelligible to AI scorer
 - **G4 — Shadowing volume:** ≥ 14 sessions in chapter (= daily), with last-week recordings noticeably better than first-week
 - **G5 — Other skills maintained:** Reading Module 1 still ≥ 80%; Listening lecture still ≥ 5/6
-- **G6 — Interview not neglected:** at least 4 Interview practice sessions completed (prep for Ch.6)
+- **G6 — Interview not neglected:** at least 4 Interview practice sessions completed (prep for Ch.5)
 
 ---
 
@@ -39,7 +39,7 @@ These are **exactly** what shadowing trains. Hamada (2016) and the 2025 Tandfonl
 2. **Daily 5-min "sentence-level Listen & Repeat" drill** added between Anki and Shadowing — using **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/).
 3. The Sunday MAIN slot becomes a **7-item L&R micro-mock**.
 
-**New daily template for Ch.4 (still 90 min total):**
+**New daily template for Ch.3 (still 90 min total):**
 
 ```
 00:00–00:15  ▌ Anki
@@ -76,7 +76,7 @@ Weekly counts (incl. doubled Shadowing as L+S): S = 2 MAIN + 2 SEC + 1 combined 
 - [ ] **0:00–0:15** Anki — 20 new, prioritize **R-ANKI-2** Barron's TOEFL (https://ankiweb.net/shared/info/973421516); clear all due reviews
 - [ ] **0:15–0:20** **Sentence-level L&R drill** — Open **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/). Play any episode. Pick 5 sentences (~8–15 words each). For each: pause after the sentence → repeat aloud from memory → re-listen. Tally how many you nailed verbatim (target ≥ 3/5).
 - [ ] **0:20–0:50** **Shadowing 30 min** — Pick a 5-min TED-Ed (**R-SHAD-1**, https://ed.ted.com/lessons). Run **3-pass protocol twice** (= 6 passes total): each cycle is blind → transcript → record-compare. Save recording as `D1_Shadow` for end-of-chapter A/B compare.
-- [ ] **0:50–1:20** **L&R 7-item micro-mock** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → log in → Speaking section → Listen & Repeat task. Record each item into phone Voice Memos as `D1_LR_1`…`D1_LR_7`. Upload to **R-AI-1** PrepEx (https://prepex.ai) for scoring. Log exact-match count (X/7) in Ch.4 Review Card under "Day 1 baseline".
+- [ ] **0:50–1:20** **L&R 7-item micro-mock** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → log in → Speaking section → Listen & Repeat task. Record each item into phone Voice Memos as `D1_LR_1`…`D1_LR_7`. Upload to **R-AI-1** PrepEx (https://prepex.ai) for scoring. Log exact-match count (X/7) in Ch.3 Review Card under "Day 1 baseline".
 - [ ] **1:20–1:30** Writing SECONDARY — 1 Build-a-Sentence item from **R-OFF-1**, log any grammar slip in error log
 
 ---
@@ -95,7 +95,7 @@ Weekly counts (incl. doubled Shadowing as L+S): S = 2 MAIN + 2 SEC + 1 combined 
 
 ### 📅 Day 3 · Wed 7/1 — L MAIN / S SECONDARY (Interview)
 
-> **Today's focus:** Keep Listening lecture comprehension at ≥ 5/6 and start banking weekly Interview reps so Ch.6 doesn't start cold.
+> **Today's focus:** Keep Listening lecture comprehension at ≥ 5/6 and start banking weekly Interview reps so Ch.5 doesn't start cold.
 
 - [ ] Anki (20 new + reviews) + Sentence-level L&R drill (5 from **R-SHAD-3**) + Shadowing 30 min (3-pass × 2 on **R-SHAD-1**)
 - [ ] **0:50–1:20** **Listening MAIN** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening → 1 lecture + 1 conversation, take Cornell-style notes. Score; target lecture ≥ 5/6. Log result.
@@ -105,7 +105,7 @@ Weekly counts (incl. doubled Shadowing as L+S): S = 2 MAIN + 2 SEC + 1 combined 
 
 ### 📅 Day 4 · Thu 7/2 — W MAIN / R SECONDARY
 
-> **Today's focus:** Hold Writing Discussion rhythm with a single hard-timed rep so Ch.5 starts from a known score.
+> **Today's focus:** Hold Writing Discussion rhythm with a single hard-timed rep so Ch.4 starts from a known score.
 
 - [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
 - [ ] **0:50–1:20** **Writing MAIN** — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Writing → Discussion task, strict 10-min timer. Paste response into **R-AI-2** FluentPrep (https://www.fluentprep.online/) for rubric scoring. Log score and 1 weakness.
@@ -135,7 +135,7 @@ Weekly counts (incl. doubled Shadowing as L+S): S = 2 MAIN + 2 SEC + 1 combined 
 
 ### 📅 Day 7 · Sun 7/5 — L+S combined / W secondary
 
-> **Today's focus:** Bridge Listening and Speaking under one task — a lecture-summary rep that previews Ch.8's integrated work.
+> **Today's focus:** Bridge Listening and Speaking under one task — a lecture-summary rep that previews Ch.7's integrated work.
 
 - [ ] Anki (20 new + ~60 reviews) + Sentence-level L&R drill — 5 sentences from **R-SHAD-3** Scientific American 60-Second Science (https://www.scientificamerican.com/podcast/60-second-science/) + Shadowing 30 min — pick a 5-min **R-SHAD-1** TED-Ed (https://ed.ted.com/lessons), 3-pass protocol × 2
 - [ ] **0:50–1:20** **L+S combined** — Pick a 10-min talk from **R-SHAD-2** TED Talks (https://www.ted.com/talks), filter 5–10 min. Listen once with notes. Record a 90-sec spoken summary into Voice Memos as `D7_Summary`. Re-listen to original; mark any key point you missed.
@@ -205,20 +205,20 @@ Weekly counts (incl. doubled Shadowing as L+S): S = 2 MAIN + 2 SEC + 1 combined 
 
 ### 📅 Day 14 · Sun 7/12 — 🎯 Bi-week review + Showcase L&R + Listening preserve mock
 
-> **Today's focus:** Verdict day — score the showcase L&R against the ≥ 80% chapter goal and fill in the Ch.4 Review Card that drives Ch.5 modifications.
+> **Today's focus:** Verdict day — score the showcase L&R against the ≥ 80% chapter goal and fill in the Ch.3 Review Card that drives Ch.4 modifications.
 
 - [ ] **0:00–0:15** Anki — clear all due reviews
 - [ ] **0:15–0:20** Sentence-level L&R drill — 5 from **R-SHAD-3** (https://www.scientificamerican.com/podcast/60-second-science/), one last time
 - [ ] **0:20–0:50** Shadowing 30 min — **R-SHAD-1** (https://ed.ted.com/lessons), 3-pass × 2. Then play `D1_Shadow` and `D13_Shadow` back to back; note "improvement: Yes / Partial / No" for Review Card.
 - [ ] **0:50–1:15** **🎯 Showcase L&R** — **R-OFF-1** (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → L&R, fresh 7-item set. Record as `D14_LR_1`…`D14_LR_7`. Score via **R-AI-1** PrepEx (https://prepex.ai) + self-check. Goal: ≥ 80% exact match (≥ 6/7). Also run the 12-word novel-sentence test once (ask a friend or use a fresh **R-SHAD-3** sentence) and log error count.
-- [ ] **1:15–1:30** **Listening preserve drill** — 5 items from a fresh **R-OFF-1** lecture, **no notes** today (test bare recall). Log _/5. Then fill in the Ch.4 Review Card below.
+- [ ] **1:15–1:30** **Listening preserve drill** — 5 items from a fresh **R-OFF-1** lecture, **no notes** today (test bare recall). Log _/5. Then fill in the Ch.3 Review Card below.
 
 ---
 
-## 5 · Ch.4 Review Card (Day 14)
+## 5 · Ch.3 Review Card (Day 14)
 
 ```markdown
-## Ch.4 Review (7/12)
+## Ch.3 Review (7/12)
 
 ### Goal: Listen & Repeat exact-match ≥ 80%
 - Day 1 baseline: __ / 7
@@ -235,8 +235,8 @@ Weekly counts (incl. doubled Shadowing as L+S): S = 2 MAIN + 2 SEC + 1 combined 
 - Re-listened to Day 1 vs Day 13 recording — visible improvement? Yes / Partial / No
 - If "No" → diagnose: am I doing the 3-pass protocol fully? Recording every session?
 
-### Modification orders for Ch.5 (Writing — Email + Build a Sentence)
-- If L&R < 80% → keep 30-min Shadowing daily in Ch.5 (don't drop to 15)
+### Modification orders for Ch.4 (Writing — Email + Build a Sentence)
+- If L&R < 80% → keep 30-min Shadowing daily in Ch.4 (don't drop to 15)
 - If memory drop dominant → daily "11+ word sentence" repetition drill, 5 sentences
 - If pronunciation dominant → add 5-min minimal-pair drill (see resource note below)
 ```

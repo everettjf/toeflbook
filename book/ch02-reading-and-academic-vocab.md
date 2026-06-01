@@ -1,4 +1,4 @@
-# Ch.3 · Reading Foundation + Academic Vocabulary (6/15 – 6/28)
+# Ch.2 · Reading Foundation + Academic Vocabulary (6/15 – 6/28)
 
 > **Days:** 14 (Day 1 = Mon 6/15, Day 14 = Sun 6/28)
 > **Emphasis:** Reading (on top of standard rotation). Academic vocabulary deepens.
@@ -14,7 +14,7 @@
 - **G3 — Complete the Words:** ≥ 8/10 on missing-letter task in one attempt
 - **G4 — Academic vocab:** 200 new Barron's/AWL cards mature in Anki (interval ≥ 4 days)
 - **G5 — Inference accuracy:** inference-question subset ≥ 75% across chapter
-- **G6 — Listening doesn't backslide:** still hitting Day-13 Ch.2 level on a quick Listening drill
+- **G6 — Listening doesn't backslide:** still hitting Day-13 Ch.1 level on a quick Listening drill
 
 ---
 
@@ -69,12 +69,12 @@ Standard rotation per `README` § 2.2 still applies. **Three changes:**
 
 ### 📅 Day 3 · Wed 6/17 — L MAIN / S SECONDARY
 
-> **Today's focus:** Keep Listening on life-support while Reading takes the spotlight — protect Ch.2 gains.
+> **Today's focus:** Keep Listening on life-support while Reading takes the spotlight — protect Ch.1 gains.
 
 - [ ] Anki + Shadowing
-- [ ] **0:30–1:00** **Listening MAIN** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening → 1 lecture + 1 conversation. Log accuracy; compare to Ch.2 Day 13 baseline.
+- [ ] **0:30–1:00** **Listening MAIN** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Listening → 1 lecture + 1 conversation. Log accuracy; compare to Ch.1 Day 13 baseline.
 - [ ] **1:00–1:20** **Speaking SECONDARY** — **R-AI-1** PrepEx / Petra (https://prepex.ai) → Interview × 2. Save Petra's transcript + score.
-- [ ] **1:20–1:30** Error log — note any L score drop ≥ 5 pts vs. Ch.2 baseline.
+- [ ] **1:20–1:30** Error log — note any L score drop ≥ 5 pts vs. Ch.1 baseline.
 
 ---
 
@@ -91,7 +91,7 @@ Standard rotation per `README` § 2.2 still applies. **Three changes:**
 
 ### 📅 Day 5 · Fri 6/19 — S MAIN / L SECONDARY
 
-> **Today's focus:** Keep Speaking reps consistent so Ch.4's Listen & Repeat focus doesn't restart cold.
+> **Today's focus:** Keep Speaking reps consistent so Ch.3's Listen & Repeat focus doesn't restart cold.
 
 - [ ] Anki + Shadowing
 - [ ] **0:30–1:00** **Speaking MAIN** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → Listen & Repeat × 7, then **R-AI-1** PrepEx (https://prepex.ai) Interview × 2. Save both audio outputs.
@@ -168,7 +168,7 @@ Standard rotation per `README` § 2.2 still applies. **Three changes:**
 
 ### 📅 Day 12 · Fri 6/26 — S MAIN / L SECONDARY
 
-> **Today's focus:** Second weekly Speaking anchor — keep fluency warm before Ch.4's full Speaking pivot.
+> **Today's focus:** Second weekly Speaking anchor — keep fluency warm before Ch.3's full Speaking pivot.
 
 - [ ] Anki + Shadowing
 - [ ] **0:30–1:00** **Speaking MAIN** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Speaking → Listen & Repeat × 7, then **R-AI-1** PrepEx (https://prepex.ai) Interview × 2.
@@ -190,23 +190,23 @@ Standard rotation per `README` § 2.2 still applies. **Three changes:**
 
 ### 📅 Day 14 · Sun 6/28 — 🎯 Milestone 1 mock + Bi-week review
 
-> **Today's focus:** Milestone 1 — full Reading Section under exam timing decides whether Ch.4 proceeds normally or with R remediation.
+> **Today's focus:** Milestone 1 — full Reading Section under exam timing decides whether Ch.3 proceeds normally or with R remediation.
 
 - [ ] **0:00–0:15** Anki — due reviews only (no new cards before a mock).
 - [ ] **0:15–0:30** Shadowing — light **R-SHAD-3** (https://www.scientificamerican.com/podcast/60-second-science/) to warm up; skip the recording pass today.
 - [ ] **0:30–1:10** **🎯 Milestone 1 mock** — **R-OFF-1** ETS TestReady (https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html) → Reading → full Section (Module 1 + Module 2). Strict timing, no pauses. **Milestone gate:** Module 1 ≥ 85% required to proceed without remediation. Record raw + % per module.
-- [ ] **1:10–1:30** Fill out the Ch.3 Review Card below; mark PASS/HOLD/REDO and any Ch.4 modification orders.
+- [ ] **1:10–1:30** Fill out the Ch.2 Review Card below; mark PASS/HOLD/REDO and any Ch.3 modification orders.
 
 ---
 
-## 4 · Ch.3 Review Card (Day 14)
+## 4 · Ch.2 Review Card (Day 14)
 
 ```markdown
-## Ch.3 Review (6/28) — Milestone 1
+## Ch.2 Review (6/28) — Milestone 1
 
 ### Milestone 1: Reading Module 1
 - Score: __ / __  → %: __
-- **PASS** (≥ 85%) / **HOLD** (75–84%, do 1 more week of R drills in Ch.4) / **REDO** (< 75%, extend R focus into Ch.4)
+- **PASS** (≥ 85%) / **HOLD** (75–84%, do 1 more week of R drills in Ch.3) / **REDO** (< 75%, extend R focus into Ch.3)
 
 ### Goals self-check
 - [ ] G1 Module 1 ≥ 85%
@@ -221,10 +221,10 @@ Standard rotation per `README` § 2.2 still applies. **Three changes:**
 - Most common R question type missed: ______ (inference / vocab-in-context / detail / negative-fact / paragraph-purpose)
 - Average time per passage: __ min
 
-### Modification orders for Ch.4 (Speaking — Listen & Repeat)
-- If Milestone 1 = REDO → keep Reading MAIN at 3×/week in Ch.4 (don't drop to 2)
-- If inference-type errors dominate → add 5-min "inference logic" warm-up daily in Ch.4
-- If Complete-the-Words < 8/10 → daily 1-paragraph CtW drill, every day in Ch.4
+### Modification orders for Ch.3 (Speaking — Listen & Repeat)
+- If Milestone 1 = REDO → keep Reading MAIN at 3×/week in Ch.3 (don't drop to 2)
+- If inference-type errors dominate → add 5-min "inference logic" warm-up daily in Ch.3
+- If Complete-the-Words < 8/10 → daily 1-paragraph CtW drill, every day in Ch.3
 ```
 
 ---
@@ -235,4 +235,4 @@ Standard rotation per `README` § 2.2 still applies. **Three changes:**
 2. **Vocab-in-context is a free point** if your Anki habit holds. If you're missing those, you're behind on Anki, not on reading.
 3. **Inference is not guessing.** Every inference answer is supported by a specific line in the text. Train yourself to **point to the line** before locking an answer.
 4. **Complete the Words tests morphology + spelling, not meaning.** Practice prefixes/suffixes separately; many missed letters are predictable from word family (e.g., *-tion, -ment, un-, in-*).
-5. **Don't skip Listening this chapter.** The Ch.2 gains evaporate in 2 weeks if you stop.
+5. **Don't skip Listening this chapter.** The Ch.1 gains evaporate in 2 weeks if you stop.
