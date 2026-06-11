@@ -2,7 +2,7 @@
    matches the word. 3D engine (Three.js, vendored offline).
    data: { items:[{word, correct, options:[...]}] } */
 TDG.engine("vocab-galaxy", {
-  uses: "vocab", label: "Vocab Galaxy", threeD: true,
+  uses: "vocab", label: "Vocab Galaxy", threeD: true, webgl: true,
   play(ctx) {
     const THREE = ctx.THREE;
     const { stage, data, hud, shuffle, esc } = ctx;

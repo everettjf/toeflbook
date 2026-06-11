@@ -12,7 +12,7 @@
     - `dictation` (dictation-arcade), `echo` (echo-mic), `prompts` (rapid-interview), `scramble` (sentence-builder).
     - 3D engines set `threeD:true`; WebGL engines (vocab-galaxy, word-tower-3d) include a DOM fallback when WebGL is unavailable.
   - `content.js` — `CONTENT` with `startDate`, `chapters`, and `days{}` (**all 116 days built**, 6/1 → 9/24; startDate 2026-06-01; one-time setup + 4-skill baseline folded into Ch.1 Day 1–2; fixed 9/26 exam). Each day declares `skill`, `engine`, `title`, `blurb`, `data` (shape must match the engine's `uses`). Validation rules: vocab `correct` must equal one of `options` verbatim and vocab words are globally unique; MCQ/`passage` `correct` is a 0-based index. Regenerate/merge with care — `/tmp/merge.js` pattern serializes days as JSON.
-  - `play.html?d=N` — single day template (loads content → three.min.js → core → all engines). `index.html` — calendar launcher. `lib/three.min.js` — vendored offline (3D works without internet).
+  - `play.html?d=N` — single day template (loads content → core → all engines; `lib/three.min.js` is **lazy-loaded by core** only when the picked engine sets `webgl:true`). `index.html` — calendar launcher. `lib/three.min.js` — vendored offline (3D works without internet).
   - Run via `make start` (serves on :8765). To add a day: add a `days[N]` entry; to add an engine: drop a file in `engines/` and `<script>` it in `play.html`.
 
 ## Output format rules

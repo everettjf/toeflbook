@@ -3,7 +3,7 @@
    session. 3D engine (Three.js, vendored offline).
    data: { items:[{word, correct, options:[...]}] } */
 TDG.engine("word-tower-3d", {
-  uses: "vocab", label: "Word Tower", threeD: true,
+  uses: "vocab", label: "Word Tower", threeD: true, webgl: true,
   play(ctx) {
     const THREE = ctx.THREE;
     const { stage, data, hud, shuffle, esc, rand } = ctx;

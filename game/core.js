@@ -14,6 +14,7 @@
      TDG.engine("word-runner", {
        uses: "vocab",        // data category (see DATA SHAPES below)
        threeD: false,        // optional — shows a 3D badge
+       webgl: false,         // optional — needs THREE; core lazy-loads lib/three.min.js
        label: "Word Runner", // optional friendly name
        play(ctx) { ... }     // build the game inside ctx.stage
      });
@@ -283,6 +284,19 @@
   }
   function on(el, ev, fn) { el.addEventListener(ev, fn); }
 
+  // ---------------- lazy THREE (603KB — only 2 of 20 engines need it) ----------------
+  let _threeLoading = null;
+  function loadTHREE() {
+    if (window.THREE) return Promise.resolve();
+    _threeLoading = _threeLoading || new Promise(res => {
+      const s = document.createElement("script");
+      s.src = "lib/three.min.js";
+      s.onload = res; s.onerror = res; // on failure, WebGL engines use their DOM fallback
+      document.head.appendChild(s);
+    });
+    return _threeLoading;
+  }
+
   // ---------------- router ----------------
   function start(day) {
     const cfg = CONTENT.days[day];
@@ -297,20 +311,26 @@
     let session = Progress.session(day);
     if (session && session.eng && session.eng !== name) session = null;
 
-    const helpers = {
-      stage, day, skill: cfg.skill, data: cfg.data, session,
-      hud: { setScore, setCombo, pop, bar: barHTML },
-      save(state) { Progress.saveSession(day, Object.assign({ eng: name }, state)); },
-      done(pct, msg) { result(day, pct, msg); },
-      speak: Speech.speak.bind(Speech), record: Speech.record.bind(Speech),
-      canTTS: Speech.canTTS, canSTT: Speech.canSTT,
-      compare, tokens, norm, shuffle, esc, rand, clamp, lerp, stars,
-      canvas: (h) => canvas(stage, h), raf, on, sound,
-      THREE: window.THREE || null,
-    };
     if (session && session.i) setScore("resumed · item " + (session.i + 1));
-    try { eng.play(helpers); }
-    catch (e) { console.error(e); stage.innerHTML = '<div class="card"><p>Game error: ' + esc(e.message) + "</p></div>"; }
+    function run() {
+      const helpers = {
+        stage, day, skill: cfg.skill, data: cfg.data, session,
+        hud: { setScore, setCombo, pop, bar: barHTML },
+        save(state) { Progress.saveSession(day, Object.assign({ eng: name }, state)); },
+        done(pct, msg) { result(day, pct, msg); },
+        speak: Speech.speak.bind(Speech), record: Speech.record.bind(Speech),
+        canTTS: Speech.canTTS, canSTT: Speech.canSTT,
+        compare, tokens, norm, shuffle, esc, rand, clamp, lerp, stars,
+        canvas: (h) => canvas(stage, h), raf, on, sound,
+        THREE: window.THREE || null,
+      };
+      try { eng.play(helpers); }
+      catch (e) { console.error(e); stage.innerHTML = '<div class="card"><p>Game error: ' + esc(e.message) + "</p></div>"; }
+    }
+    if (eng.webgl && !window.THREE) {
+      stage.innerHTML = '<div class="card"><p class="hint">Loading 3D engine…</p></div>';
+      loadTHREE().then(() => { stage.innerHTML = ""; run(); });
+    } else run();
   }
 
   window.TDG = {
